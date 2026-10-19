@@ -1,0 +1,931 @@
+{
+ "places": [
+  {
+   "name": "Memorial Park",
+   "category": "Park",
+   "lat": 40.92988,
+   "lng": -74.13953,
+   "address": "Avenue of Heroes (off Berdan Ave & 1st St), Fair Lawn, NJ 07410",
+   "description": "Fair Lawn's largest borough park (about 30 acres) on the Passaic River at the western end of Berdan Avenue. It has Memorial Pool and its spray park, Schmidt and DeJong ball fields, tennis courts, playgrounds, a fitness park, horseshoe pits, the Joe Gambucci street hockey court, a roller hockey rink, two picnic groves (including the covered Bob Chevrier Pavilion, which you can reserve), and the WWII memorial. It hosts the summer concerts on the Robert \"Scooter\" Young Special Event Stage, the fireworks, the end of the Memorial Day parade, the Halloween parade and the Holiday Parade of Lights. Parks close 30 minutes after sunset; lit facilities close at 10:30 p.m.",
+   "amenities": [
+    "Playground",
+    "Baseball/softball fields",
+    "Tennis",
+    "Street hockey",
+    "Roller hockey",
+    "Fitness park",
+    "Horseshoes",
+    "Picnic pavilion",
+    "Grills",
+    "Pool",
+    "Spray park",
+    "Dog park",
+    "Restrooms (pool season)"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Memorial Pool & Spray Park",
+   "category": "Pool",
+   "lat": 40.928594,
+   "lng": -74.138972,
+   "address": "Memorial Park, Avenue of Heroes, Fair Lawn, NJ 07410",
+   "description": "Borough-run outdoor pool with a sand-bottom swimming area and a spray park inside Memorial Park. It's for residents with a membership and is open in summer (the admin office opens in late June). In 2026 the spray park also had weekend hours after the season, in September. Home of the Riptide swim team.",
+   "amenities": [
+    "Pool",
+    "Spray park",
+    "Restrooms"
+   ],
+   "url": "https://fairlawn.org/memorial-pool",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Fair Lawn Dog Park (Memorial Park)",
+   "category": "Dog park",
+   "lat": 40.9295,
+   "lng": -74.14066,
+   "address": "Memorial Park, Avenue of Heroes, Fair Lawn, NJ 07410",
+   "description": "Fenced, borough-run dog park behind the two street hockey courts in Memorial Park, with separate areas for large dogs (over 30 lb) and small dogs (under 30 lb). It is open dawn to dusk. The map pin marks the street hockey courts, and the dog park is directly behind them.",
+   "amenities": [
+    "Dog park",
+    "Separate small-dog area"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Berdan Grove Park",
+   "category": "Park",
+   "lat": 40.935653,
+   "lng": -74.111135,
+   "address": "Berdan Ave, Fair Lawn, NJ 07410",
+   "description": "An 11.75-acre neighborhood park in Warren Point. It has John Alaimo Field for baseball and softball, two tennis courts, two handball courts, a basketball court, playgrounds (the play equipment was updated to be ADA-compliant) and walking paths. It has lightning detection.",
+   "amenities": [
+    "Playground",
+    "Baseball/softball field",
+    "Tennis",
+    "Handball",
+    "Basketball",
+    "Walking paths"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Gregory Park",
+   "category": "Park",
+   "lat": 40.929623,
+   "lng": -74.109669,
+   "address": "28th St (near Southern Dr), Fair Lawn, NJ 07410",
+   "description": "A 4-acre neighborhood park in Warren Point with a softball field, a basketball court, two playgrounds and walkways.",
+   "amenities": [
+    "Playground",
+    "Softball field",
+    "Basketball",
+    "Walking paths"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Brookdale Park",
+   "category": "Park",
+   "lat": 40.922719,
+   "lng": -74.095803,
+   "address": "Sycamore Dr (off Saddle River Rd), Fair Lawn, NJ 07410",
+   "description": "About 7 acres in the southeast corner of the borough near the Saddle River. It has two ball fields, a basketball court and playgrounds, and the borough has recently upgraded the playground. It has lightning detection.",
+   "amenities": [
+    "Playground",
+    "Baseball/softball fields",
+    "Basketball",
+    "Multi-use field"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Beaver Dam Park",
+   "category": "Park",
+   "lat": 40.9303,
+   "lng": -74.096496,
+   "address": "Pellington Dr area, off Saddle River Rd, Fair Lawn, NJ 07410",
+   "description": "A neighborhood park on the east side near the Saddle River with a basketball court and playgrounds. The 2014 Master Plan spells it \"Beaverdam Park\".",
+   "amenities": [
+    "Playground",
+    "Basketball"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Warren Point Annex",
+   "category": "Park",
+   "lat": 40.922222,
+   "lng": -74.106092,
+   "address": "28th St & Pellack Rd, Fair Lawn, NJ 07410",
+   "description": "A 3.7-acre field complex in Warren Point with two softball fields, two tennis courts and the Sheri Adler Memorial Playground. It has lightning detection.",
+   "amenities": [
+    "Playground",
+    "Softball fields",
+    "Tennis"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Cresthill Park",
+   "category": "Park",
+   "lat": 40.949365,
+   "lng": -74.116352,
+   "address": "Godwin Ave, Fair Lawn, NJ 07410",
+   "description": "A small (2-acre) neighborhood park in north Fair Lawn with playgrounds and a basketball court.",
+   "amenities": [
+    "Playground",
+    "Basketball"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Dobrow Sports Complex (Columbia Terrace Park)",
+   "category": "Recreation",
+   "lat": 40.949002,
+   "lng": -74.139902,
+   "address": "Harristown Rd / Columbia Terrace, Fair Lawn, NJ 07410",
+   "description": "A 16-acre sports complex in the northwest corner of the borough. It has ball fields, soccer fields, a turf football field, three tennis courts, playgrounds, field houses and about a mile of walkways, and it is used heavily by the Fair Lawn All-Sports and Football associations. The old Walsh Pool and skate park here are closed. It has lightning detection.",
+   "amenities": [
+    "Playground",
+    "Baseball/softball fields",
+    "Soccer",
+    "Turf football field",
+    "Tennis",
+    "Basketball",
+    "Walking paths"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Center Recreation Complex",
+   "category": "Recreation",
+   "lat": 40.931723,
+   "lng": -74.122843,
+   "address": "Romaine St (behind the Community Center), Fair Lawn, NJ 07410",
+   "description": "A 12.5-acre field complex next to the Community Center and Fair Lawn High School, with four ball fields, a soccer field, playgrounds and a basketball court. It has lightning detection.",
+   "amenities": [
+    "Playground",
+    "Baseball/softball fields",
+    "Soccer",
+    "Basketball"
+   ],
+   "url": "https://fairlawn.org/parks-facilities",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Edison School Park",
+   "category": "Park",
+   "lat": 40.943335,
+   "lng": -74.108941,
+   "address": "Fair Lawn Ave (near Well Dr), Fair Lawn, NJ 07410",
+   "description": "A 17-acre borough park beside the Arboretum & Bird Sanctuary on the east side of Fair Lawn Avenue, with playgrounds, a ball field and a basketball court. The map pin is placed by matching OpenStreetMap features to the 2014 Master Plan inventory, so confirm the exact spot locally.",
+   "amenities": [
+    "Playground",
+    "Ball field",
+    "Basketball"
+   ],
+   "url": "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Fair Lawn Arboretum & Bird Sanctuary",
+   "category": "Trail",
+   "lat": 40.943808,
+   "lng": -74.109822,
+   "address": "Fair Lawn Ave between Well Dr and Radburn Rd, Fair Lawn, NJ 07410",
+   "description": "A 15-acre floodplain woodland dedicated as a bird sanctuary in 1949. It's a quiet place to walk among mature trees, with benches, an information kiosk and a bike rack near Well Drive. The 2025 state farmers-market list places the Wednesday Fair Lawn Farmers' Market here.",
+   "amenities": [
+    "Walking paths",
+    "Benches",
+    "Bird watching",
+    "Bike rack"
+   ],
+   "url": "https://www.fairlawn.org/uploads/dm/24880/Brochure_1"
+  },
+  {
+   "name": "Thomas Jefferson Middle School Fields (Upper/Lower TJ)",
+   "category": "Recreation",
+   "lat": 40.934826,
+   "lng": -74.102512,
+   "address": "35-01 Morlot Ave, Fair Lawn, NJ 07410",
+   "description": "School and borough fields (\"Upper/Lower TJ\") used for recreation leagues: a Little League field, a tennis court and soccer fields. It has lightning detection. School use comes first.",
+   "amenities": [
+    "Baseball field",
+    "Tennis",
+    "Soccer"
+   ],
+   "url": "https://fairlawn.org/lightning-detection"
+  },
+  {
+   "name": "Westmoreland School Playfields",
+   "category": "Playground",
+   "lat": 40.941104,
+   "lng": -74.134517,
+   "address": "Westmoreland Ave, Fair Lawn, NJ 07410",
+   "description": "Board of Education playfields at Westmoreland Elementary with playgrounds, a softball/baseball field, a soccer field and a basketball court. Use them outside school hours.",
+   "amenities": [
+    "Playground",
+    "Softball field",
+    "Soccer",
+    "Basketball"
+   ],
+   "url": "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan"
+  },
+  {
+   "name": "Vogel Park",
+   "category": "Park",
+   "lat": 40.931907,
+   "lng": -74.13132,
+   "address": "George St, Fair Lawn, NJ 07410",
+   "description": "A small green space near the Municipal Building area, listed in OpenStreetMap. No amenity details were confirmed."
+  },
+  {
+   "name": "Radburn A Park",
+   "category": "Park",
+   "lat": 40.942955,
+   "lng": -74.116852,
+   "address": "Between Howard Ave and Radburn Rd/High St, Radburn, Fair Lawn, NJ 07410",
+   "description": "Radburn's central interior park, with a winding pedestrian loop, a small gazebo set on a bedrock outcrop, and no play equipment. The Radburn Association owns and maintains the parks. They're ungated, and the 2014 Master Plan notes that all Fair Lawn residents may use Radburn's walkways and bike path. Pools and courts are for members only.",
+   "amenities": [
+    "Walking paths",
+    "Gazebo"
+   ],
+   "url": "https://www.radburn.org/",
+   "phone": "(201) 796-1300"
+  },
+  {
+   "name": "Radburn B Park",
+   "category": "Park",
+   "lat": 40.9447,
+   "lng": -74.118672,
+   "address": "North of Howard Ave (next to Radburn School), Fair Lawn, NJ 07410",
+   "description": "The largest Radburn superblock park. It's linked to A Park by the stone pedestrian underpass beneath Howard Avenue. It has a tot play area, the stone \"stage\" terrace, and the members-only B Pool (opened in 1930).",
+   "amenities": [
+    "Walking paths",
+    "Playground",
+    "Pool (members only)"
+   ],
+   "url": "https://www.radburn.org/",
+   "phone": "(201) 796-1300"
+  },
+  {
+   "name": "Radburn R Park",
+   "category": "Park",
+   "lat": 40.937896,
+   "lng": -74.116926,
+   "address": "South of Warren Rd (Randolph/Reading Terraces), Fair Lawn, NJ 07410",
+   "description": "Radburn's southern interior park, with a terraced stone deck and bench designed by landscape architect Marjorie Sewell Cautley, an original rustic octagonal shelter, a play area, and the members-only R Pool (opened in 1931).",
+   "amenities": [
+    "Walking paths",
+    "Playground",
+    "Pool (members only)"
+   ],
+   "url": "https://www.radburn.org/",
+   "phone": "(201) 796-1300"
+  },
+  {
+   "name": "Saddle River County Park - Dunkerhook Area",
+   "category": "Park",
+   "lat": 40.94401,
+   "lng": -74.095585,
+   "address": "Dunkerhook Rd, Fair Lawn (also Paramus Rd, Paramus)",
+   "description": "The section of Bergen County's 577-acre linear park that lies in Fair Lawn, along the Saddle River. It has three tennis courts, a playground, a picnic area and pavilion (by permit), an athletic field, a waterfall on the river, and fishing (NJ license required). The paved multi-use path runs through it.",
+   "amenities": [
+    "Tennis",
+    "Playground",
+    "Picnic pavilion",
+    "Athletic field",
+    "Fishing",
+    "Bike path",
+    "Trails"
+   ],
+   "url": "https://bergencountynj.gov/?p=4910",
+   "phone": "(201) 336-7275"
+  },
+  {
+   "name": "Saddle River County Park Bike Path (Fair Lawn segment)",
+   "category": "Trail",
+   "lat": 40.94765,
+   "lng": -74.09891,
+   "address": "Path crossing at Dunkerhook Rd, Fair Lawn, NJ",
+   "description": "A paved, car-free path of about 6 miles that runs from Ridgewood's Wild Duck Pond to Rochelle Park, with 5 underpasses and 5 bridges. It runs along Fair Lawn's eastern edge through the Dunkerhook Area. Dirt side trails (the longest is about 2 miles) run from Fair Lawn toward Paramus. The steep \"Hill\" between the waterfall and Easton Tower is on the Fair Lawn side.",
+   "amenities": [
+    "Bike path",
+    "Walking paths",
+    "Trails"
+   ],
+   "url": "https://bergencountynj.gov/?p=4910",
+   "phone": "(201) 336-7275"
+  },
+  {
+   "name": "Easton Tower",
+   "category": "Landmark",
+   "lat": 40.925058,
+   "lng": -74.090205,
+   "address": "Saddle River County Park, under Route 4 (Paramus)",
+   "description": "A 20-foot stone mill tower on the Saddle River, also called \"The Tower\" or \"The Mill\". It's a Bergen County historic site and a popular photo stop just off the bike path, south of Fair Lawn.",
+   "amenities": [
+    "Historic site"
+   ],
+   "url": "https://bergencountynj.gov/?p=4910"
+  },
+  {
+   "name": "Fair Lawn Community Center (George Frey Center for Arts & Recreation)",
+   "category": "Recreation",
+   "lat": 40.933017,
+   "lng": -74.119687,
+   "address": "10-10 20th St, Fair Lawn, NJ 07410",
+   "description": "The borough recreation hub and Recreation & Parks office. It has a full gym with open-gym sessions (basketball, pickleball, volleyball, badminton, table tennis), a fitness room, an indoor walking track, a youth center/arcade, an art room and a 170-seat theater. It is free for Fair Lawn residents with ID, and no guests are allowed. Hours: Mon-Fri 7 a.m.-9 p.m., Sat 9 a.m.-9 p.m., Sun 9 a.m.-5 p.m.",
+   "amenities": [
+    "Basketball",
+    "Pickleball (indoor)",
+    "Fitness room",
+    "Walking track",
+    "Youth center",
+    "Theater",
+    "Restrooms"
+   ],
+   "url": "https://fairlawn.org/community-center",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Maurice M. Pine Free Public Library",
+   "category": "Recreation",
+   "lat": 40.936573,
+   "lng": -74.131396,
+   "address": "10-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "description": "Fair Lawn's public library (BCCLS member), with children's story times, classes and events. It's a good rainy-day stop.",
+   "amenities": [
+    "Restrooms",
+    "Programs"
+   ],
+   "url": "https://www.fairlawnlibrary.org/"
+  },
+  {
+   "name": "Bowlero Fair Lawn",
+   "category": "Recreation",
+   "lat": 40.946932,
+   "lng": -74.139743,
+   "address": "Maple Ave, Fair Lawn, NJ",
+   "description": "A commercial bowling center (formerly Fair Lawn Lanes) and a rainy-day option.",
+   "amenities": [
+    "Bowling",
+    "Arcade"
+   ],
+   "url": "https://www.bowlero.com/location/bowlero-fair-lawn"
+  },
+  {
+   "name": "Fair Lawn Racquet Club",
+   "category": "Recreation",
+   "lat": 40.939475,
+   "lng": -74.098298,
+   "address": "11-19 Saddle River Rd, Fair Lawn, NJ 07410",
+   "description": "A private indoor tennis club. Pickleball directories also list indoor pickleball here (fee required).",
+   "amenities": [
+    "Tennis (indoor)",
+    "Pickleball (indoor)"
+   ],
+   "url": "https://fair-lawn-racquet-club.business.site/"
+  },
+  {
+   "name": "Montclair Pickleball Bergen County (Superdome Sports)",
+   "category": "Recreation",
+   "lat": 40.930371,
+   "lng": -74.117236,
+   "address": "21-05 Morlot Ave, Fair Lawn, NJ 07410",
+   "description": "A pay-to-play pickleball venue that directories list with indoor and outdoor courts.",
+   "amenities": [
+    "Pickleball"
+   ],
+   "url": "https://www.pickleheads.com/courts/us/new-jersey/fair-lawn/montclair-pickleball-bergen-county"
+  },
+  {
+   "name": "Radburn Historic District (National Historic Landmark)",
+   "category": "Landmark",
+   "lat": 40.9425,
+   "lng": -74.11667,
+   "address": "Radburn, Fair Lawn, NJ 07410",
+   "description": "Founded in 1929 by Clarence Stein and Henry Wright (with landscape architect Marjorie Sewell Cautley) as \"a town for the motor age\". It pioneered the superblock: houses face interior parks, and a path system with a pedestrian underpass separates walkers from cars. It was listed on the National Register in 1975 and designated a National Historic Landmark in 2005. It has about 23 acres of interior parks.",
+   "amenities": [
+    "Historic site",
+    "Walking paths"
+   ],
+   "url": "https://www.radburn.org/",
+   "phone": "(201) 796-1300"
+  },
+  {
+   "name": "Radburn Plaza Building",
+   "category": "Landmark",
+   "lat": 40.939981,
+   "lng": -74.119707,
+   "address": "14-25 Plaza Rd, Fair Lawn, NJ 07410",
+   "description": "Radburn's Colonial Revival commercial block with its clock tower, at Fair Lawn Ave and Plaza Rd. It is the visual focal point of the neighborhood. It was damaged by fire in 2002 and rebuilt. The Radburn Association's guided history walks start here.",
+   "amenities": [
+    "Historic site",
+    "Shops"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Radburn,_New_Jersey"
+  },
+  {
+   "name": "Radburn Station",
+   "category": "Landmark",
+   "lat": 40.939526,
+   "lng": -74.121782,
+   "address": "Pollitt Dr, Fair Lawn, NJ 07410",
+   "description": "A Dutch Colonial Revival train station designed by Clarence Stein and rebuilt in 1929. It's on the NRHP (1984) and still served by NJ Transit's Bergen County Line.",
+   "amenities": [
+    "Historic site",
+    "Train station"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Radburn_station"
+  },
+  {
+   "name": "Cadmus House Museum",
+   "category": "Landmark",
+   "lat": 40.939865,
+   "lng": -74.121751,
+   "address": "14-01 Pollitt Dr, Fair Lawn, NJ 07410",
+   "description": "The borough's history museum in the Dutch-style stone Cadmus-Folly House (NRHP 1983), next to Radburn Station. It holds Native American artifacts, WWI/WWII uniforms, 1880s maps, a Victorian room and a firefighters' room. It's open the third Sunday of Mar, Apr, May, Jun, Sep, Oct and Dec, on Memorial Day, and by appointment.",
+   "amenities": [
+    "Museum",
+    "Historic site"
+   ],
+   "url": "https://www.fairlawn.org/cadmus-house",
+   "phone": "(201) 796-7692"
+  },
+  {
+   "name": "Garretson Forge & Farm",
+   "category": "Landmark",
+   "lat": 40.92389,
+   "lng": -74.13056,
+   "address": "4-02 River Rd, Fair Lawn, NJ 07410",
+   "description": "One of Bergen County's oldest historic sites: a Dutch Colonial homestead settled in 1719 and home to six generations of Garretsons (NRHP 1974). Today it's a living-history museum with heirloom, herb, pollinator and butterfly gardens and an orchard. Guided house and garden tours run on Open House Sundays (2nd and 4th Sundays, spring through fall, 1-4 p.m.), and garden volunteer days are on Thursdays.",
+   "amenities": [
+    "Museum",
+    "Historic site",
+    "Gardens"
+   ],
+   "url": "https://www.garretsonfarm.org/"
+  },
+  {
+   "name": "Naugle House",
+   "category": "Landmark",
+   "lat": 40.94556,
+   "lng": -74.09944,
+   "address": "42-49 Dunkerhook Rd, Fair Lawn, NJ",
+   "description": "A sandstone Dutch Colonial house built into a hillside around 1745 in the old Dunkerhook (\"dark corner\") hamlet by the Saddle River. It's NRHP-listed (1983), and the borough bought it in 2010 to preserve it. It's said to have hosted Lafayette in 1784. View it from outside only.",
+   "amenities": [
+    "Historic site"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Naugle_House"
+  },
+  {
+   "name": "Jacob Vanderbeck Jr. House",
+   "category": "Landmark",
+   "lat": 40.94611,
+   "lng": -74.10056,
+   "address": "Dunkerhook Rd / Barrister Ct, Fair Lawn, NJ",
+   "description": "A 1754 Dutch Colonial house with a 1780s sandstone gambrel wing, on a bluff above the Saddle River (NRHP 1983). It's privately owned within a condominium development, so view it from the street.",
+   "amenities": [
+    "Historic site"
+   ],
+   "url": "https://en.wikipedia.org/wiki/Jacob_Vanderbeck_Jr._House"
+  },
+  {
+   "name": "Fair Lawn Municipal Building",
+   "category": "Landmark",
+   "lat": 40.936357,
+   "lng": -74.132282,
+   "address": "8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "description": "Borough Hall, the site of community holiday menorah and tree lightings.",
+   "url": "https://fairlawn.org/",
+   "phone": "(201) 796-1700"
+  }
+ ],
+ "events": [
+  {
+   "name": "Memorial Day Parade",
+   "when": "Memorial Day (last Monday in May), 10:30 a.m.",
+   "where": "Starts at Pollitt Dr, then Fair Lawn Ave, River Rd and Berdan Ave to the Avenue of Heroes in Memorial Park",
+   "description": "The borough's parade, followed by ceremonies at the circle in Memorial Park. The Cadmus House Museum is also open on parade day.",
+   "url": "https://fairlawn.org/holiday-events"
+  },
+  {
+   "name": "Independence Celebration & Fireworks",
+   "when": "Late June (a Thursday evening: June 26 in 2025, June 25 in 2026), with a rain date",
+   "where": "Memorial Park, Berdan Ave & 1st St",
+   "description": "Early-evening live music (recently the Gentlemen of Soul Band), food and drink vendors, then fireworks over Memorial Park.",
+   "url": "https://fairlawn.org/holiday-events"
+  },
+  {
+   "name": "Summer Concert Series",
+   "when": "Late June through August, Sunday evenings at 8 p.m. (rain dates on weekday evenings)",
+   "where": "Robert \"Scooter\" Young Special Event Stage, Memorial Park",
+   "description": "Free outdoor concerts run by Fair Lawn Recreation & Parks. Bring a chair or blanket.",
+   "url": "https://fairlawn.org/concerts"
+  },
+  {
+   "name": "Summer Movie Series",
+   "when": "Summer (July-August)",
+   "description": "Free outdoor movie nights from Fair Lawn Recreation & Parks. Check the borough page each spring for the schedule and location.",
+   "url": "https://fairlawn.org/movies"
+  },
+  {
+   "name": "Make Music Day Fair Lawn",
+   "when": "June 21 (summer solstice) each year",
+   "where": "Venues around town, including the Fair Lawn Arboretum & Bird Sanctuary",
+   "description": "Free, all-day public music-making as part of the international Make Music Day.",
+   "url": "https://makemusicday.org/fairlawn/"
+  },
+  {
+   "name": "Fair Lawn Farmers' Market",
+   "when": "Wednesdays, mid-June through October (about 10 or 11 a.m. to 3 or 4 p.m.)",
+   "where": "Fair Lawn Ave: the 2025 state list places it at the Arboretum & Bird Sanctuary; earlier years used the New Song Church lot at Fair Lawn Ave & High St",
+   "description": "A seasonal market with Jersey Fresh produce, honey, herbs and flowers. It accepts WIC/Senior FMNP checks. Confirm the location each season.",
+   "url": "https://www.nj.gov/health/fhs/wic/documents/Farmers'%20Market%20Vendors%20List.pdf"
+  },
+  {
+   "name": "Fair Lawn Street Fair & Craft Show (Fall)",
+   "when": "Mid-October, on a Sunday from 11 a.m. (Oct 18 in 2026)",
+   "where": "River Road & Fair Lawn Avenue (River Road business district)",
+   "description": "A juried outdoor street fair with crafters, food vendors, local organizations and kids' activities. It has historically been paired with the River Road classic car show.",
+   "url": "https://www.thecraftmap.com/fair/fair-lawn-street-fair-craft-show-nj-fall-fair-lawn-nj"
+  },
+  {
+   "name": "Halloween Costume Parade",
+   "when": "October 31 (or the nearest Saturday) at 10:30 a.m.; line up at 10 a.m.",
+   "where": "Memorial Park (line up behind the Memorial Pool bathhouse). The rain location is the Memorial Middle School gym.",
+   "description": "A kids' costume parade around Memorial Park run by Recreation & Parks.",
+   "url": "https://fairlawn.org/holiday-events"
+  },
+  {
+   "name": "Winter Wonderland & Holiday Parade of Lights",
+   "when": "Early December, on a Sunday evening (6:30 p.m.)",
+   "where": "From Berdan Ave & River Rd to Memorial Park",
+   "description": "A lighted holiday parade ending at Memorial Park, with hot chocolate, candy canes, free gift bags for kids, a skating rink and inflatables.",
+   "url": "https://fairlawn.org/holiday-events"
+  },
+  {
+   "name": "Santa Telephone Calls",
+   "when": "Weekday evenings in early to mid December, 4:30-8:30 p.m.",
+   "where": "By phone (sign up with Recreation & Parks)",
+   "description": "Santa calls registered Fair Lawn children at home. Parents submit a form in advance.",
+   "url": "https://fairlawn.org/holiday-events"
+  },
+  {
+   "name": "Community Tree Lighting (Cosmos Club of Fair Lawn)",
+   "when": "Early December",
+   "where": "33-02 Morlot Ave, Fair Lawn",
+   "description": "An annual tree-lighting ceremony with sweet treats and a toy drive, hosted by the Cosmos Club.",
+   "url": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20251204/cf88c828-9b8c-4ba3-b582-bfe64e377f3c/tree-lighting-ceremony-cosmos-club-of-fair-lawn-inc"
+  },
+  {
+   "name": "Chanukah Menorah Lighting",
+   "when": "December (during Chanukah)",
+   "where": "Fair Lawn Municipal Building, 8-01 Fair Lawn Ave",
+   "description": "A community menorah lighting at Borough Hall held by local Chabad and Jewish organizations. A nine-foot menorah was donated in 2006. Dates change each year."
+  },
+  {
+   "name": "Garretson Forge & Farm Open House Sundays",
+   "when": "2nd and 4th Sundays, about April-November, 1-4 p.m.",
+   "where": "Garretson Forge & Farm, 4-02 River Rd",
+   "description": "Docent-led tours of the 1719 Dutch homestead and its gardens. Garden volunteer days are on Thursdays, March-November.",
+   "url": "https://www.garretsonfarm.org/"
+  },
+  {
+   "name": "Cadmus House Museum Open Days",
+   "when": "Third Sunday of March, April, May, June, September, October and December, plus Memorial Day",
+   "where": "Cadmus House, 14-01 Pollitt Dr (next to Radburn Station)",
+   "description": "The borough history museum's public open days. Tours are also available by appointment at (201) 796-7692.",
+   "url": "https://www.fairlawn.org/cadmus-house"
+  },
+  {
+   "name": "Radburn Guided History Walk",
+   "when": "Occasional (announced by the Radburn Association)",
+   "where": "Meets at 10 a.m. outside the Radburn Plaza (clock tower) Building",
+   "description": "A free, roughly one-mile, two-hour walk through A and B parks led by local historians. RSVP through the Radburn Association.",
+   "url": "https://radburn.org/Radburn-History"
+  }
+ ],
+ "guides": [
+  {
+   "id": "best-playgrounds-little-kids",
+   "title": "Best Playgrounds for Little Kids",
+   "category": "Activities",
+   "body": "Fair Lawn has more than 20 borough playgrounds spread across the town, so most homes are within a short walk of one. These are the easiest picks for toddlers and preschoolers:\n\n- Memorial Park (Avenue of Heroes): the all-day option, with playgrounds, a spray park and pool in summer, picnic groves, and restrooms during pool season.\n- Berdan Grove Park (Berdan Ave): several play areas, with equipment updated to be ADA-compliant, plus shady walking paths.\n- Warren Point Annex (28th St & Pellack Rd): the Sheri Adler Memorial Playground next to the softball fields.\n- Gregory Park (28th St): two playgrounds and a loop of walkways, good for scooters.\n- Brookdale Park (Sycamore Dr): a recently upgraded playground near the Saddle River.\n- Cresthill Park (Godwin Ave) and Beaver Dam Park: small, quiet neighborhood play spots.\n- Saddle River County Park, Dunkerhook Area (Dunkerhook Rd): a county playground right on the bike path, so you can combine it with a stroller or balance-bike ride.\n\nBorough parks close 30 minutes after sunset. The spray park needs a resident pool membership in season, so check the Memorial Pool page before you go.",
+   "sources": [
+    "https://fairlawn.org/parks-facilities",
+    "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan",
+    "https://fairlawn.org/memorial-pool",
+    "https://bergencountynj.gov/?p=4910"
+   ]
+  },
+  {
+   "id": "saddle-river-bike-path-ride",
+   "title": "Bike Ride: Saddle River Path from Glen Rock Duck Pond to Easton Tower",
+   "category": "Activities",
+   "body": "This is a flat, car-free ride or walk on Bergen County's paved Saddle River County Park path, running along Fair Lawn's eastern edge. It's about 2.5 miles (4 km) one way.\n\n- Start: Glen Rock Area of Saddle River County Park (Prospect Ave, Glen Rock), which has a pond, a playground, picnic areas and tennis courts.\n- Head south along the river and cross Dunkerhook Road into Fair Lawn's Dunkerhook Area, which has tennis courts, a playground, a picnic pavilion and the waterfall.\n- Continue south past the steep \"Hill\" (about an 8% grade) to Easton Tower, the historic 20-foot stone mill tower under Route 4.\n- End: Easton Tower. Turn around for a 5-mile round trip, or continue south toward the Otto Pehle Area in Saddle Brook and Rochelle Park.\n\nOnly pedestrians and bicycles are allowed, plus medical mobility devices. Faster riders should slow down near the playgrounds and the underpasses. Dirt side trails branch off between Fair Lawn and Paramus if you're on a mountain bike.",
+   "sources": [
+    "https://bergencountynj.gov/?p=4910",
+    "https://en.wikipedia.org/wiki/Saddle_River_County_Park",
+    "https://www.openstreetmap.org/relation/9599495"
+   ],
+   "route": [
+    [
+     40.95548,
+     -74.10041
+    ],
+    [
+     40.95434,
+     -74.10072
+    ],
+    [
+     40.95347,
+     -74.09965
+    ],
+    [
+     40.95218,
+     -74.09923
+    ],
+    [
+     40.95109,
+     -74.09926
+    ],
+    [
+     40.94991,
+     -74.09926
+    ],
+    [
+     40.94877,
+     -74.09919
+    ],
+    [
+     40.94765,
+     -74.09891
+    ],
+    [
+     40.94624,
+     -74.09761
+    ],
+    [
+     40.94502,
+     -74.09662
+    ],
+    [
+     40.94424,
+     -74.09531
+    ],
+    [
+     40.94281,
+     -74.0943
+    ],
+    [
+     40.94166,
+     -74.09426
+    ],
+    [
+     40.94056,
+     -74.09476
+    ],
+    [
+     40.93941,
+     -74.09506
+    ],
+    [
+     40.938,
+     -74.09479
+    ],
+    [
+     40.93665,
+     -74.09434
+    ],
+    [
+     40.9354,
+     -74.09367
+    ],
+    [
+     40.93432,
+     -74.09318
+    ],
+    [
+     40.93302,
+     -74.09293
+    ],
+    [
+     40.9315,
+     -74.09312
+    ],
+    [
+     40.9303,
+     -74.09316
+    ],
+    [
+     40.92959,
+     -74.09209
+    ],
+    [
+     40.9283,
+     -74.09135
+    ],
+    [
+     40.92725,
+     -74.09062
+    ],
+    [
+     40.9259,
+     -74.09114
+    ],
+    [
+     40.92489,
+     -74.09054
+    ],
+    [
+     40.92481,
+     -74.09042
+    ]
+   ]
+  },
+  {
+   "id": "radburn-history-walk",
+   "title": "Radburn History Walking Tour",
+   "category": "Activities",
+   "body": "Radburn, founded in 1929 by Clarence Stein and Henry Wright as \"a town for the motor age\", is a National Historic Landmark. It introduced the superblock: houses face shared interior parks, cars stay on cul-de-sacs, and walkers use paths and an underpass that never cross a main road at grade. This loop is about 1.2 miles. Park A and B pathways are open to the public, but the pools and courts are for Radburn members only.\n\n- 1. Radburn Station (Pollitt Dr): Stein's 1929 Dutch Colonial Revival depot, still an NJ Transit stop.\n- 2. Cadmus House Museum (14-01 Pollitt Dr): Fair Lawn's history museum in an old Dutch stone house, open on select Sundays.\n- 3. Radburn Plaza Building (14-25 Plaza Rd): the clock-tower commercial block and visual anchor of the neighborhood, rebuilt after a 2002 fire.\n- 4. Abbott Court (near High St & Plaza Rd): Radburn's original Tudor-style garden apartments (now Eldorado Village), built at the head of A Park.\n- 5. A Park: walk the pedestrian loop to the little gazebo on the rock outcrop. Notice how the houses' front doors face the park, not the street.\n- 6. Howard Avenue Underpass: the stone-faced pedestrian tunnel, inspired by the arches in Central Park, that lets walkers pass under the road between A and B parks.\n- 7. B Park: the largest park, with the stone \"stage\" terrace, a tot lot and B Pool (1930).\n- 8. Radburn School (Howard Ave): the elementary school at the east end of B Park, the centerpiece of the neighborhood plan.\n- 9. R Park (south of Warren Rd): Cautley's stone terrace, the rustic octagonal shelter and R Pool (1931). Return to the station along Plaza Road.\n\nThe Radburn Association also runs occasional free guided walks from the Plaza Building and an online history scavenger hunt.",
+   "sources": [
+    "https://www.radburn.org/",
+    "https://radburn.org/Radburn-History",
+    "https://en.wikipedia.org/wiki/Radburn,_New_Jersey",
+    "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan",
+    "https://www.fairlawn.org/cadmus-house"
+   ],
+   "route": [
+    [
+     40.939526,
+     -74.121782
+    ],
+    [
+     40.939865,
+     -74.121751
+    ],
+    [
+     40.939981,
+     -74.119707
+    ],
+    [
+     40.940968,
+     -74.11966
+    ],
+    [
+     40.943028,
+     -74.116777
+    ],
+    [
+     40.944308,
+     -74.117449
+    ],
+    [
+     40.944687,
+     -74.11778
+    ],
+    [
+     40.945662,
+     -74.11682
+    ],
+    [
+     40.937896,
+     -74.116926
+    ]
+   ]
+  },
+  {
+   "id": "fair-lawn-avenue-heritage-walk",
+   "title": "Fair Lawn Avenue Heritage Walk: Borough Hall to Dunkerhook",
+   "category": "Activities",
+   "body": "This is a roughly 2-mile one-way walk (or easy bike ride) across town along Fair Lawn Avenue, from the civic center to the colonial Dutch hamlet of Dunkerhook on the Saddle River.\n\n- Start: Fair Lawn Municipal Building (8-01 Fair Lawn Ave) and the Maurice M. Pine Library next door.\n- Radburn Station and the Cadmus House Museum on Pollitt Dr.\n- Radburn Plaza Building at Plaza Rd.\n- The Fair Lawn Arboretum & Bird Sanctuary (Fair Lawn Ave between Well Dr and Radburn Rd), a 15-acre wooded floodplain dedicated in 1949, and the Wednesday farmers market in season.\n- Naugle House (about 1745) and the Jacob Vanderbeck Jr. House (1754) on Dunkerhook Road, two NRHP-listed sandstone Dutch farmhouses. View them from outside only.\n- End: the Saddle River County Park path at Dunkerhook Road. From here you can continue south to the waterfall and Easton Tower.\n\nThe route line on the map connects the stops in order. Use the sidewalks along Fair Lawn Avenue and Dunkerhook Road.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fair_Lawn,_New_Jersey",
+    "https://en.wikipedia.org/wiki/Naugle_House",
+    "https://en.wikipedia.org/wiki/Jacob_Vanderbeck_Jr._House",
+    "https://www.fairlawn.org/uploads/dm/24880/Brochure_1"
+   ],
+   "route": [
+    [
+     40.936357,
+     -74.132282
+    ],
+    [
+     40.936573,
+     -74.131396
+    ],
+    [
+     40.939526,
+     -74.121782
+    ],
+    [
+     40.939865,
+     -74.121751
+    ],
+    [
+     40.939981,
+     -74.119707
+    ],
+    [
+     40.943808,
+     -74.109822
+    ],
+    [
+     40.94556,
+     -74.09944
+    ],
+    [
+     40.94611,
+     -74.10056
+    ],
+    [
+     40.94765,
+     -74.09891
+    ]
+   ]
+  },
+  {
+   "id": "pickleball-and-tennis",
+   "title": "Where to Play Pickleball and Tennis",
+   "category": "Activities",
+   "body": "Pickleball: the borough doesn't advertise any dedicated outdoor pickleball courts. Your options are indoors:\n\n- Fair Lawn Community Center (10-10 20th St): pickleball during open-gym sessions. It's free for residents with ID, and the weekly schedule is posted on the Recreation & Parks page.\n- The Picklr Fair Lawn (18-01 Pollitt Dr): a private indoor club with 12 courts, membership required.\n- Montclair Pickleball Bergen County (21-05 Morlot Ave): pay-to-play, with indoor and outdoor courts.\n- Fair Lawn Racquet Club (11-19 Saddle River Rd): private indoor courts, fee required.\n\nPublic tennis courts (free, first come, first served):\n\n- Dobrow Sports Complex / Columbia Terrace (Harristown Rd): 3 courts\n- Berdan Grove Park (Berdan Ave): 2 courts, plus handball courts\n- Memorial Park (Avenue of Heroes): 2 courts\n- Warren Point Annex (28th St & Pellack Rd): 2 courts\n- TJ School Park (Morlot Ave): 1 court\n- Saddle River County Park Dunkerhook Area (Dunkerhook Rd): 3 county courts. The Glen Rock area just north has 2 more.\n\nCourt counts come from the borough's 2014 Master Plan inventory and Bergen County, so confirm current conditions on site.",
+   "sources": [
+    "https://fairlawn.org/community-center",
+    "https://fairlawn.org/park-rec",
+    "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan",
+    "https://bergencountynj.gov/?p=4910",
+    "https://www.pickleheads.com/courts/us/new-jersey/fair-lawn/the-picklr-fair-lawn",
+    "https://www.pickleheads.com/courts/us/new-jersey/fair-lawn/fair-lawn-racquet-club",
+    "https://www.pickleheads.com/courts/us/new-jersey/fair-lawn/montclair-pickleball-bergen-county"
+   ]
+  },
+  {
+   "id": "rainy-day-ideas",
+   "title": "Rainy-Day Ideas in Fair Lawn",
+   "category": "Activities",
+   "body": "When it's too wet for the parks:\n\n- Fair Lawn Community Center (10-10 20th St): open gym, an indoor walking track, a fitness room and the youth center arcade. It's free for residents with ID, and kids below 8th grade need a parent in the gym and arcade.\n- Maurice M. Pine Library (10-01 Fair Lawn Ave): story times, crafts, ESL and teen programs. Subscribe to its event calendar in this app.\n- Community Center Theater: a 170-seat house for local drama and music. See fairlawn.org/theater.\n- Cadmus House Museum (Pollitt Dr): open on select Sundays and by appointment.\n- Bowlero Fair Lawn (Maple Ave): bowling and an arcade.\n- Indoor pickleball at The Picklr or Montclair Pickleball Bergen County.\n\nRain plans for outdoor events: the Halloween parade moves to the Memorial Middle School gym, and summer concerts move to weekday rain dates.",
+   "sources": [
+    "https://fairlawn.org/community-center",
+    "https://fairlawn.org/park-rec",
+    "https://www.fairlawnlibrary.org/",
+    "https://www.fairlawn.org/cadmus-house",
+    "https://fairlawn.org/holiday-events"
+   ]
+  },
+  {
+   "id": "passaic-river-and-memorial-park",
+   "title": "Memorial Park and the Passaic River",
+   "category": "Activities",
+   "body": "Memorial Park, at the western end of Berdan Avenue, sits on the Passaic River and is Fair Lawn's main riverside green space.\n\n- Picnics: two picnic groves at the end of the Avenue of Heroes, including the covered 80x30 ft Bob Chevrier Pavilion with grills. You can reserve them with a borough picnic-area permit.\n- River access: the Passaic River Canoe & Kayak Trail Plan lists Memorial Park as a potential launch site. There is no posted, official launch, so check with Recreation & Parks before you put in.\n- Flooding: the park and pool flooded in Hurricane Irene (2011), so expect soggy lowlands after big storms.\n- Nearby along River Road: Garretson Forge & Farm (4-02 River Rd), a 1719 Dutch homestead with gardens and Open House Sundays.\n\nDogs: the borough's fenced dog park (with separate large- and small-dog areas) is behind the street hockey courts in Memorial Park.",
+   "sources": [
+    "https://fairlawn.org/parks-facilities",
+    "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan",
+    "https://www.nj.gov/pvsc/protect/pdf/Passaic_River_Canoe_and_Kayak_Trail_Plan.pdf",
+    "https://www.garretsonfarm.org/",
+    "https://suburbs101.com/dog-parks-in-bergen-county-nj/"
+   ]
+  },
+  {
+   "id": "fair-lawn-history-highlights",
+   "title": "Fair Lawn History Highlights",
+   "category": "Activities",
+   "body": "A quick guide to the landmarks behind Fair Lawn's story:\n\n- Garretson Forge & Farm (1719): a Dutch farm homestead on River Road, now a living-history museum.\n- Dunkerhook (\"dark corner\"): an 18th-century Dutch hamlet on the Saddle River with the Naugle (about 1745) and Vanderbeck (1754) houses.\n- Radburn (1929): the planned \"town for the motor age\", now a National Historic Landmark (2005), with its station, Plaza Building and interior parks.\n- Cadmus House: the borough history museum on Pollitt Drive.\n- Nabisco: the Route 208 bakery opened in 1958, was the borough's largest employer for decades, gave the area the \"Cookie City\" nickname, closed in 2021 and was demolished starting in 2023.\n- Other NRHP sites: the G.V.H. Berdan House (River Rd) and the Richard J. Berdan House (Fair Lawn Ave), both private homes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fair_Lawn,_New_Jersey",
+    "https://en.wikipedia.org/wiki/Garretson_Forge_and_Farm",
+    "https://en.wikipedia.org/wiki/Radburn,_New_Jersey",
+    "https://en.wikipedia.org/wiki/Naugle_House",
+    "https://www.fairlawn.org/uploads/dm/20631/2014_Master_Plan"
+   ]
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Maurice M. Pine Library Events (iCal)",
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10281",
+   "type": "ical",
+   "category": "Events",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn-Saddle Brook Patch",
+   "url": "https://patch.com/feeds/new-jersey/fairlawn-saddlebrook",
+   "type": "rss",
+   "category": "News",
+   "verified": true,
+   "mustMention": "fair lawn"
+  }
+ ]
+}

@@ -1,0 +1,866 @@
+{
+ "contacts": [
+  {
+   "name": "Fair Lawn Public Schools - Administrative Board Office (Thomas Edison School)",
+   "category": "Schools",
+   "phone": "(201) 794-5500",
+   "url": "https://www.fairlawnschools.org",
+   "address": "37-01 Fair Lawn Ave., Fair Lawn, NJ 07410",
+   "notes": "District central office. The building also houses the district preschool and the Board of Education meeting room."
+  },
+  {
+   "name": "Office of the Superintendent of Schools (Dr. Rui Dionisio)",
+   "category": "Schools",
+   "phone": "(201) 794-5500 ext. 7090",
+   "email": "rdionisio@fairlawnschools.org",
+   "url": "https://www.fairlawnschools.org/page/district-info",
+   "address": "37-01 Fair Lawn Ave., Fair Lawn, NJ 07410",
+   "notes": "Executive Confidential Assistant to the Superintendent: ext. 7005."
+  },
+  {
+   "name": "Fair Lawn Board of Education",
+   "category": "Schools",
+   "email": "boardmembers@fairlawnschools.org",
+   "url": "https://www.fairlawnschools.org/page/contact-the-board",
+   "address": "Eugene M. Banta Public Meeting Room (Room 19), Thomas Edison School, 37-01 Fair Lawn Ave., Fair Lawn, NJ 07410",
+   "notes": "Regular meetings are usually on the fourth Thursday of the month at 7:30 p.m. Some meetings move to the Memorial Middle School Media Center. The October 29, 2026 meeting is at MMS, 12-00 First St, at 7:00 p.m. Agendas are on BoardDocs (https://go.boarddocs.com/nj/flps/Board.nsf/Public). Meetings stream on YouTube (https://www.youtube.com/@fairlawnboemeeting-livestr8016). Board Secretary: Jorge Cruz."
+  },
+  {
+   "name": "Fair Lawn Community School (Registration, Before/After Care, Continuing Ed, Summer Camps)",
+   "category": "Schools",
+   "phone": "(201) 794-5450 ext. 2369",
+   "email": "flcs@fairlawnschools.org",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "address": "5-01 Bergen Ave., Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:30am-3:30pm (closed 12-1pm for lunch)",
+   "notes": "Handles all new-student registration questions. Before/after care supervisors: flbac@fairlawnschools.org. Summer camp questions: summer@fairlawnschools.org. The building also houses district Buildings & Grounds and Transportation."
+  },
+  {
+   "name": "Fair Lawn Schools Transportation Department",
+   "category": "Schools",
+   "phone": "(201) 794-5522 ext. 6603",
+   "url": "https://www.fairlawnschools.org/page/district-fac",
+   "address": "5-01 Bergen Ave., Fair Lawn, NJ 07410",
+   "notes": "Director of Transportation: ext. 6607. Buildings & Grounds main line: (201) 794-5522. Runs subscription busing to FLHS and Thomas Jefferson MS."
+  },
+  {
+   "name": "District Food Service (Maschio's)",
+   "category": "Schools",
+   "phone": "201-794-5470 ext. 4516",
+   "url": "https://www.fairlawnschools.org/page/food-service-dis",
+   "notes": "Lunch accounts are funded through PaySchools Central (https://www.payschoolscentral.com/). Menus: https://fairlawnschools.nutrislice.com/menu/. Free/reduced meal applications: https://www.fairlawnschools.org/page/applications-free-reduced-price-meals"
+  },
+  {
+   "name": "Genesis Parent Portal Help Desk",
+   "category": "Schools",
+   "email": "genesis@fairlawnschools.org",
+   "url": "https://www.fairlawnschools.org/page/genesis",
+   "notes": "A parent portal account is created automatically from the email given at registration. Parents can report absences and update contacts in the portal."
+  },
+  {
+   "name": "District Anti-Bullying Coordinator (Claire Keller)",
+   "category": "Schools",
+   "phone": "201-794-5500 x7012",
+   "email": "ckeller@fairlawnschools.org",
+   "url": "https://www.fairlawnschools.org/page/district-info"
+  },
+  {
+   "name": "Fair Lawn High School",
+   "category": "Schools",
+   "phone": "(201) 794-5450",
+   "url": "https://www.fairlawnschools.org/o/flhs",
+   "address": "14-00 Berdan Ave., Fair Lawn, NJ 07410",
+   "notes": "Grades 9-12"
+  },
+  {
+   "name": "Memorial Middle School",
+   "category": "Schools",
+   "phone": "(201) 794-5470",
+   "url": "https://www.fairlawnschools.org/o/mms",
+   "address": "12-00 First St., Fair Lawn, NJ 07410",
+   "notes": "Grades 5-8"
+  },
+  {
+   "name": "Thomas Jefferson Middle School",
+   "category": "Schools",
+   "phone": "(201) 703-2240",
+   "url": "https://www.fairlawnschools.org/o/tjms",
+   "address": "35-01 Morlot Ave., Fair Lawn, NJ 07410",
+   "notes": "Grades 5-8"
+  },
+  {
+   "name": "Henry B. Milnes Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5550",
+   "url": "https://www.fairlawnschools.org/o/hbm",
+   "address": "8-01 Philip St., Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "John A. Forrest Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5565",
+   "url": "https://www.fairlawnschools.org/o/jaf",
+   "address": "10-00 Hopper Ave., Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "Lyncrest Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5555",
+   "url": "https://www.fairlawnschools.org/o/les",
+   "address": "9-04 Morlot Ave., Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "Radburn Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5480",
+   "url": "https://www.fairlawnschools.org/o/res",
+   "address": "18-00 Radburn Road, Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "Warren Point Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5570",
+   "url": "https://www.fairlawnschools.org/o/wpe",
+   "address": "30-07 Broadway, Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "Westmoreland Elementary",
+   "category": "Schools",
+   "phone": "(201) 794-5490",
+   "url": "https://www.fairlawnschools.org/o/wes",
+   "address": "16-50 Parmelee Ave., Fair Lawn, NJ 07410",
+   "notes": "Grades K-4"
+  },
+  {
+   "name": "Bergen County Technical Schools (BCTS) - District Office / Admissions",
+   "category": "Schools",
+   "phone": "(201) 343-6000",
+   "url": "https://www.bergen.org/domain/544.html",
+   "address": "540 Farview Ave., Paramus, NJ 07652",
+   "notes": "County magnet and career-technical high schools: Bergen County Academies (Hackensack), Bergen County Technical High School (Teterboro and Paramus campuses), Applied Technology High School (Paramus), and Career Innovation High School (Paramus). Only 8th graders who live in Bergen County may apply. For the class entering September 2027, the online application opened September 1, 2026. The BCA application deadline is November 8."
+  },
+  {
+   "name": "Fair Lawn Recreation & Parks Department",
+   "category": "Recreation",
+   "phone": "(201) 796-6746",
+   "email": "recreation@fairlawn.org",
+   "url": "https://www.fairlawn.org/park-rec",
+   "address": "Fair Lawn Community Center - 2nd Floor, 10-10 20th Street, Fair Lawn, NJ 07410",
+   "hours": "Business office Mon-Fri 8:30am-4:30pm (excluding holidays)",
+   "notes": "Superintendent of Recreation and Parks: James Graff. Online registration is through Community Pass (https://register.communitypass.net/fairlawnborough)."
+  },
+  {
+   "name": "Fair Lawn Community Center",
+   "category": "Recreation",
+   "phone": "(201) 796-6746",
+   "url": "https://www.fairlawn.org/community-center",
+   "address": "10-10 20th Street, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 7am-9pm; Sat 9am-9pm; Sun 9am-5pm (subject to change for programs)",
+   "notes": "Open to Fair Lawn residents only (ID required, no guests), and membership is free. It has a gym, fitness room, walking track, youth center/arcade, card room and a 170-seat theater. Children below 8th grade need a parent with them in the gym and arcade. Daily open-gym times are posted on the Rec page."
+  },
+  {
+   "name": "Memorial Pool Administration Office (seasonal)",
+   "category": "Recreation",
+   "phone": "(201) 927-4702",
+   "url": "https://www.fairlawn.org/memorial-pool",
+   "notes": "This office is only staffed during pool season, which opens in late June. Off-season, call Recreation at (201) 796-6746."
+  },
+  {
+   "name": "Fair Lawn All-Sports Association (FLAS)",
+   "category": "Recreation",
+   "phone": "201-796-6746",
+   "email": "fairlawnallsports@gmail.com",
+   "url": "https://www.fairlawnallsports.com/",
+   "address": "10-10 20th St, Fair Lawn, NJ 07410",
+   "notes": "Volunteer nonprofit that runs the rec and travel youth leagues. The phone listed is the Recreation Dept. line. Registration: https://www.fairlawnallsports.com/page/show/5856305-register-to-play"
+  },
+  {
+   "name": "Maurice M. Pine Free Public Library",
+   "category": "Library",
+   "phone": "201-796-3400",
+   "email": "faircirc@bccls.org",
+   "url": "https://www.fairlawnlibrary.org/",
+   "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Mon-Thu 10am-8pm; Fri 10am-5pm; Sat 10am-5pm; Sun 1pm-5pm",
+   "notes": "Member of the BCCLS consortium. Holiday closings: https://www.bccls.org/Calendar/libraryHours.php?ctx=35. Events calendar: https://bccls.libcal.com/calendar/fairlawn/?cid=10281"
+  },
+  {
+   "name": "Fair Lawn Senior Center",
+   "category": "Seniors",
+   "phone": "(201) 796-1191",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
+   "notes": "For adults 60+, with no dues. Director: Karin Krankel. Weekday lunch is served at noon; reserve 24 hours ahead."
+  },
+  {
+   "name": "Fair Lawn Mini Bus Service (Health Department)",
+   "category": "Seniors",
+   "phone": "201-794-5327",
+   "url": "https://www.fairlawn.org/mini-bus",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Rides Mon-Fri 9am-4pm within Fair Lawn",
+   "notes": "Free for residents 18+. Book up to two weeks ahead and no later than 3pm the business day before. Other options listed by the borough: Bergen County Transportation 201-368-5955 or 201-336-7400, and Access Link 800-955-2321 option 1."
+  },
+  {
+   "name": "Kaplen JCC on the Palisades",
+   "category": "Other",
+   "phone": "201.569.7900",
+   "url": "https://www.jccotp.org/",
+   "address": "411 East Clinton Avenue, Tenafly, NJ 07670",
+   "notes": "Nearby JCC (not in Fair Lawn) with youth, teen and family programs, health and wellness, arts, and adult services."
+  },
+  {
+   "name": "Ridgewood YMCA",
+   "category": "Other",
+   "phone": "201-444-5600",
+   "url": "https://www.ridgewoodymca.org/about-us/contact-us/",
+   "address": "112 Oak Street, Ridgewood, NJ",
+   "notes": "Nearest YMCA (not in Fair Lawn)."
+  },
+  {
+   "name": "Van Riper Ellis Christian School",
+   "category": "Schools",
+   "phone": "(201) 791-7853",
+   "address": "7-20 Bellair Ave, Fair Lawn, NJ 07410",
+   "notes": "Private Baptist-affiliated school, nursery-K. The details come from third-party directories (PrivateSchoolReview, OpenStreetMap) and need confirming with the school."
+  },
+  {
+   "name": "Helen Troum Nursery & Kindergarten at Temple Beth Sholom",
+   "category": "Schools",
+   "phone": "(201) 797-2865",
+   "address": "40-25 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "Jewish nursery-pre-K program. The details come from a third-party directory (PrivateSchoolReview) and need confirming."
+  },
+  {
+   "name": "Anshei Lubavitch Daycare Center",
+   "category": "Schools",
+   "phone": "(201) 794-3770",
+   "address": "10-10 Plaza Rd, Fair Lawn, NJ 07410",
+   "notes": "Jewish pre-K/daycare. The details come from a third-party directory (PrivateSchoolReview) and need confirming."
+  },
+  {
+   "name": "CTC Academy - Fair Lawn",
+   "category": "Schools",
+   "phone": "(201) 797-7440",
+   "address": "29-01 Berkshire Rd, Fair Lawn, NJ 07410",
+   "notes": "Private special education school, PK-2. The details come from a third-party directory (PrivateSchoolReview) and need confirming."
+  },
+  {
+   "name": "Bright Start Educational Center",
+   "category": "Schools",
+   "phone": "(201) 794-9400",
+   "address": "4-24 Saddle River Rd, Fair Lawn, NJ 07410",
+   "notes": "Private kindergarten/early learning. The details come from a third-party directory (PrivateSchoolReview) and need confirming."
+  },
+  {
+   "name": "Naaleh High School for Girls",
+   "category": "Schools",
+   "notes": "Jewish girls' high school (grades 9-12) reported in Fair Lawn. Directories disagree on its address and phone, so they are omitted here. Confirm with the school (naalehhighschool.org)."
+  },
+  {
+   "name": "Noble Leadership Academy",
+   "category": "Schools",
+   "notes": "Islamic private school that directories list at 1-30 Summit Ave (the former St. Anne School building). Other listings place it in Passaic, so the location is unverified. Note: St. Anne School closed in 2020."
+  }
+ ],
+ "places": [
+  {
+   "name": "Fair Lawn High School",
+   "category": "School",
+   "lat": 40.932319,
+   "lng": -74.1248821,
+   "address": "14-00 Berdan Ave., Fair Lawn, NJ 07410",
+   "description": "Public high school, grades 9-12. Includes the FLHS Planetarium.",
+   "url": "https://www.fairlawnschools.org/o/flhs",
+   "phone": "(201) 794-5450"
+  },
+  {
+   "name": "Memorial Middle School",
+   "category": "School",
+   "lat": 40.9305495,
+   "lng": -74.1388482,
+   "address": "12-00 First St., Fair Lawn, NJ 07410",
+   "description": "Public middle school, grades 5-8. Its Media Center also hosts some Board of Education meetings.",
+   "url": "https://www.fairlawnschools.org/o/mms",
+   "phone": "(201) 794-5470"
+  },
+  {
+   "name": "Thomas Jefferson Middle School",
+   "category": "School",
+   "lat": 40.9344642,
+   "lng": -74.103767,
+   "address": "35-01 Morlot Ave., Fair Lawn, NJ 07410",
+   "description": "Public middle school, grades 5-8.",
+   "url": "https://www.fairlawnschools.org/o/tjms",
+   "phone": "(201) 703-2240"
+  },
+  {
+   "name": "Henry B. Milnes Elementary",
+   "category": "School",
+   "lat": 40.9358578,
+   "lng": -74.1044259,
+   "address": "8-01 Philip St., Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/hbm",
+   "phone": "(201) 794-5550"
+  },
+  {
+   "name": "John A. Forrest Elementary",
+   "category": "School",
+   "lat": 40.9340707,
+   "lng": -74.1298923,
+   "address": "10-00 Hopper Ave., Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/jaf",
+   "phone": "(201) 794-5565"
+  },
+  {
+   "name": "Lyncrest Elementary",
+   "category": "School",
+   "lat": 40.9272284,
+   "lng": -74.1264732,
+   "address": "9-04 Morlot Ave., Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/les",
+   "phone": "(201) 794-5555"
+  },
+  {
+   "name": "Radburn Elementary",
+   "category": "School",
+   "lat": 40.9457241,
+   "lng": -74.1168586,
+   "address": "18-00 Radburn Road, Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/res",
+   "phone": "(201) 794-5480"
+  },
+  {
+   "name": "Warren Point Elementary",
+   "category": "School",
+   "lat": 40.9252324,
+   "lng": -74.1057145,
+   "address": "30-07 Broadway, Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/wpe",
+   "phone": "(201) 794-5570"
+  },
+  {
+   "name": "Westmoreland Elementary",
+   "category": "School",
+   "lat": 40.9404613,
+   "lng": -74.13402,
+   "address": "16-50 Parmelee Ave., Fair Lawn, NJ 07410",
+   "description": "Public elementary school, grades K-4.",
+   "url": "https://www.fairlawnschools.org/o/wes",
+   "phone": "(201) 794-5490"
+  },
+  {
+   "name": "Thomas Edison School & Board of Education Office",
+   "category": "School",
+   "lat": 40.9437131,
+   "lng": -74.1070951,
+   "address": "37-01 Fair Lawn Ave., Fair Lawn, NJ 07410",
+   "description": "District preschool (Integrated Preschool Program, AM or PM sessions), district administrative offices, and the Board of Education meeting room (Room 19).",
+   "url": "https://www.fairlawnschools.org/o/tes",
+   "phone": "(201) 794-5500"
+  },
+  {
+   "name": "Fair Lawn Community School / Buildings & Grounds / Transportation",
+   "category": "School",
+   "lat": 40.936064,
+   "lng": -74.136953,
+   "address": "5-01 Bergen Ave., Fair Lawn, NJ 07410",
+   "description": "District office for student registration, before/after care, continuing education, summer camps, transportation and facilities.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "phone": "(201) 794-5450 ext. 2369"
+  },
+  {
+   "name": "Fair Lawn Community Center",
+   "category": "Recreation",
+   "lat": 40.933017,
+   "lng": -74.1196865,
+   "address": "10-10 20th Street, Fair Lawn, NJ 07410",
+   "description": "Resident-only (free) center with a gym, fitness room, walking track, youth center/arcade, card room and a 170-seat theater. Recreation & Parks offices are on the 2nd floor.",
+   "url": "https://www.fairlawn.org/community-center",
+   "phone": "(201) 796-6746"
+  },
+  {
+   "name": "Memorial Pool & Spray Park",
+   "category": "Recreation",
+   "lat": 40.9285822,
+   "lng": -74.139053,
+   "address": "Memorial Park, Fair Lawn, NJ 07410",
+   "description": "Borough pool and spray park for residents, with membership and a photo ID badge required. Home of the Riptide summer swim team. The 2026 season is over.",
+   "url": "https://www.fairlawn.org/memorial-pool",
+   "phone": "(201) 927-4702"
+  },
+  {
+   "name": "Maurice M. Pine Free Public Library",
+   "category": "Library",
+   "lat": 40.9365403,
+   "lng": -74.1313962,
+   "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "description": "Fair Lawn's public library (BCCLS member). Runs story times, ESL classes, homework help, book clubs, concerts and the Pine Gallery. Open Mon-Thu 10-8, Fri-Sat 10-5, Sun 1-5.",
+   "url": "https://www.fairlawnlibrary.org/",
+   "phone": "201-796-3400"
+  },
+  {
+   "name": "Fair Lawn Senior Center",
+   "category": "Recreation",
+   "lat": 40.937655,
+   "lng": -74.130806,
+   "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
+   "description": "Senior center for adults 60+: weekday lunch, activities and services. It is one block from the library and Borough Hall.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191"
+  },
+  {
+   "name": "Bergen County Academies (BCTS)",
+   "category": "School",
+   "lat": 40.9019631,
+   "lng": -74.0334215,
+   "address": "Hackensack, NJ",
+   "description": "County magnet high school, grades 9-12, part of Bergen County Technical Schools. Admission is selective and open to Bergen County 8th graders.",
+   "url": "https://www.bergen.org/domain/729.html"
+  }
+ ],
+ "programs": [
+  {
+   "name": "Integrated Preschool Program",
+   "org": "Fair Lawn Public Schools",
+   "ages": "Preschool",
+   "season": "School year (Sept 8, 2026 - June 23, 2027)",
+   "description": "Five-day preschool that mixes general-education children with special-education preschoolers at Thomas Edison School. Morning (8:40-11:15) or afternoon (12:25-3:00) sessions. Online registration opened April 30, 2026; places go first-come, first-served and are limited.",
+   "url": "https://www.fairlawnschools.org/page/preschool-integrated-program",
+   "contact": "(201) 794-5500"
+  },
+  {
+   "name": "Before & After School Child Care",
+   "org": "Fair Lawn Community School",
+   "ages": "Elementary students",
+   "season": "School year",
+   "description": "District-run care before and after school. Registration, billing, authorized pickups and FSA receipts are handled in Community Pass. Before Care is canceled on delayed-opening days.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "flbac@fairlawnschools.org; billing flcs@fairlawnschools.org; (201) 794-5450 ext. 2369"
+  },
+  {
+   "name": "Community School After School & Evening Programs (Continuing Education)",
+   "org": "Fair Lawn Community School",
+   "ages": "Youth and adults",
+   "season": "Fall, Winter and Spring sessions",
+   "description": "Fee-based classes. Fall 2026 youth classes include chef/science, SAT/PSAT prep, Lego, chess, yoga, dance (K-Pop, Latin/ballroom), basketball and soccer leagues and clinics, fencing, pickleball, golf, tennis and volleyball. Adult classes include over-30 basketball, salsa/bachata, pickleball and yoga. Register on Community Pass.",
+   "url": "https://docs.google.com/document/d/170XBePk6iDpZ3qGAVYNFwxzEgkYGKlkFL3zCl-r13ts/edit?usp=sharing",
+   "contact": "flcs@fairlawnschools.org; (201) 794-5450 ext. 2369"
+  },
+  {
+   "name": "Camp Sycamore",
+   "org": "Fair Lawn Community School",
+   "ages": "Grades K-3",
+   "season": "Summer",
+   "description": "District-run summer day camp. A physician-completed physical form is due one week before the session starts. 2027 dates are not posted yet; registration will be on Community Pass.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "summer@fairlawnschools.org; (201) 794-5450 ext. 2369; camp office 201-926-4330 (summer)"
+  },
+  {
+   "name": "Camp FLAIR",
+   "org": "Fair Lawn Community School",
+   "ages": "Grades 4-8",
+   "season": "Summer",
+   "description": "District-run summer day camp for older kids. Registration will be on Community Pass; 2027 info is not posted yet.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "summer@fairlawnschools.org; camp office 201-926-4422 (summer)"
+  },
+  {
+   "name": "Counselor in Training (CIT) Program",
+   "org": "Fair Lawn Community School",
+   "ages": "Grades 9-10",
+   "season": "Summer",
+   "description": "Teens train as camp counselors at the district summer camps.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "summer@fairlawnschools.org"
+  },
+  {
+   "name": "April Vacation Mini-Camp",
+   "org": "Fair Lawn Community School",
+   "season": "Spring recess",
+   "description": "Camp during spring recess. Information is expected in February 2027.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "flcs@fairlawnschools.org"
+  },
+  {
+   "name": "Summer Music Enrichment Program",
+   "org": "Fair Lawn Public Schools",
+   "season": "Summer",
+   "description": "Summer music program run by the district band director. Summer 2027 details are not posted yet.",
+   "url": "https://www.fairlawnschools.org/page/commschool",
+   "contact": "jszeinberg@fairlawnschools.org"
+  },
+  {
+   "name": "Fair Lawn Recreation Summer Camps",
+   "org": "Fair Lawn Recreation & Parks",
+   "season": "Summer (two sessions; 2026 first session was June 29-July 17)",
+   "description": "Borough summer camp. In 2026, registration ran April 13-June 12 at the Community Center or online through Community Pass (residents only). After June 12 there was a $50 late fee, and there are no refunds once a session begins. Payment by check, money order or cash.",
+   "url": "https://www.fairlawn.org/camps",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Summer Recreation Basketball Camp",
+   "org": "Fair Lawn Recreation & Parks / Fair Lawn All-Sports",
+   "ages": "Entering grades 2-8",
+   "season": "Summer",
+   "description": "Held at the Community Center. Grades 4-8 attend mornings (8:30-11:45, $95) and grades 2-3 attend afternoons (1:00-3:00, $75). In 2026, registration opened April 13 at the Recreation Dept.",
+   "url": "https://www.fairlawn.org/basketball",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Memorial Pool & Spray Park Membership",
+   "org": "Fair Lawn Recreation & Parks",
+   "season": "Summer (late June - Labor Day); spray park has some September weekend hours",
+   "description": "Resident pool membership with a required photo ID badge. Register online through Community Pass, or in person at the Community Center for cash or check. 2025 rates were adult $150, junior $100, senior (62+) $25 and family $300. 100% disabled veterans join free, and veterans/active military get 50% off. 2026-27 rates are not yet posted.",
+   "url": "https://www.fairlawn.org/memorial-pool",
+   "contact": "(201) 796-6746; pool office (201) 927-4702 in season"
+  },
+  {
+   "name": "Swim Team - \"The Riptide\"",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "Children (by age/ability)",
+   "season": "Summer",
+   "description": "Community swim league team that competes with Ridgewood, Radburn and Wyckoff, with no tryouts. Practices run Mon-Thu 9-11am at Memorial Pool, and swimmers must be pool members. 2026 registration/orientation was June 8 at the Community Center.",
+   "url": "https://www.fairlawn.org/swim-team",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Street Hockey League",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "Grades 1-12",
+   "season": "Winter (league starts December; registration Oct 13 - Nov 13, 2026)",
+   "description": "Co-ed street hockey at the Joe Gambucci court in Memorial Park, with Pee Wee (gr 1-4), Junior and Senior divisions. Teams are drafted for balance and no experience is needed. Register in person at the Recreation Dept., Mon-Fri 8:30-4:30.",
+   "url": "https://www.fairlawn.org/street-hockey",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Fair Lawn Youth Center",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "Youth",
+   "season": "2026-27 season begins November 6-7, 2026",
+   "description": "Evening youth center at the Community Center with an arcade, air hockey, billiards and a large TV.",
+   "url": "https://www.fairlawn.org/youth-center",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Sprouts",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "3-7",
+   "season": "Year-round special events",
+   "description": "A series of special events for young children throughout the year.",
+   "url": "https://www.fairlawn.org/sprouts",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Adult Fitness & Leisure Programs",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "Adults 18+",
+   "season": "Year-round",
+   "description": "Pickleball, badminton, co-ed volleyball (Wed 7-9pm), men's open basketball (Mon 7-9pm), a table tennis club, chess class, yoga & Pilates, tennis lessons, TGA golf/pickleball lessons, and a women's slow-pitch softball league (April-June). Proof of residency is required for open play.",
+   "url": "https://www.fairlawn.org/rec-programs",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Rec Clubs: Bridge Club, Radio Club, Art Association, Club Fun",
+   "org": "Fair Lawn Recreation & Parks",
+   "ages": "All ages / adults",
+   "season": "Year-round",
+   "description": "Bridge Club (Mon & Thu 12:30-3:30), Fair Lawn Radio Club (Thu & Fri 7pm, http://flarc.net/), Fair Lawn Art Association classes (membership plus class fees), and Club Fun athletic/social programs for the special-needs community (with FLAS).",
+   "url": "https://www.fairlawn.org/clubs",
+   "contact": "(201) 796-6746"
+  },
+  {
+   "name": "Fair Lawn All-Sports youth leagues",
+   "org": "Fair Lawn All-Sports Association (FLAS)",
+   "ages": "Roughly PreK-8th grade (varies by sport)",
+   "season": "Year-round by sport",
+   "description": "Volunteer-run rec and travel leagues. Sports listed in the FLAS directory: soccer (largest; rec and tryout-based travel), baseball, softball, boys' and girls' basketball, boys' and girls' lacrosse, track & field, wrestling (junior clinic) and kickball. STARS is the special-needs program. Registration is on SportsEngine. Girls' winter rec basketball 2026-27 registration is open now. Volunteer coaches need Rutgers S.A.F.E.T.Y. certification.",
+   "url": "https://www.fairlawnallsports.com/page/show/5856305-register-to-play",
+   "contact": "fairlawnallsports@gmail.com"
+  },
+  {
+   "name": "Fair Lawn Football Association (Cutters)",
+   "org": "Fair Lawn Football Association",
+   "ages": "Youth",
+   "season": "Fall",
+   "description": "Youth football program, linked from the Recreation & Parks page. Its site does not list ages or registration details publicly.",
+   "url": "https://fairlawnfootballassociation.sportngin.com/"
+  },
+  {
+   "name": "Library children's programs",
+   "org": "Maurice M. Pine Free Public Library",
+   "ages": "Babies through grade 8",
+   "season": "Year-round",
+   "description": "Weekly recurring programs: Baby Time (under 2), Book Buddies (ages 2-3), Story Explorers (3-6) and Homework Help (gr K-8). Also Lego Club, D&D, Readers Rock, Bookworm Club, Chapter Club, Read to a Dog and seasonal events. Some programs need registration on LibCal.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281",
+   "contact": "201-796-3400"
+  },
+  {
+   "name": "Library teen & adult programs",
+   "org": "Maurice M. Pine Free Public Library",
+   "ages": "Teens and adults",
+   "season": "Year-round",
+   "description": "ESL for Beginners, Intermediate ESL, ESL Conversation Group, Spanish classes, book clubs (Librarian's Choice, Readers Roundtable on Zoom), adult board game club, chess club, Teen Advisory Board, crafts, concerts, art talks, Northeast NJ Legal Services clinics, and the Pine Gallery. The library also lends museum passes and hotspots.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281",
+   "contact": "201-796-3400"
+  },
+  {
+   "name": "Senior Center Nutrition Program",
+   "org": "Fair Lawn Senior Center / Bergen County Division of Senior Services",
+   "ages": "60+ (guests welcome)",
+   "season": "Year-round, Mon-Fri",
+   "description": "Full-course lunch at noon (check in by 11:50am). Suggested donation is $1.25 for ages 60+ and $6.55 for guests under 60. Reserve at least 24 hours ahead, by noon. No take-out. Meals on Wheels is available through Bergen County.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "contact": "(201) 796-1191"
+  },
+  {
+   "name": "Fair Lawn Senior Center activities",
+   "org": "Fair Lawn Senior Center",
+   "ages": "60+",
+   "season": "Year-round",
+   "description": "Free membership: fill out an application. Cultural, recreational, educational, health and social activities, with a new monthly calendar and an email newsletter. Tours are given by Ambassadors.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "contact": "(201) 796-1191"
+  },
+  {
+   "name": "Old Library Theatre",
+   "org": "Old Library Theatre (community theater)",
+   "ages": "All ages",
+   "season": "Year-round (about five shows per season)",
+   "description": "Community theater at the Fair Lawn Community Center Theater, with open auditions for all productions. Fall 2026 show: 'The Hello Girls' (October 2026).",
+   "url": "http://www.oldlibrarytheatre.net/"
+  },
+  {
+   "name": "Scouting",
+   "org": "Scouting America (Northern NJ Council) / Girl Scouts of Northern NJ",
+   "ages": "K-12",
+   "season": "School year",
+   "description": "Cub Scout Pack 613 meets at Congregation Ahavat Achim in Fair Lawn (pack613.org). For other local packs and troops, use the council locators. The borough's related-links page points to Girl Scouts of Northern NJ (gsnnj.org).",
+   "url": "https://www.gsnnj.org/"
+  }
+ ],
+ "guides": [
+  {
+   "id": "enrolling-your-child",
+   "title": "Enrolling your child in Fair Lawn Public Schools",
+   "category": "Schools",
+   "body": "New students register online. Students already enrolled in Fair Lawn do not need to re-register each year. The Fair Lawn Community School office handles all registration questions.\n\n- Kindergarten pre-registration opens in January (it opened January 21, 2026 for 2026-27). Children must turn 5 by October 1 of the school year.\n- Pre-registration for grades 1-12 opens in mid-May (May 13, 2026 for 2026-27). Pre-registrations submitted before the opening date are denied.\n- Collect and scan the required forms before you start: proof of residency, district medical forms, a records request (grades 1-12), and if needed the landlord affidavit (Form 214) or Forms 218 A & B. The forms are on the District Registration page.\n- Complete the online pre-registration through the district's Genesis portal at www.fairlawnschools.org/openreg once it opens.\n- Then email your child's name and incoming grade to flcs@fairlawnschools.org. Staff will review and contact you.\n- Kindergarten families are invited to an in-person orientation in late spring or early summer.\n\nPreschool: the district's Integrated Preschool Program at Thomas Edison School (37-01 Fair Lawn Ave) runs five days a week in AM or PM sessions. Online registration opens in spring (April 30, 2026 for 2026-27), and places are limited and first-come.\n\nAfter you register, the email you gave is used to create your Genesis Parent Portal account automatically. In the portal you can update contacts and report absences. Questions: genesis@fairlawnschools.org.\n\nCommunity School office: 5-01 Bergen Ave. Open Mon-Fri 8:30am-3:30pm, closed 12-1. Phone (201) 794-5450 ext. 2369, email flcs@fairlawnschools.org.\n\nCounty high school options: 8th graders who live in Bergen County can apply to the Bergen County Technical Schools (Bergen County Academies, Bergen Tech Teterboro/Paramus, Applied Technology HS, Career Innovation HS). The application opens September 1 of 8th grade, open houses run in October-November, and the BCA deadline is early November (November 8 in 2026).",
+   "sources": [
+    "https://www.fairlawnschools.org/page/district-registration",
+    "https://drive.google.com/file/d/1U8z9rOx4CuSq0xztzPgQch6H74ReXFt3/view?usp=sharing",
+    "https://www.fairlawnschools.org/page/preschool-integrated-program",
+    "https://www.fairlawnschools.org/page/genesis",
+    "https://www.fairlawnschools.org/page/commschool",
+    "https://www.bergen.org/domain/544.html"
+   ]
+  },
+  {
+   "id": "school-year-essentials",
+   "title": "School year essentials",
+   "category": "Schools",
+   "body": "Calendar: the 2026-2027 calendar is on the district site (https://aptg.co/pMPrPn). Students start Tuesday, September 8, 2026, and the school year has 183 student days. FLHS graduation is June 23, 2027.\n\n- Schools are closed Sept 21 (Yom Kippur), Nov 3 (Election Day, students only), Nov 5-6 (NJEA), Nov 26-27 (Thanksgiving), Dec 24-Jan 1 (holiday recess), Jan 18 (MLK Day), Feb 15-16 (Presidents' Day recess), Mar 10 (Eid al-Fitr), Mar 26 (Good Friday), Apr 19-23 (spring recess) and May 31 (Memorial Day).\n- Early dismissals: Nov 10 & 12 (PK-4 conferences), Nov 25, Dec 23, Jan 11, Feb 24-25 (K-4 conferences), Mar 15 and June 22-23.\n- Snow days: if makeup days are needed, school opens on April 19, then April 20, then April 21.\n\nWeather and emergency alerts: the district sends closings, delays and emergency messages by phone, email and text through SchoolMessenger, usually by 5:45am. Messages go to every phone and email listed for Guardian 1 and 2, so keep your contacts current in the Genesis portal. Closings are also posted on fairlawnschools.org, Facebook, X/Twitter (@FairLawnSchools), Instagram (@fairlawnschools), FOX 5, WABC 7 and News 12 NJ. Please don't call the police for school updates. The free Fair Lawn Schools mobile app is available on the App Store and Google Play.\n\n- Delayed opening start times: elementary 10:10am, middle 9:55am, high school 9:25am. No before care, and no breakfast at FLHS.\n- Early dismissal times: elementary and middle 12:45pm, high school 12:35pm. No lunch is served, and after care may be canceled.\n\nLunch: fund your child's account online at PaySchools Central (payschoolscentral.com), or send cash or a check payable to \"Fair Lawn BOE - Cafeteria Account\". Unused balances roll over. Menus are at fairlawnschools.nutrislice.com. Free and reduced-price meal applications are on the district website. Food Service Director: 201-794-5470 ext. 4516.\n\nBusing: FLHS and Thomas Jefferson MS have subscription busing (register online, and students need a bus pass). On delayed openings, pickup is 90 minutes later. Transportation Dept: 201-794-5522 ext. 6603.\n\nBoard of Education: regular meetings are usually the 4th Thursday at 7:30pm in Room 19 at Thomas Edison School, 37-01 Fair Lawn Ave. Some months the location or time changes. The October 29, 2026 meeting is at the Memorial Middle School Media Center at 7:00pm. Agendas are on BoardDocs, and meetings stream on YouTube. Email the board at boardmembers@fairlawnschools.org.\n\nFlyers from schools and community groups are posted on Peachjar.",
+   "sources": [
+    "https://aptg.co/pMPrPn",
+    "https://www.fairlawnschools.org/page/district-info",
+    "https://www.fairlawnschools.org/article/2012808",
+    "https://fairlawnschools.org/page/school-messenger",
+    "https://www.fairlawnschools.org/page/food-service-dis",
+    "https://www.fairlawnschools.org/page/district-fac",
+    "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+    "https://www.fairlawnschools.org/page/fair-lawn-app",
+    "https://app.peachjar.com/flyers/all/districts/13661/"
+   ]
+  },
+  {
+   "id": "summer-in-fair-lawn",
+   "title": "Summer in Fair Lawn: camps & Memorial Pool",
+   "category": "Recreation",
+   "body": "Fair Lawn has two separate sets of summer camps: one run by the school district's Community School and one run by the borough's Recreation & Parks Department. Both register through Community Pass, under different accounts and links.\n\nSchool district camps (Fair Lawn Community School):\n- Camp Sycamore for grades K-3, Camp FLAIR for grades 4-8, and the Counselor in Training program for grades 9-10.\n- Registration opens on Community Pass (register.communitypass.net/fairlawn). 2027 dates have not been announced.\n- Every camper needs a physical form completed by a physician and submitted at least one week before their session.\n- An optional camp lunch program can be added through your Community Pass account.\n- Questions: summer@fairlawnschools.org or (201) 794-5450 ext. 2369.\n\nBorough Recreation camps:\n- Registration usually opens in mid-April (April 13 in 2026), in person at the Community Center (10-10 20th St) or online via Community Pass (residents only).\n- Registration after the June deadline costs a $50 late fee, and there are no refunds once a session starts.\n- The Summer Basketball Camp for kids entering grades 2-8 costs $95 (grades 4-8, mornings) or $75 (grades 2-3, afternoons).\n- Questions: (201) 796-6746.\n\nMemorial Pool & Spray Park:\n- Residents need a membership and a photo ID badge. Register on Community Pass, or in person at the Community Center to pay by cash or check.\n- 2025 rates were adult $150, junior $100, senior (62+) $25 and family $300. 100% disabled veterans join free, and veterans/active military get 50% off. Watch the pool page in spring for 2027 rates.\n- The pool office ((201) 927-4702) is only staffed in season.\n- The Riptide summer swim team practices at the pool and has no tryouts. Swimmers must be pool members.\n\nOther summer fun: Summer Concert and Summer Movie series from Recreation, the district's Summer Music Enrichment Program, and an April Vacation Mini-Camp (info expected February 2027).",
+   "sources": [
+    "https://www.fairlawnschools.org/page/commschool",
+    "https://www.fairlawn.org/camps",
+    "https://www.fairlawn.org/basketball",
+    "https://www.fairlawn.org/memorial-pool",
+    "https://www.fairlawn.org/swim-team",
+    "https://www.fairlawn.org/park-rec"
+   ]
+  },
+  {
+   "id": "youth-sports-signup",
+   "title": "Youth sports signup",
+   "category": "Recreation",
+   "body": "Most youth sports in Fair Lawn are run by Fair Lawn All-Sports (FLAS), a volunteer nonprofit that works with the Recreation Department. A few programs are run directly by Recreation or by independent groups.\n\nFair Lawn All-Sports (fairlawnallsports.com):\n- Sports: soccer (rec plus tryout-based travel), baseball, softball, boys' and girls' basketball, boys' and girls' lacrosse, track & field, wrestling (junior clinic) and kickball. STARS serves the special-needs community.\n- Register on the 'Register to Play' page, which uses SportsEngine. Use one email address for the whole family.\n- Sign up for FLAS email updates to hear when each season opens. Girls' winter rec basketball 2026-27 registration is open now.\n- Volunteer coaches must complete the FLAS coach registration, a background check and Rutgers S.A.F.E.T.Y. certification.\n- Contact: fairlawnallsports@gmail.com, or Recreation at 201-796-6746.\n\nRun by Recreation & Parks:\n- Street Hockey League for grades 1-12. Register in person at the Recreation Dept. (Community Center, 10-10 20th St, Mon-Fri 8:30-4:30), October 13 - November 13, 2026. Games start in December at Memorial Park.\n- Riptide summer swim team at Memorial Pool.\n- Summer Basketball Camp (grades 2-8).\n\nRun by other groups:\n- Football: Fair Lawn Football Association (fairlawnfootballassociation.sportngin.com).\n- Fee-based after-school leagues and clinics through the Fair Lawn Community School: basketball, soccer, fencing, pickleball, golf, tennis and volleyball (Community Pass).\n\nIce hockey: we did not find a Fair Lawn-based youth ice hockey club. Families typically use clubs at nearby rinks.",
+   "sources": [
+    "https://www.fairlawnallsports.com/",
+    "https://www.fairlawnallsports.com/page/show/5856305-register-to-play",
+    "https://www.fairlawnallsports.com/contact",
+    "https://www.fairlawn.org/street-hockey",
+    "https://www.fairlawn.org/swim-team",
+    "https://www.fairlawn.org/park-rec",
+    "https://docs.google.com/document/d/170XBePk6iDpZ3qGAVYNFwxzEgkYGKlkFL3zCl-r13ts/edit?usp=sharing"
+   ]
+  },
+  {
+   "id": "programs-for-seniors",
+   "title": "Programs for seniors",
+   "category": "Seniors",
+   "body": "Fair Lawn Senior Center, 11-05 Gardiner Road (corner of 11th St), one block from the library and Borough Hall. Phone (201) 796-1191.\n\n- Open to adults 60+. Membership is free: stop in and fill out an application. Non-residents use a separate form.\n- Call to set up a tour with a trained Ambassador and pick up a Welcome Packet.\n- A new calendar of events comes out each month, and there is a monthly email newsletter.\n- Lunch is served weekdays at noon. Check in by 11:50am and reserve at least 24 hours ahead. The suggested donation is $1.25 for ages 60+ and $6.55 for guests under 60, and there is no take-out.\n- Homebound residents can get Meals on Wheels through the Bergen County Division of Senior Services.\n\nGetting around: the borough's free Mini Bus serves residents 18+ within Fair Lawn, weekdays 9am-4pm. Call 201-794-5327 up to two weeks ahead and no later than 3pm the business day before. Other options: Bergen County Transportation (201-368-5955 or 201-336-7400), and Access Link for people with disabilities (800-955-2321, option 1).\n\nMore to do:\n- The Community Center (free for residents) has a walking track, fitness room, pickleball, table tennis, a Bridge Club (Mon & Thu afternoons) and a card room.\n- The library hosts book clubs, ESL and language classes, concerts and art talks.\n- Seniors 62+ got a $25 Memorial Pool membership in 2025.",
+   "sources": [
+    "https://www.fairlawn.org/senior-citizen",
+    "https://www.fairlawn.org/mini-bus",
+    "https://www.fairlawn.org/community-center",
+    "https://www.fairlawn.org/clubs",
+    "https://www.fairlawn.org/rec-programs",
+    "https://bccls.libcal.com/calendar/fairlawn/?cid=10281"
+   ]
+  },
+  {
+   "id": "library-and-lifelong-learning",
+   "title": "Library & lifelong learning",
+   "category": "Library",
+   "body": "The Maurice M. Pine Free Public Library is at 10-01 Fair Lawn Avenue (201-796-3400). Hours: Mon-Thu 10am-8pm, Fri-Sat 10am-5pm, Sun 1-5pm. It belongs to the BCCLS consortium, so one card works at libraries across Bergen County. You can apply for a card online.\n\n- Kids: Baby Time, Book Buddies, Story Explorers, Homework Help (grades K-8), Lego Club, D&D and reading clubs.\n- Adults: ESL (beginner, intermediate and conversation), Spanish classes, book clubs, board game club, concerts, art talks and free legal clinics.\n- Other services: museum passes and hotspots to borrow, mobile printing, NJ MVC practice tests, and the Pine Gallery.\n- Event calendar: bccls.libcal.com/calendar/fairlawn (subscribable as iCal or RSS).\n\nAdult and continuing education: the Fair Lawn Community School runs after-school and evening classes for youth and adults (dance, yoga, pickleball, SAT prep and more). Browse the course guide and register on Community Pass. Recreation & Parks also offers adult fitness and leisure programs at the Community Center. Community theater: the Old Library Theatre performs at the Community Center Theater.",
+   "sources": [
+    "https://www.fairlawnlibrary.org/",
+    "https://bccls.libcal.com/calendar/fairlawn/?cid=10281",
+    "https://www.fairlawnschools.org/page/commschool",
+    "https://www.fairlawn.org/rec-programs",
+    "https://www.fairlawn.org/clubs"
+   ]
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Fair Lawn Public Schools - District Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/12837/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn High School - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13338/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Memorial Middle School - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13336/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Thomas Jefferson Middle School - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13337/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Henry B. Milnes Elementary - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13332/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "John A. Forrest Elementary - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13330/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Lyncrest Elementary - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13331/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Radburn Elementary - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13333/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Warren Point Elementary - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13334/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Thomas Edison School (Preschool) - Events (iCal)",
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13329/cms/events/generate_ical",
+   "type": "ical",
+   "category": "Schools",
+   "verified": true
+  },
+  {
+   "name": "Maurice M. Pine Library - Events (iCal)",
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10281",
+   "type": "ical",
+   "category": "Library",
+   "verified": true
+  }
+ ],
+ "failedFeeds": [
+  {
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/13335/cms/events/generate_ical",
+   "reason": "Westmoreland Elementary iCal returns a valid text/calendar response, but it had 0 events on 2026-10-19. Re-check before relying on it."
+  },
+  {
+   "url": "https://www.fairlawnschools.org/rss",
+   "reason": "404. The district site (Apptegy/Thrillshare) has no public RSS for news. News is only available as JSON at https://thrillshare-cmsv2.services.thrillshare.com/api/v2/s/215077/articles (not RSS)."
+  },
+  {
+   "url": "https://www.fairlawnschools.org/feed",
+   "reason": "404"
+  },
+  {
+   "url": "https://www.fairlawnschools.org/rss.xml",
+   "reason": "404"
+  },
+  {
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v2/s/215077/articles.rss",
+   "reason": "Returns application/json, not RSS"
+  },
+  {
+   "url": "https://thrillshare-cmsv2.services.thrillshare.com/api/v4/o/12837/cms/live_feeds/rss",
+   "reason": "404"
+  },
+  {
+   "url": "https://www.fairlawnlibrary.org/feed",
+   "reason": "404 (Wix site, no blog feed)"
+  },
+  {
+   "url": "https://www.fairlawnlibrary.org/rss.xml",
+   "reason": "400 Bad Request"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss",
+   "reason": "404. The borough (Catalis CMS) calendar and Recreation pages expose no RSS/iCal links. The borough calendar is only a PDF."
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.asp",
+   "reason": "404"
+  },
+  {
+   "url": "https://www.fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&Type=B_EV&RSS=1",
+   "reason": "Returns an HTML page, not RSS (Community Center Theater calendar)"
+  }
+ ]
+}

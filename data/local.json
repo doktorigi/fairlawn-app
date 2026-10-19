@@ -1,0 +1,618 @@
+{
+ "businesses": [
+  {
+   "name": "Zadies Bake Shop",
+   "category": "Bakery",
+   "address": "2150 Promenade Blvd (Fair Lawn Promenade), Fair Lawn, NJ 07410",
+   "lat": 40.94355,
+   "lng": -74.129475,
+   "note": "Beloved kosher (RCBC, nut-free) bakery reopened in a new Promenade space in Apr-May 2026, two years after the 2024 Fair Lawn Ave fire",
+   "trending": true
+  },
+  {
+   "name": "Zevy's Pizza",
+   "category": "Restaurant",
+   "address": "10-16 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.92975,
+   "lng": -74.131376,
+   "note": "Kosher pizzeria; Fair Lawn 'Best Pizza' winner, reviewed by Dave Portnoy in July 2026",
+   "trending": true,
+   "url": "http://zevysnj.com/",
+   "phone": "(201) 300-6113"
+  },
+  {
+   "name": "Haus Cafe",
+   "category": "Cafe",
+   "address": "12-54 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.932729,
+   "lng": -74.132664,
+   "note": "River Road coffee and fresh-food spot; featured in Rep. Gottheimer's Small Business Week visit (2026)",
+   "trending": true,
+   "url": "https://www.thehauscafe.com/",
+   "phone": "201-794-7944"
+  },
+  {
+   "name": "Juany's Cafe & Grill",
+   "category": "Cafe",
+   "address": "12-56 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.932553,
+   "lng": -74.132489,
+   "note": "River Road cafe and grill; hosts HeArt Haus community storytelling nights",
+   "trending": false,
+   "url": "http://juanyscafe.com/",
+   "phone": "(551) 224-8030"
+  },
+  {
+   "name": "Taco Buzz",
+   "category": "Restaurant",
+   "address": "12-76 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.933096,
+   "lng": -74.13273,
+   "note": "Halal taco shop on River Road",
+   "trending": false,
+   "url": "http://tacobuzzhalal.menufy.com/",
+   "phone": "(201) 254-9212"
+  },
+  {
+   "name": "The Chocolate Nook",
+   "category": "Shop",
+   "address": "11-11 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.930007,
+   "lng": -74.131321,
+   "note": "Local chocolate and truffle shop on River Road",
+   "trending": false,
+   "url": "https://trufflesfairlawn.com/",
+   "phone": "(201) 254-9215"
+  },
+  {
+   "name": "Shoti Bread House",
+   "category": "Restaurant",
+   "address": "14-29 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.935892,
+   "lng": -74.134023,
+   "note": "Georgian khachapuri and khinkali; anchor of Fair Lawn's Russian/Georgian food scene (NJ Monthly, 2026)",
+   "trending": true
+  },
+  {
+   "name": "Fair Lawn Diner",
+   "category": "Restaurant",
+   "address": "13-48 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.93514,
+   "lng": -74.133955,
+   "note": "Classic River Road diner (formerly listed as Empress Diner)",
+   "trending": false,
+   "url": "https://fairlawndiner.com/",
+   "phone": "(201) 791-2895"
+  },
+  {
+   "name": "Speeders Car Wash",
+   "category": "Service",
+   "address": "17-16 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.937882,
+   "lng": -74.137339,
+   "note": "Membership-based express car wash opened in Nov 2025",
+   "trending": true
+  },
+  {
+   "name": "Santos Flowers",
+   "category": "Shop",
+   "address": "13-20 River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.934134,
+   "lng": -74.133227,
+   "note": "River Road florist, part of the Shop Fair Lawn gift card program",
+   "trending": false,
+   "url": "http://www.floristfairlawnnj.com/",
+   "phone": "(201) 300-6053"
+  },
+  {
+   "name": "Fisher's Cafe",
+   "category": "Cafe",
+   "address": "7-07 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.935614,
+   "lng": -74.133776,
+   "note": "Neighborhood cafe near the River Road district",
+   "trending": false
+  },
+  {
+   "name": "The Roadhouse",
+   "category": "Restaurant",
+   "address": "19-05 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.937962,
+   "lng": -74.125494,
+   "note": "Kosher restaurant that reopened in Jan 2025 after the 2024 strip-mall fire",
+   "trending": false
+  },
+  {
+   "name": "Cozie Cafe",
+   "category": "Cafe",
+   "address": "14-25 Plaza Rd N (Radburn Plaza), Fair Lawn, NJ 07410",
+   "lat": 40.940187,
+   "lng": -74.119915,
+   "note": "Radburn coffee shop known for viral coffee flights and a fireplace lounge",
+   "trending": true,
+   "url": "https://www.coziecafe.com/",
+   "phone": "+1 201-254-9029"
+  },
+  {
+   "name": "Mei Sushi",
+   "category": "Restaurant",
+   "address": "14-20 Plaza Rd (Radburn Plaza), Fair Lawn, NJ 07410",
+   "lat": 40.939965,
+   "lng": -74.120352,
+   "note": "Sushi in the Radburn Plaza business district",
+   "trending": false,
+   "phone": "+1 201-398-9882"
+  },
+  {
+   "name": "Modern Bagel Cafe",
+   "category": "Cafe",
+   "address": "23-55 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.939773,
+   "lng": -74.11909,
+   "note": "Radburn bagel cafe; completed a Main Street storefront makeover in late 2025",
+   "trending": false
+  },
+  {
+   "name": "Saigon Bistro",
+   "category": "Restaurant",
+   "address": "24-08 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.939357,
+   "lng": -74.118895,
+   "note": "Vietnamese restaurant in the Radburn/Fair Lawn Ave district",
+   "trending": false,
+   "url": "https://saigonbistro.com/",
+   "phone": "+1 201-398-1883"
+  },
+  {
+   "name": "Swiss Pork Store",
+   "category": "Deli",
+   "address": "24-10 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.939374,
+   "lng": -74.118838,
+   "note": "Old-school European butcher with homemade sausages and cold cuts",
+   "trending": false,
+   "url": "http://www.swissporkstoreoffairlawn.com/"
+  },
+  {
+   "name": "Java Nut",
+   "category": "Cafe",
+   "address": "22-18 Morlot Ave, Fair Lawn, NJ 07410",
+   "lat": 40.930111,
+   "lng": -74.116619,
+   "note": "Kosher (chalav/pas Yisrael) bakery-cafe with doughnuts and bagels",
+   "trending": true,
+   "url": "https://www.thejavanut.com/",
+   "phone": "+1 201-272-2151"
+  },
+  {
+   "name": "Kosher Express",
+   "category": "Restaurant",
+   "address": "22-16 Morlot Ave, Fair Lawn, NJ 07410",
+   "lat": 40.930108,
+   "lng": -74.11663,
+   "note": "Long-running glatt kosher Chinese restaurant (RCBC)",
+   "trending": false
+  },
+  {
+   "name": "Two Guys Pizza & Grill",
+   "category": "Restaurant",
+   "address": "21-16 Morlot Ave, Fair Lawn, NJ 07410",
+   "lat": 40.929821,
+   "lng": -74.117705,
+   "note": "Neighborhood pizza and grill on Morlot Ave",
+   "trending": false,
+   "url": "http://www.twoguyspizzagrill.com/",
+   "phone": "(201) 794-1001"
+  },
+  {
+   "name": "Broadway Food Palace",
+   "category": "Grocery",
+   "address": "23-08 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.922368,
+   "lng": -74.112504,
+   "note": "Russian grocery with house-made meats, smoked fish and baked goods",
+   "trending": false,
+   "url": "http://bfpmarket.com/"
+  },
+  {
+   "name": "A Family Affair Italian Deli",
+   "category": "Deli",
+   "address": "23-17 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.922646,
+   "lng": -74.112319,
+   "note": "Well-rated Italian deli and caterer on Broadway",
+   "trending": false,
+   "url": "http://www.afadeli.com/",
+   "phone": "(201) 796-2882"
+  },
+  {
+   "name": "Carson's Cookie Dough",
+   "category": "Bakery",
+   "address": "25-05 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.923301,
+   "lng": -74.110027,
+   "note": "Inclusive bakery employing differently-abled staff; opened Mar 2025, Gottheimer visit May 2026",
+   "trending": true
+  },
+  {
+   "name": "Chicken Galore",
+   "category": "Restaurant",
+   "address": "34-01 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.925345,
+   "lng": -74.102304,
+   "note": "Broadway chicken spot",
+   "trending": false,
+   "url": "http://chicken-galore.com/",
+   "phone": "(201) 796-1772"
+  },
+  {
+   "name": "Top Bagels & Deli",
+   "category": "Deli",
+   "address": "34-05 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.925361,
+   "lng": -74.102224,
+   "note": "Popular Broadway bagel shop (flagels, bialys, breakfast sandwiches)",
+   "trending": false
+  },
+  {
+   "name": "Frame It Custom Framing",
+   "category": "Shop",
+   "address": "34-06 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.925136,
+   "lng": -74.102018,
+   "note": "Local custom framing shop",
+   "trending": false,
+   "url": "http://www.frameitfairlawn.com/",
+   "phone": "(201) 797-1333"
+  },
+  {
+   "name": "RP Prime Steakhouse",
+   "category": "Restaurant",
+   "address": "41-11 Route 4 / Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.926834,
+   "lng": -74.091798,
+   "note": "Upscale steak and seafood on Route 4",
+   "trending": false,
+   "url": "https://www.rpprime.com/location/rp-prime-fair-lawn/",
+   "phone": "+1 201 267 0702"
+  },
+  {
+   "name": "Soup Maison and Latin Kitchen",
+   "category": "Restaurant",
+   "address": "11-08 Saddle River Rd, Fair Lawn, NJ 07410",
+   "lat": 40.938787,
+   "lng": -74.098732,
+   "note": "Soups and Latin home cooking",
+   "trending": false,
+   "url": "https://www.soupmaisonandlatinkitchen.com/",
+   "phone": "(201) 254-9281"
+  },
+  {
+   "name": "Bao Dumplings & Bao Tea",
+   "category": "Restaurant",
+   "address": "21-06 Maple Ave (Maple Avenue Plaza), Fair Lawn, NJ 07410",
+   "lat": 40.9456,
+   "lng": -74.14,
+   "note": "Taiwanese-style dumplings, soup dumplings and imported tea; opened 2025 (coords approximate to plaza)",
+   "trending": true
+  },
+  {
+   "name": "ShopRite of Maple & Hemlock",
+   "category": "Grocery",
+   "address": "22-00 Maple Ave, Fair Lawn, NJ 07410",
+   "lat": 40.94628,
+   "lng": -74.140611,
+   "note": "Main full-size supermarket (Inserra, opened 2023); open Sundays despite Bergen County blue laws",
+   "trending": false
+  },
+  {
+   "name": "The Craftsman",
+   "category": "Restaurant",
+   "address": "16-09 Maple Ave, Fair Lawn, NJ 07410",
+   "lat": 40.94113,
+   "lng": -74.141774,
+   "note": "Irish-influenced gastropub; hosted Main Street film screening and World Cup watch party (2026)",
+   "trending": true
+  },
+  {
+   "name": "Manjal Indian Fusion",
+   "category": "Restaurant",
+   "address": "95 Lincoln Ave, Fair Lawn, NJ 07410",
+   "lat": 40.944893,
+   "lng": -74.147252,
+   "note": "Halal South Indian restaurant; Main Street storefront improvement completed Oct 2025",
+   "trending": false
+  },
+  {
+   "name": "CVS Pharmacy (Fair Lawn Ave)",
+   "category": "Service",
+   "address": "24-00 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "lat": 40.939454,
+   "lng": -74.118469,
+   "note": "Sunday-open pharmacy essentials in Radburn",
+   "trending": false,
+   "url": "https://www.cvs.com/store-locator/fair-lawn-nj-pharmacies/24-12-fair-lawn-avenue-fair-lawn-nj-07410/storeid=251",
+   "phone": "+1 201-797-7500"
+  },
+  {
+   "name": "CVS Pharmacy (Broadway)",
+   "category": "Service",
+   "address": "29-00 Broadway, Fair Lawn, NJ 07410",
+   "lat": 40.923383,
+   "lng": -74.106224,
+   "note": "Sunday-open pharmacy essentials on Broadway/Route 4",
+   "trending": false,
+   "url": "https://www.cvs.com/store-locator/fairlawn-nj-pharmacies/29-00-broadway-rt-4-fairlawn-nj-07410/storeid=5427"
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Google News: \"Fair Lawn\" NJ",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Fair+Lawn%22+NJ",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "Mcdonalds Proposes Fair Lawn Restaurant Rebuild With Dual Lane Drive Through - News12 | New Jersey",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Fair Lawn past 7 days",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Fair+Lawn%22+NJ+when:7d",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "Fair Lawn ShopRite Site Gets New Life As Hindu Temple Plans Win Approval - Daily Voice",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=site:tapinto.net+%22Fair+Lawn%22",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "Fair Lawn College Student Earns Top Honors in Science Competition - TAPinto",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: NorthJersey.com / Bergen Record Fair Lawn (site filter)",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=site:northjersey.com+%22Fair+Lawn%22",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "Vacant Fair Lawn ShopRite to become Hindu temple under approved plan - Bergen Record",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Daily Voice Fair Lawn (site filter)",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=site:dailyvoice.com+%22Fair+Lawn%22+when:30d",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "18 People Caught Taking Astroturf From Vacant Bergen County Building: Officials - DailyVoice.com",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Patch Fair Lawn (site filter)",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=site:patch.com+%22Fair+Lawn%22",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "Family-Run Café Closes In North Jersey, And It's Part Of A Trend - Patch",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Fair Lawn restaurants & openings",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Fair+Lawn%22+(restaurant+OR+opening+OR+%22grand+opening%22+OR+bakery+OR+cafe+OR+opens+OR+closing)",
+   "type": "rss",
+   "category": "Business",
+   "verified": true,
+   "sampleTitle": "Mcdonalds Proposes Fair Lawn Restaurant Rebuild With Dual Lane Drive Through - News 12 - Hudson Valley",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Fair Lawn business (past year)",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Fair+Lawn%22+NJ+business+when:365d",
+   "type": "rss",
+   "category": "Business",
+   "verified": true,
+   "sampleTitle": "Fair Lawns Small Business Scavenger Hunt Returns For 5th Year - News12 | New Jersey",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Google News: Fair Lawn events & community",
+   "url": "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=%22Fair+Lawn%22+(event+OR+festival+OR+library+OR+%22Radburn%22)",
+   "type": "rss",
+   "category": "Community",
+   "verified": true,
+   "sampleTitle": "Fair Lawn 1800s Fall Festival - The Local Girl",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Fair Lawn-Saddle Brook Patch",
+   "url": "https://patch.com/feeds/aol/new-jersey/fairlawn-saddlebrook",
+   "type": "rss",
+   "category": "Local news",
+   "verified": true,
+   "sampleTitle": "2 Men Were Hired To Burn Upper Saddle River House, Prosecutor Says",
+   "mustMention": "fair lawn"
+  },
+  {
+   "name": "Fair Lawn Main Street (River Road & Broadway improvement districts) news",
+   "url": "https://www.fairlawnmainstreet.com/feed/",
+   "type": "rss",
+   "category": "Business",
+   "verified": true,
+   "sampleTitle": "Fair Lawn Main Street: Community Highlights and Business Updates"
+  },
+  {
+   "name": "Fair Lawn Chamber of Commerce blog",
+   "url": "https://www.fairlawnchamber.org/feed/",
+   "type": "rss",
+   "category": "Business",
+   "verified": true,
+   "sampleTitle": "Fostering Entrepreneurship in Glen Rock, Hawthorne, and Saddle Brook with the Fair Lawn Chamber of Commerce"
+  },
+  {
+   "name": "Reddit r/newjersey search: Fair Lawn",
+   "url": "https://www.reddit.com/r/newjersey/search.rss?q=%22fair+lawn%22&restrict_sr=on&sort=new",
+   "type": "atom",
+   "category": "Community",
+   "verified": true,
+   "sampleTitle": "What's going on this weekend? [10/15-10/18] – Broken out by county",
+   "mustMention": "fair lawn"
+  }
+ ],
+ "failedFeeds": [
+  {
+   "url": "https://www.tapinto.net/towns/fair-lawn-slash-glen-rock/articles.rss",
+   "reason": "HTTP 406/403 (CloudFront bot block) for all UAs tried; /rss and /feed paths 404. Use the Google News site:tapinto.net feed instead."
+  },
+  {
+   "url": "https://www.northjersey.com/news/local/fair-lawn/",
+   "reason": "HTTP 402 'Access Restricted' (Gannett bot wall); rssfeeds.northjersey.com returns 404. Use the Google News site:northjersey.com feed."
+  },
+  {
+   "url": "https://dailyvoice.com/new-jersey/fairlawn/rss/",
+   "reason": "Valid RSS (advertised on the Fair Lawn page) but returns site-wide Daily Voice items, not Fair Lawn-filtered; use the Google News site:dailyvoice.com feed."
+  },
+  {
+   "url": "https://patch.com/feeds/aol/new-jersey/fairlawn",
+   "reason": "Returns an empty 'New Jersey Region' channel; the correct Patch slug is fairlawn-saddlebrook."
+  },
+  {
+   "url": "https://www.reddit.com/r/FairLawn/.rss",
+   "reason": "Subreddit r/Fairlawn is banned (404); r/FairLawnNJ is also banned."
+  },
+  {
+   "url": "https://www.reddit.com/r/Bergen/.rss",
+   "reason": "HTTP 429 rate-limited repeatedly. Reddit feeds work only intermittently; use a descriptive User-Agent and space requests out."
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.xml",
+   "reason": "404; the borough site (GovOffice) exposes no RSS/iCal, only an HTML calendar and a yearly PDF calendar."
+  },
+  {
+   "url": "https://www.fairlawnmainstreet.com/wp-json/tribe/events/v1/events",
+   "reason": "Valid JSON but the events list is empty (no upcoming events published); ?ical=1 returns HTML."
+  },
+  {
+   "url": "https://www.fairlawnchamber.org/events/?ical=1",
+   "reason": "HTTP 403 Cloudflare challenge; the chamber's tribe events JSON is also empty."
+  },
+  {
+   "url": "https://www.eventbrite.com/d/nj--fair-lawn/events/",
+   "reason": "HTML only; Eventbrite has no public RSS and its API needs an auth token."
+  }
+ ],
+ "community": [
+  {
+   "name": "Borough of Fair Lawn (official Facebook)",
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/fairlawnboro",
+   "description": "Official borough announcements, closures, emergencies"
+  },
+  {
+   "name": "Borough of Fair Lawn Instagram",
+   "platform": "Other",
+   "url": "https://www.instagram.com/fairlawnboroughnj/",
+   "description": "Official borough Instagram"
+  },
+  {
+   "name": "Fair Lawn Main Street (Facebook)",
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/FairLawnMS/",
+   "description": "River Road and Broadway improvement-district events, business openings, Small Business Scavenger Hunt"
+  },
+  {
+   "name": "Fair Lawn Chamber of Commerce (Facebook)",
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/fairlawnchamber/",
+   "description": "Chamber networking, ribbon cuttings, street fair"
+  },
+  {
+   "name": "Fair Lawn Public Library (Facebook)",
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/FairLawnPublicLibrary/",
+   "description": "Library programs, exhibits and events"
+  },
+  {
+   "name": "Fair Lawn Public School District (Facebook)",
+   "platform": "Facebook",
+   "url": "https://www.facebook.com/FairLawnPublicSchoolDistrict/",
+   "description": "School district news and closings"
+  },
+  {
+   "name": "Nextdoor - Fair Lawn, NJ",
+   "platform": "Nextdoor",
+   "url": "https://nextdoor.com/city/fair-lawn--nj/",
+   "description": "Neighborhood posts, recommendations, lost and found (login required)"
+  },
+  {
+   "name": "r/newjersey",
+   "platform": "Reddit",
+   "url": "https://www.reddit.com/r/newjersey/",
+   "description": "Statewide sub; Fair Lawn threads show up in searches and in weekly county event roundups"
+  },
+  {
+   "name": "r/bergencounty",
+   "platform": "Reddit",
+   "url": "https://www.reddit.com/r/bergencounty/",
+   "description": "Bergen County subreddit (r/Fairlawn and r/FairLawnNJ are banned)"
+  },
+  {
+   "name": "The Radburn Association",
+   "platform": "Web",
+   "url": "https://www.radburn.org/",
+   "description": "Community association for the historic Radburn section (pools, parks, programs)"
+  },
+  {
+   "name": "Fair Lawn Eruv mailing list",
+   "platform": "Other",
+   "url": "https://groups.io/g/FairLawnEruv",
+   "description": "groups.io email list for eruv status updates"
+  },
+  {
+   "name": "Fair Lawn Eruv status",
+   "platform": "Web",
+   "url": "https://www.fairlawneruv.com/",
+   "description": "Weekly eruv up/down status page"
+  },
+  {
+   "name": "Shop Fair Lawn Marketplace",
+   "platform": "Web",
+   "url": "https://fair-lawn-nj.yiftee.com/",
+   "description": "Local gift-card program and directory of participating Fair Lawn businesses"
+  },
+  {
+   "name": "Meetup - Fair Lawn",
+   "platform": "Web",
+   "url": "https://www.meetup.com/find/us--nj--fair-lawn/",
+   "description": "Local interest groups and meetups"
+  },
+  {
+   "name": "Fair Lawn Library events calendar (LibCal)",
+   "platform": "Web",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281",
+   "description": "Library events; iCal subscription: https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10281"
+  }
+ ],
+ "contacts": [
+  {
+   "name": "Fair Lawn Chamber of Commerce",
+   "category": "Business",
+   "phone": "(201) 796-7050",
+   "email": "info@fairlawnchamber.org",
+   "url": "https://www.fairlawnchamber.org/",
+   "address": "8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "notes": "Chamber of commerce; blog RSS at /feed/ (posts are infrequent)"
+  },
+  {
+   "name": "Fair Lawn Main Street Inc.",
+   "category": "Business",
+   "email": "info@fairlawnmainstreet.com",
+   "url": "https://www.fairlawnmainstreet.com/",
+   "address": "8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+   "notes": "District management entity for the River Road and Broadway Improvement Districts; runs storefront and lease grants and the Shop Fair Lawn gift card"
+  }
+ ]
+}

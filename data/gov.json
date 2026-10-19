@@ -1,0 +1,590 @@
+{
+ "contacts": [
+  {
+   "name": "Borough Hall (Municipal Building)",
+   "category": "Government",
+   "phone": "(201) 796-1700",
+   "url": "https://www.fairlawn.org",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Department hours vary; most offices Mon-Fri approx. 8:30 AM-4:30 PM (see individual departments)",
+   "notes": "Main switchboard. Website contact: webmaster@fairlawn.org. 311-style service requests: https://fairlawnnj.qscend.com/311/request/add"
+  },
+  {
+   "name": "Mayor & Council",
+   "category": "Government",
+   "email": "council@fairlawn.org",
+   "url": "https://www.fairlawn.org/council",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "2026 governing body: Mayor Cristina Cutrone (ccutrone@fairlawn.org), Deputy Mayor Josh Reinitz (jreinitz@fairlawn.org), Councilmembers Kris Krause (kkrause@fairlawn.org), Nathalie Salinas (nsalinas@fairlawn.org), Joseph Baldofsky (jbaldofsky@fairlawn.org). Regular meetings Tuesdays 7:30 PM, Council Chambers (2nd floor). Remaining 2026 regular meetings: Oct 27, Nov 24, Dec 15; work sessions Nov 10, Dec 1 (Conference Room 201). Broadcast on FLTV (Optimum ch. 77 / Fios ch. 37) and fairlawn.org/meeting-videos."
+  },
+  {
+   "name": "Borough Manager - Kurt Peluso",
+   "category": "Government",
+   "phone": "(201) 794-5310",
+   "email": "kpeluso@fairlawn.org",
+   "url": "https://www.fairlawn.org/borough-manager",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410"
+  },
+  {
+   "name": "Municipal Clerk - Nicholas Magarelli, RMC",
+   "category": "Government",
+   "phone": "(201) 794-5340",
+   "email": "nmagarelli@fairlawn.org",
+   "url": "https://www.fairlawn.org/clerk",
+   "address": "8-01 Fair Lawn Avenue, Room 206 (2nd floor), Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:30 AM-4:30 PM; closed weekends and legal holidays",
+   "notes": "Deputy Clerk Coleen Goddel (cgoddel@fairlawn.org). OPRA requests, licenses (raffles, ABC, landscaper registration, landlord registration, taxi/limo), elections info, agendas/minutes."
+  },
+  {
+   "name": "Registrar of Vital Records - Marcy Kissane",
+   "category": "Government",
+   "phone": "(201) 796-1700",
+   "email": "mkissane@fairlawn.org",
+   "url": "https://www.fairlawn.org/vital-records",
+   "address": "8-01 Fair Lawn Avenue, Room 206, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:30 AM-4:00 PM (summer: Mon-Thu 8:00 AM-4:30 PM, Fri 8:00 AM-12:00 PM)",
+   "notes": "Clerk page lists (201) 794-5344 for the Registrar. Certified copies $10; marriage license $28 (by appointment only). Some page links use HHS@fairlawn.org instead - verify."
+  },
+  {
+   "name": "Tax Collector - Dorothy Blanchard",
+   "category": "Government",
+   "phone": "(201) 794-5338",
+   "email": "dblanchard@fairlawn.org",
+   "url": "https://www.fairlawn.org/collector-water-billing",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 9:00 AM-4:00 PM (summer: Mon-Thu 8:30 AM-4:00 PM, Fri 8:30-11:30 AM)",
+   "notes": "Assistant Tax Collector Rabia Ferati (201) 794-5339, rferati@fairlawn.org. Taxes due Feb 1, May 1, Aug 1, Nov 1 with 10-day grace period. Pay online: https://wipp.edmundsassoc.com/Wipp/?wippid=0217"
+  },
+  {
+   "name": "Water Billing Office - Lisa Londner",
+   "category": "Utilities",
+   "phone": "(201) 794-5334",
+   "email": "LLondner@fairlawn.org",
+   "url": "https://www.fairlawn.org/collector-water-billing",
+   "address": "8-01 Fair Lawn Avenue (1st floor), Fair Lawn, NJ 07410",
+   "notes": "Water billed quarterly; 2026 rate $7.50 per 1,000 gallons. Handles billing, final readings, name changes. E-bill sign-up: https://www.fairlawn.org/email-water-billing"
+  },
+  {
+   "name": "Tax Assessor - Tim Henderson",
+   "category": "Government",
+   "phone": "(201) 794-5319",
+   "email": "taxassessor@fairlawn.org",
+   "url": "https://www.fairlawn.org/tax-assessor",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "Senior/disabled and veteran $250 deductions; appeals to Bergen County Board of Taxation by April 1 (or 45 days after assessment notices)."
+  },
+  {
+   "name": "Building Department - Richard Bolan, Building & Zoning Official",
+   "category": "Government",
+   "phone": "(201) 794-5307",
+   "url": "https://www.fairlawn.org/building-zoning",
+   "address": "8-01 Fair Lawn Avenue, Room 112 (1st floor), Fair Lawn, NJ 07410",
+   "hours": "Office 8:30 AM-4:30 PM; permits issued 9:00 AM-4:00 PM",
+   "notes": "Property Maintenance Officer John Campbell (201) 794-5325 / (201) 777-6137. Rent Leveling Board Secretary (201) 564-6152. No online permit portal found; PDF forms on the page."
+  },
+  {
+   "name": "Zoning & Planning Board - Tara Longo",
+   "category": "Government",
+   "phone": "(201) 794-5308",
+   "email": "tlongo@fairlawn.org",
+   "url": "https://www.fairlawn.org/zoning",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:30 AM-4:00 PM (summer: Mon-Thu 8:00 AM-4:00 PM, Fri 8:00 AM-12:00 PM)"
+  },
+  {
+   "name": "Engineering (Piazza Engineering, Borough Engineer)",
+   "category": "Government",
+   "url": "https://www.fairlawn.org/engineering",
+   "notes": "No direct phone listed; contact via Borough Hall (201) 796-1700. Tax maps, street map, stormwater plans, FEMA flood map and paving map links."
+  },
+  {
+   "name": "Municipal Court",
+   "category": "Government",
+   "phone": "(201) 794-5348",
+   "email": "Court@fairlawn.org",
+   "url": "https://www.fairlawn.org/court",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:30 AM-4:30 PM",
+   "notes": "Traffic/parking tickets payable via NJMCdirect: https://portalnjmcdirect-cloud.njcourts.gov/"
+  },
+  {
+   "name": "Human Services (pet licensing, food pantry, mini bus)",
+   "category": "Seniors",
+   "phone": "(201) 794-5327",
+   "url": "https://www.fairlawn.org/human-services",
+   "address": "8-01 Fair Lawn Avenue, Room 109, Fair Lawn, NJ 07410",
+   "hours": "Mon-Thu 8:00 AM-4:30 PM; Fri 8:00 AM-12:00 PM",
+   "notes": "Food Pantry Coordinator Ivette Ruz (iruz@fairlawn.org); Licensing Clerk Dominic Caiazza (dcaiazza@fairlawn.org). Dog/cat/fowl licenses, Fair Lawn residents-only food pantry, housing rehab programs."
+  },
+  {
+   "name": "Dog & Cat Licensing",
+   "category": "Other",
+   "phone": "(201) 794-5327",
+   "url": "https://www.fairlawn.org/dog-cat-licenses",
+   "address": "8-01 Fair Lawn Avenue, Room 109, Fair Lawn, NJ 07410",
+   "notes": "Dogs: Jan 1-Dec 31 cycle; cats: Jun 1-May 31. 1-yr $12 (fixed) / $15; 3-yr $30 / $40; $10 late fee. Rabies proof required."
+  },
+  {
+   "name": "Animal Control (via Police Dispatch)",
+   "category": "Safety",
+   "phone": "201-796-1400",
+   "url": "https://www.fairlawn.org/index.asp?SEC=D8D1DADA-A45A-4DAC-B71E-0CC92DD17A2C",
+   "notes": "Call police non-emergency line and press 1 for Dispatch. Animal attacks/emergencies: 9-1-1."
+  },
+  {
+   "name": "Health Services - Northwest Bergen Regional Health Commission",
+   "category": "Health",
+   "phone": "201-445-7217",
+   "email": "info@nwbrhc.net",
+   "url": "https://www.nwbrhc.org",
+   "address": "20 W. Prospect Street, Waldwick, NJ 07463",
+   "notes": "Borough contracts health services (clinics, immunizations, food inspections, communicable disease) to NWBRHC. Borough health page: https://www.fairlawn.org/health"
+  },
+  {
+   "name": "Senior Citizen Center",
+   "category": "Seniors",
+   "phone": "(201) 796-1191",
+   "email": "srcenter@fairlawn.org",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 8:00 AM-4:00 PM; Sat 10:30 AM-3:30 PM; Sun 12:00-3:00 PM; closed Borough holidays",
+   "notes": "Director Karin Krankel. Free membership, 60+. Weekday lunch at noon (reserve 24 hrs ahead; suggested donation $1.25 for 60+)."
+  },
+  {
+   "name": "Senior Loop-Line (recorded info line)",
+   "category": "Seniors",
+   "phone": "(201) 777-6161",
+   "notes": "Weekly recorded voicemail of community events, updated Fridays. Do not leave messages."
+  },
+  {
+   "name": "Mini Bus Service",
+   "category": "Transit",
+   "phone": "201-794-5327",
+   "url": "https://www.fairlawn.org/mini-bus",
+   "hours": "Mon-Fri, rides 9:00 AM-4:00 PM, excluding Borough holidays",
+   "notes": "Free for Fair Lawn residents 18+, within Fair Lawn only. Book up to 2 weeks ahead, by 3 PM the prior business day; reservation not confirmed until staff call back."
+  },
+  {
+   "name": "Bergen County Transportation (medical trips)",
+   "category": "Transit",
+   "phone": "201-368-5955",
+   "notes": "Free door-to-door rides for doctor visits outside Fair Lawn (alt. 201-336-7400). Listed on Fair Lawn Human Services / Mini Bus pages."
+  },
+  {
+   "name": "Bergen County Meals on Wheels",
+   "category": "Seniors",
+   "phone": "201-336-7420",
+   "notes": "Kosher Meals on Wheels: 201-796-5151 (per Fair Lawn Human Services page)."
+  },
+  {
+   "name": "Recycling Office / Recycling Center (Ron Lottermann, Coordinator)",
+   "category": "Sanitation",
+   "phone": "201-794-5341",
+   "email": "recycling@fairlawn.org",
+   "url": "https://www.fairlawn.org/recycling",
+   "address": "20-05 Saddle River Road, Fair Lawn, NJ 07410",
+   "hours": "Mon-Fri 7:00 AM-3:20 PM; Sat 9:00 AM-12:50 PM; Sun 12:00-3:50 PM (per 2026 calendar). Closed Borough holidays.",
+   "notes": "Call to schedule metal/appliance/electronics curbside pickup (at least 1 business day ahead). Residents and Fair Lawn businesses only. The recycling web page shows slightly different Sat/Sun hours (incl. 'Sunday 9 AM-1 PM starting 10/4/26') - confirm by phone."
+  },
+  {
+   "name": "Cali Carting (garbage & recycling contractor) - missed pickups",
+   "category": "Sanitation",
+   "phone": "201-991-5400",
+   "email": "service@calicarting.com",
+   "url": "http://www.calicarting.com"
+  },
+  {
+   "name": "Department of Public Works (DPW) - Supt. Christopher Hoitsma",
+   "category": "Sanitation",
+   "phone": "(201) 794-5304",
+   "email": "dpw@fairlawn.org",
+   "url": "https://www.fairlawn.org/dpw",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "Alternate line (201) 794-5326. Roads, snow plowing, loose leaf collection, sewer, shade trees, street dumpster permits. DPW complex on Saddle River Road."
+  },
+  {
+   "name": "Bergen County Utilities Authority (household hazardous waste)",
+   "category": "Sanitation",
+   "phone": "201-807-5825",
+   "url": "https://www.bcua.org",
+   "notes": "Paint, chemicals and other HHW must go to county collection days (number from Fair Lawn 2026 recycling calendar)."
+  },
+  {
+   "name": "Fair Lawn Police Department (non-emergency)",
+   "category": "Safety",
+   "phone": "201-796-1400",
+   "url": "https://www.fairlawnpd.com/",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "24/7",
+   "notes": "Emergency: 9-1-1. Records 201-794-5418 (records@fairlawnpd.com, Mon-Fri ~8-4); Traffic Safety 201-794-5413; Detective Bureau 201-794-5410; Community Policing 201-794-5365. Overnight parking requests: pdlinx.com/parking"
+  },
+  {
+   "name": "Fair Lawn Fire Department (administration)",
+   "category": "Safety",
+   "phone": "(201) 794-5389",
+   "email": "fire@fairlawn.org",
+   "url": "https://www.fairlawn.org/fire",
+   "address": "8-01 Fair Lawn Avenue, Room B-7, Fair Lawn, NJ 07410",
+   "notes": "Emergency: 9-1-1. Chief Michael Salvini (firechief@fairlawn.org). Volunteer fire companies."
+  },
+  {
+   "name": "Fire Prevention Bureau",
+   "category": "Safety",
+   "phone": "(201) 794-5408",
+   "url": "https://www.fairlawn.org/fire-prevention",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "Fire code inspections; smoke detector certification requirements document on page (needed for home resale)."
+  },
+  {
+   "name": "Fair Lawn Volunteer Ambulance Corps (FLVAC)",
+   "category": "Safety",
+   "phone": "201-797-5321",
+   "url": "https://www.fairlawnvac.org/",
+   "address": "1 Cooper's Way, Fair Lawn, NJ 07410",
+   "notes": "Emergency: 9-1-1. Office line also used for free non-emergency transport (non-ambulatory/oxygen residents; book 1+ day ahead) and CPR classes. Mail: P.O. Box 282."
+  },
+  {
+   "name": "Office of Emergency Management (OEM)",
+   "category": "Safety",
+   "phone": "201-794-5390",
+   "url": "https://www.fairlawn.org/emergency-management",
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "notes": "Coordinator Wendy Alvarez. CERT 201-794-5392 (fairlawncert@fairlawn.org). Special Needs Registry form available on the OEM page."
+  },
+  {
+   "name": "Fair Lawn Water Department",
+   "category": "Utilities",
+   "phone": "201-703-4260",
+   "email": "waterdept@fairlawn.org",
+   "url": "https://www.fairlawn.org/dpw-water",
+   "notes": "Borough-owned water utility (16 wells + PVWC and Suez/Veolia purchases); operates 24/7. Other water lines listed: (201) 794-5374. No dedicated after-hours line published - use police non-emergency 201-796-1400 or 9-1-1 for urgent main breaks. Annual Water Quality Reports on the page."
+  },
+  {
+   "name": "PSE&G (electric & gas) - outages / customer service",
+   "category": "Utilities",
+   "phone": "1-800-436-7734",
+   "url": "https://nj.pseg.com/",
+   "hours": "Outage reporting 24/7; reps Mon-Fri 7 AM-8 PM",
+   "notes": "Gas leak / emergency line 24/7: 1-800-880-7734. Leave the area before calling about a suspected gas leak."
+  },
+  {
+   "name": "Optimum (Altice) - NJ customer service",
+   "category": "Utilities",
+   "phone": "973-230-6048",
+   "url": "https://www.optimum.net/support/contact-us/",
+   "notes": "NJ BPU also lists 1-866-200-6474 for Optimum."
+  },
+  {
+   "name": "Verizon Fios",
+   "category": "Utilities",
+   "phone": "1-800-837-4966",
+   "url": "https://www.verizon.com/home/fios/",
+   "notes": "1-800-VERIZON, as listed by NJ Board of Public Utilities."
+  },
+  {
+   "name": "Maurice M. Pine Free Public Library",
+   "category": "Library",
+   "phone": "201-796-3400",
+   "email": "faircirc@bccls.org",
+   "url": "https://www.fairlawnlibrary.org/",
+   "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "hours": "Mon-Thu 10 AM-8 PM; Fri 10 AM-5 PM; Sat 10 AM-5 PM; Sun 1-5 PM",
+   "notes": "BCCLS member library. Holiday closures listed at bccls.org (holiday notes on the library site appear to be from a prior year)."
+  },
+  {
+   "name": "NJ TRANSIT",
+   "category": "Transit",
+   "url": "https://www.njtransit.com/",
+   "notes": "Bergen County Line rail stations: Broadway (Fair Lawn) and Radburn (Fair Lawn)."
+  },
+  {
+   "name": "Fair Lawn commuter parking (ParkLync)",
+   "category": "Transit",
+   "url": "https://www.fairlawnpd.com/parking",
+   "notes": "Train lots: Erie, Upper Erie, Pollitt Dr. Monthly permits only since March 1, 2026 (no daily permits). Residents & non-residents via app.parklync.com. Bus riders: Saddle River Road lot at DPW yard (20-05 Saddle River Rd)."
+  },
+  {
+   "name": "Bergen County Clerk - Elections Division (vote-by-mail)",
+   "category": "Government",
+   "phone": "201-336-7020",
+   "url": "https://www.bergencountyclerk.gov/Elections",
+   "address": "One Bergen County Plaza, Room 130, Hackensack, NJ 07601",
+   "notes": "Phone from municipal/county notices (some dated); verify on the Clerk site."
+  },
+  {
+   "name": "Bergen County Board of Elections",
+   "category": "Government",
+   "url": "https://bergencountynj.gov/election-officials/bergen-county-board-of-elections/",
+   "address": "One Bergen County Plaza, Hackensack, NJ 07601"
+  }
+ ],
+ "guides": [
+  {
+   "id": "garbage-recycling",
+   "title": "Garbage & Recycling",
+   "category": "Sanitation",
+   "body": "Curbside garbage and recycling are collected by Cali Carting. Fair Lawn is split into 5 sections; your section sets your days. Find your street (and block range/odd-even side) in the 'Section List by Street' on fairlawn.org/recycling. Your 'block' is the first part of your address (8-01 Fair Lawn Ave is on the 8 block).\n\nWeekly days by section:\n- Section 1: Recycling Tue, Garbage Wed (2nd garbage Sat in summer)\n- Section 2: Recycling Wed, Garbage Thu (2nd garbage Mon)\n- Section 3: Recycling Fri, Garbage Mon (2nd garbage Thu)\n- Section 4: Recycling Thu, Garbage Tue (2nd garbage Fri)\n- Section 5: Recycling Mon, Garbage Fri (2nd garbage Tue)\n\nRecycling alternates weekly: Paper/Cardboard one week, Bottles/Cans (commingled) the next. Check the 2026 Recycling Calendar for your section's P (paper) and C (cans) weeks. The second weekly garbage pickup runs only in the warm season (the borough page says first full week of May through last full week of September).\n\nSet-out rules:\n- Put recycling out after 6 PM the night before and by 6 AM collection day. NO plastic bags for recycling.\n- Containers 20-40 gallons, max 40 lbs when full. No limit on recycling quantity.\n- Garbage: up to 4 barrels per house per day, lidded 20-40 gal cans, no loose bags or boxes. Remove cans from the curb by midnight after collection.\n\nWhat goes in recycling:\n- Paper/Cardboard: newspapers, magazines, junk mail, cereal boxes, cardboard, office/shredded paper, soft-cover books. No pizza boxes, Styrofoam or plastic wrap.\n- Bottles/Cans: glass bottles & jars, aluminum and tin cans, clean foil, plastic bottles/jars/jugs, family-size food tubs, wax-coated gable-top cartons. Rinse out food.\n\nMissed pickup? Call Cali Carting at 201-991-5400. If weather cancels collection, the borough emails/posts a notice; there is no make-up day.\n\nRecycling Center: 20-05 Saddle River Road, Mon-Fri 7:00 AM-3:20 PM, Sat 9:00 AM-12:50 PM, Sun noon-3:50 PM (per 2026 calendar; the website lists slightly different weekend hours, so call 201-794-5341 to confirm). Accepts all curbside recyclables plus electronics, scrap metal, appliances, yard waste, tires (limits apply), used clothing and plastic toys. No garbage, hazardous waste or brick/concrete/dirt.\n\nHolidays: collection is cancelled on Borough holidays marked 'H' on the calendar with no make-up day. Remaining 2026: Thanksgiving Thu Nov 26 and Christmas Fri Dec 25.",
+   "sources": [
+    "https://www.fairlawn.org/recycling",
+    "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326"
+   ]
+  },
+  {
+   "id": "bulk-leaf-pickup",
+   "title": "Bulk, Leaf & Special Pickups",
+   "category": "Sanitation",
+   "body": "Furniture and bulky items:\n- One piece of furniture per residence per garbage day, no appointment needed.\n- One toilet per garbage day.\n- Carpet: cut and tied in 3-foot lengths, one room per garbage day.\n\nMetal, appliances and electronics: curbside pickup on your recycling day by appointment only. Call the Recycling Office at 201-794-5341 at least one business day ahead. Remove refrigerator doors. Or bring them to the Recycling Center. Computers, monitors, phones, printers, DVD players and game consoles are accepted at the Center; don't cut TV cords. Projection/console TVs go in the garbage.\n\nConstruction debris: not taken with regular garbage except on two 'D' days per year (small amounts, up to 4 barrels / 200 lbs, on your garbage day). Fall 2026 D days fall the week of Oct 19-23 (e.g., Section 3 Mon Oct 19, Section 4 Tue Oct 20, Section 1 Wed Oct 21, Section 5 Fri Oct 23; Section 2 on its Thursday garbage day - check the calendar). Otherwise use a contractor, rent a dumpster (street dumpster permit from DPW, 201-794-5304), or buy $50 vouchers at the Recycling or DPW office to drop off at the Recycling Center (car 1 voucher, trailer 2, SUV/van/pickup 3).\n\nYard waste, leaves and brush: collected with recycling on your recycling day ('Y' on the calendar, roughly April through early December). Use paper leaf bags or containers under 40 gallons; no plastic bags. Branches max 3 ft long and 3 in diameter, bundled and tied. No logs or stumps. Don't rake leaves into the street. The DPW also runs a fall loose-leaf collection; the 2026 loose-leaf schedule was not found online - watch Nixle/email alerts or call DPW at 201-794-5304.\n\nChristmas trees: collected in January on a designated recycling day marked 'X' (in 2026 it was the second full week of January). Remove all ornaments and tinsel; no bags. Check the 2027 calendar when released.\n\nHousehold hazardous waste (paint, chemicals, propane, pesticides, pool chemicals) is not accepted by the borough. Use Bergen County Utilities Authority (BCUA) collection days, 9 AM-3 PM, rain or shine. Next 2026 date: Sat Nov 14, 2026 at BCUA, foot of Empire Blvd., Moonachie (back gate entry). BCUA info: bcua.org, 201-807-5825.\n\nFree compost is available at the Recycling Center when supplies allow (2 barrels/week).",
+   "sources": [
+    "https://www.fairlawn.org/recycling",
+    "https://www.fairlawn.org/construction-disposal",
+    "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326",
+    "https://www.midlandparknj.gov/1258/2026-BCUA-Recycling-Program-Events"
+   ]
+  },
+  {
+   "id": "moving-to-fair-lawn",
+   "title": "Moving to Fair Lawn Checklist",
+   "category": "Government",
+   "body": "Welcome to Fair Lawn (Bergen County, ZIP 07410). Borough Hall is at 8-01 Fair Lawn Avenue, (201) 796-1700.\n\n- Water: Fair Lawn runs its own water utility. Call the Water Billing Office at (201) 794-5334 to put the account in your name and arrange a final/initial reading. Sign up for e-billing at fairlawn.org/email-water-billing.\n- Electric & gas: PSE&G, 1-800-436-7734 (nj.pseg.com).\n- Internet/TV: Optimum (NJ 973-230-6048) or Verizon Fios (1-800-837-4966).\n- Garbage & recycling: look up your section and pickup days at fairlawn.org/recycling and download the current Recycling Calendar. Use lidded 20-40 gallon cans.\n- Alerts: text 07410 to 888777 or register at local.nixle.com/signup/widget/i/856 for borough Nixle alerts; sign up for email notices via the borough's Constant Contact list.\n- Pets: license dogs and cats over 6 months with Human Services (201-794-5327); rabies proof required.\n- Voting: update your registration at nj.gov/state/elections (voter-registration) and check your polling place at voter.svrs.nj.gov/polling-place-search.\n- Property taxes: due Feb 1, May 1, Aug 1, Nov 1 (10-day grace). Pay online via the borough's Edmunds portal.\n- Home resale/CCO: sellers need a Continued Certificate of Occupancy from the Building Department (201-794-5307) and a smoke/CO detector certification (Fire Prevention Bureau, 201-794-5408).\n- Landlords must register with the Municipal Clerk (201-794-5340).\n- Library card: Maurice M. Pine Library, 10-01 Fair Lawn Ave, 201-796-3400.\n- Parking: overnight street parking requires permission from the police (pdlinx.com/parking); commuter lot permits through ParkLync.\n- Seniors: free Senior Center membership (201-796-1191) and free borough Mini Bus (201-794-5327).",
+   "sources": [
+    "https://www.fairlawn.org/collector-water-billing",
+    "https://www.fairlawn.org/recycling",
+    "https://www.fairlawn.org/dog-cat-licenses",
+    "https://www.fairlawn.org/clerk",
+    "https://www.fairlawnpd.com/parking",
+    "https://nj.pseg.com/contactcustomerservice"
+   ]
+  },
+  {
+   "id": "emergency-alerts-snow",
+   "title": "Emergency Alerts & Snow",
+   "category": "Safety",
+   "body": "Emergencies: call 9-1-1. Police non-emergency (24/7): 201-796-1400.\n\nGet alerts:\n- Nixle (text/phone/email): text your ZIP code 07410 to 888777, or register at local.nixle.com/signup/widget/i/856. The borough uses Nixle for road closures, weather bulletins, water main breaks and boil-water notices.\n- Email notifications: register via the borough's Constant Contact page (lp.constantcontactpages.com/sl/StZKkcy).\n- Senior Loop-Line recorded info: (201) 777-6161, updated Fridays.\n- Special Needs Registry: residents who may need help in an emergency can file the form on the OEM page (fairlawn.org/emergency-management).\n\nOffice of Emergency Management: 201-794-5390. Power outages: PSE&G 1-800-436-7734; gas leak: leave the area, then call PSE&G emergency 1-800-880-7734 or 9-1-1.\n\nSnow rules:\n- Clear a path at least 30 inches wide on your sidewalk within 12 hours after snow, sleet or freezing rain stops.\n- Do not shovel or blow snow into the street (Borough Code 208-2). Push it onto your lawn.\n- Wait for the plow to pass before clearing your driveway apron; plowed snow often ends up there.\n- Keep cars off local streets and cul-de-sacs during storms so plows can clear curb to curb.\n- Dig out fire hydrants and crosswalks near your home.\n- Plowing order: major collector streets, emergency routes and school bus routes first, then residential and cul-de-sac streets.\n- Mailboxes and portable basketball hoops damaged in the right-of-way are the owner's responsibility.\n\nDPW (plowing questions): 201-794-5304 or 201-794-5326.",
+   "sources": [
+    "https://www.fairlawn.org/emergency-management",
+    "https://local.nixle.com/borough-of-fair-lawn/",
+    "https://www.fairlawn.org/index.asp?SEC=8B08A93C-E487-49D3-BFB3-D8FA3881096A&DE=F9CA9A3D-81F5-4713-89D4-740FD6BE60D3",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=89CF2FEB-7B7C-4150-B032-4E96EA0934B6"
+   ]
+  },
+  {
+   "id": "taxes-water-bills",
+   "title": "Paying Taxes & Water Bills",
+   "category": "Government",
+   "body": "Property taxes are due quarterly on Feb 1, May 1, Aug 1 and Nov 1. There is a 10-day grace period; after 4 PM on the 10th day, interest is charged back to the 1st (8% on the first $1,500 delinquent, 18% above that). The next due date is Nov 1, 2026 (grace through Nov 10).\n\nWater is billed quarterly by the Borough (2026 rate: $7.50 per 1,000 gallons). Unpaid water bills can lead to shut-off at the curb.\n\nWays to pay:\n- Online (tax and water): wipp.edmundsassoc.com/Wipp/?wippid=0217 (e-check $1.95 fee; card about 2.95%).\n- Drop box in the Municipal Building parking lot (no cash).\n- By mail with your stub: Tax Collector, 8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410.\n- In person at the Tax Collector's office, Mon-Fri 9 AM-4 PM.\n\nContacts: Tax Collector (201) 794-5338 / 5339; Water Billing (201) 794-5334; Tax Assessor (201) 794-5319 for assessments, $250 senior/disabled and veteran deductions, and appeal info (Bergen County Board of Taxation, due by April 1).\n\n2026 note: final 2026 / preliminary 2027 tax bills were mailed in early August 2026 after the tax rate was certified; the Aug 1 grace period was extended to Sept 1, 2026.",
+   "sources": [
+    "https://www.fairlawn.org/collector-water-billing",
+    "https://www.fairlawn.org/tax-assessor",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=162D8920-953B-4593-8536-BA0DB3567B8A"
+   ]
+  },
+  {
+   "id": "permits",
+   "title": "Permits",
+   "category": "Government",
+   "body": "Building/construction permits: Building Department, Room 112, (201) 794-5307. Permits issued 9 AM-4 PM. NJ Uniform Construction Code forms (building, electrical, plumbing, fire, mechanical) are on fairlawn.org/building-zoning; no online permit portal was found.\n\nZoning permits (Tara Longo, 201-794-5308) - typical fees:\n- Fence, shed, patio, driveway (new/replacement), temporary storage bin: $60 (2 copies of survey; 1 for bins).\n- Above-ground pool, hot tub, deck, porch, accessory structure, sign: $30.\n- In-ground pool, addition, garage, dormer, new house: $45.\n- Public sidewalk, apron or curb replacement: $25 (survey + inspection).\n- Walkways: zoning approval, no fee.\n\nOther permits and licenses:\n- Street dumpster: permit from DPW, (201) 794-5304.\n- Home sale: Residential CCO application (Building Dept) and smoke/CO detector certification (Fire Prevention, 201-794-5408).\n- Garage/yard sales: no permit, but no signs in the 10-ft right-of-way.\n- Landscaper/tree service registration, landlord registration, raffles: Municipal Clerk, (201) 794-5340.\n- Dog/cat licenses: Human Services, 201-794-5327.\n- Overnight street parking: police, pdlinx.com/parking (one night) or pdlinx.com/parkingpermit (up to a week); hardship permits $10/month via Records Bureau.\n\nBorough code: ecode360.com/FA1754.",
+   "sources": [
+    "https://www.fairlawn.org/building-zoning",
+    "https://www.fairlawn.org/zoning",
+    "https://www.fairlawn.org/clerk",
+    "https://www.fairlawnpd.com/parking"
+   ]
+  },
+  {
+   "id": "getting-around",
+   "title": "Getting Around (Transit)",
+   "category": "Transit",
+   "body": "Rail: NJ TRANSIT Bergen County Line stops at two Fair Lawn stations - Broadway (near Broadway/Route 4) and Radburn (Pollitt Drive). Trains connect to Secaucus Junction and Hoboken (transfer at Secaucus for New York Penn Station).\n\nBuses: NJ TRANSIT routes listed for Fair Lawn include 144, 145 and 164 to the Port Authority Bus Terminal, 160 (Garfield/Saddle Brook/Fair Lawn), 171 to the George Washington Bridge, and 770 (local, at Broadway). Check njtransit.com for current schedules.\n\nCommuter parking: train lots at Erie, Upper Erie and Pollitt Dr. Since March 1, 2026 only monthly permits are sold (no daily). Residents and non-residents register via ParkLync (app.parklync.com). Bus commuters can park at the Saddle River Road lot at the DPW yard (20-05 Saddle River Rd), also via ParkLync.\n\nLocal options:\n- Borough Mini Bus: free for residents 18+, weekdays 9 AM-4 PM within Fair Lawn. Book at 201-794-5327 by 3 PM the prior business day.\n- Bergen County Transportation: free rides for medical visits, 201-368-5955.\n- Access Link (paratransit): 800-955-2321, option 1.\n- FLVAC non-emergency ambulance transport for non-ambulatory residents: 201-797-5321.",
+   "sources": [
+    "https://www.njtransit.com/abc_Bergen_County_line",
+    "https://www.fairlawnpd.com/parking",
+    "https://www.fairlawn.org/mini-bus"
+   ]
+  },
+  {
+   "id": "voting",
+   "title": "Voting & Elections",
+   "category": "Government",
+   "body": "2026 General Election: Tuesday, November 3, 2026, polls open 6 AM-8 PM. Find your polling place at voter.svrs.nj.gov/polling-place-search.\n\nEarly in-person voting: Saturday Oct 24 through Sunday Nov 1, 2026, Mon-Sat 10 AM-8 PM, Sun 10 AM-6 PM, at any of Bergen County's 10 sites. Closest to Fair Lawn: Garfield (Nutrition Center/Senior Citizens Building, 480 Midland Ave) and Paramus (Bergen Community College Technology Building, 400 Paramus Rd). Others: Fort Lee, Hackensack, Mahwah, River Vale, Teaneck, Wood-Ridge, Woodcliff Lake, Wyckoff.\n\nVote by mail: apply through the Bergen County Clerk (201-336-7020). Mailed applications must be received 7 days before Election Day (Oct 27, 2026); in-person applications at the Clerk's office until 3 PM the day before the election.\n\nRegister or check registration: nj.gov/state/elections/voter-registration.shtml. Questions: Fair Lawn Municipal Clerk, (201) 794-5340.",
+   "sources": [
+    "https://www.fairlawn.org/clerk",
+    "https://www.fairlawn.org/uploads/dm/88256/EV_Flyer_GEN_2026.pdf",
+    "https://www.bergencountyclerk.gov/Elections",
+    "https://voter.svrs.nj.gov/polling-place-search"
+   ]
+  },
+  {
+   "id": "seniors-human-services",
+   "title": "Seniors & Human Services",
+   "category": "Seniors",
+   "body": "Senior Center: 11-05 Gardiner Road (corner of 11th St), (201) 796-1191, srcenter@fairlawn.org. Open Mon-Fri 8-4, Sat 10:30-3:30, Sun noon-3. Free membership for adults 60+; weekday hot lunch at noon (reserve 24 hours ahead).\n\nHuman Services (Borough Hall Room 109, 201-794-5327):\n- Food Pantry for Fair Lawn residents (applications in English, Russian, Spanish).\n- Free Mini Bus within Fair Lawn.\n- Housing rehabilitation help for income-eligible homeowners.\n- Holiday food and gift drives.\n- Referrals: Bergen County Social Services (SNAP, Medicaid), Bergen Community Action Partnership (energy assistance).\n\nMeals on Wheels: Bergen County 201-336-7420; Kosher Meals on Wheels 201-796-5151.\n\nSenior Loop-Line recorded events line: (201) 777-6161.",
+   "sources": [
+    "https://www.fairlawn.org/senior-citizen",
+    "https://www.fairlawn.org/human-services",
+    "https://www.fairlawn.org/mini-bus"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "name": "Fair Lawn Borough Hall (Municipal Building)",
+   "category": "Government",
+   "lat": 40.936357,
+   "lng": -74.132282,
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "description": "Mayor & Council, Clerk, Tax Collector, Water Billing, Building/Zoning, Court, Human Services, Police HQ.",
+   "url": "https://www.fairlawn.org",
+   "phone": "(201) 796-1700"
+  },
+  {
+   "name": "Fair Lawn Police Department",
+   "category": "Government",
+   "lat": 40.936542,
+   "lng": -74.13204,
+   "address": "8-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "description": "Police HQ at Borough Hall. Non-emergency 24/7.",
+   "url": "https://www.fairlawnpd.com/",
+   "phone": "201-796-1400"
+  },
+  {
+   "name": "Fair Lawn Senior Center",
+   "category": "Government",
+   "lat": 40.93755,
+   "lng": -74.13095,
+   "address": "11-05 Gardiner Road, Fair Lawn, NJ 07410",
+   "description": "Senior Citizen Center for adults 60+ (approximate location on Gardiner Rd at 11th St).",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191"
+  },
+  {
+   "name": "Maurice M. Pine Free Public Library",
+   "category": "Library",
+   "lat": 40.93654,
+   "lng": -74.131396,
+   "address": "10-01 Fair Lawn Avenue, Fair Lawn, NJ 07410",
+   "description": "Fair Lawn's public library (BCCLS).",
+   "url": "https://www.fairlawnlibrary.org/",
+   "phone": "201-796-3400"
+  },
+  {
+   "name": "Fair Lawn Recycling Center",
+   "category": "Recycling",
+   "lat": 40.951194,
+   "lng": -74.102278,
+   "address": "20-05 Saddle River Road, Fair Lawn, NJ 07410",
+   "description": "Residents' drop-off for recyclables, electronics, metal, yard waste, tires, clothing; DPW complex.",
+   "url": "https://www.fairlawn.org/recycling",
+   "phone": "201-794-5341"
+  },
+  {
+   "name": "Broadway Station (NJ TRANSIT)",
+   "category": "Transit",
+   "lat": 40.92247,
+   "lng": -74.115208,
+   "address": "Broadway, Fair Lawn, NJ 07410",
+   "description": "Bergen County Line rail station; commuter lots by ParkLync permit.",
+   "url": "https://www.njtransit.com/abc_Bergen_County_line"
+  },
+  {
+   "name": "Radburn Station (NJ TRANSIT)",
+   "category": "Transit",
+   "lat": 40.939554,
+   "lng": -74.121477,
+   "address": "Pollitt Drive, Fair Lawn, NJ 07410",
+   "description": "Bergen County Line rail station in the Radburn neighborhood; Pollitt Dr commuter lot.",
+   "url": "https://www.njtransit.com/abc_Bergen_County_line"
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Borough of Fair Lawn - Nixle alerts",
+   "url": "https://rss.nixle.com/pubs/feeds/latest/13252/",
+   "type": "rss",
+   "category": "Alerts",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Borough YouTube (council meetings & events)",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfp8MHfB2C74mucJNPSO2MA",
+   "type": "rss",
+   "category": "Town news",
+   "verified": true
+  },
+  {
+   "name": "Maurice M. Pine Library events (iCal)",
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10281",
+   "type": "ical",
+   "category": "Library",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Main Street (downtown business news)",
+   "url": "https://www.fairlawnmainstreet.com/feed",
+   "type": "rss",
+   "category": "Town news",
+   "verified": true
+  }
+ ],
+ "failedFeeds": [
+  {
+   "url": "https://www.fairlawn.org/RSSFeed.aspx",
+   "reason": "Not CivicPlus; returns HTML 404 page (site is Catalis GovOffice)"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.aspx",
+   "reason": "HTML 404 page"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.xml",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.fairlawn.org/feed",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.asp",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.fairlawn.org/rss.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.fairlawn.org/index.asp?Type=B_RSS&SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4",
+   "reason": "Returns normal Local Notices HTML page, not RSS"
+  },
+  {
+   "url": "https://www.fairlawn.org/common/modules/iCalendar/iCalendar.aspx?catID=14",
+   "reason": "HTML 404 page (no CivicPlus iCal)"
+  },
+  {
+   "url": "https://www.fairlawn.org/index.asp?Type=B_EV&SEC=64E5C787-FA73-442C-8F3D-B86B99304310&ical=1",
+   "reason": "Returns HTML calendar page; no iCal export found on Borough Calendar or event pages"
+  },
+  {
+   "url": "https://www.fairlawnpd.com/feed/",
+   "reason": "Valid RSS 2.0 but contains 0 items (WordPress site has no posts; lastBuildDate Sep 2026)"
+  },
+  {
+   "url": "https://www.fairlawnlibrary.org/rss.xml",
+   "reason": "HTTP 400"
+  },
+  {
+   "url": "https://www.fairlawnlibrary.org/feed",
+   "reason": "HTTP 404"
+  },
+  {
+   "url": "https://www.bergencountynj.gov/feed",
+   "reason": "Valid RSS but carries county job postings, not news - not useful"
+  },
+  {
+   "url": "https://www.bcua.org/RSSFeed.aspx",
+   "reason": "HTML 404 page"
+  }
+ ]
+}
