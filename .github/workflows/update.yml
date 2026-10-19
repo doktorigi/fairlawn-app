@@ -18,7 +18,7 @@ jobs:
         run: |
           git config user.name "feed-bot"; git config user.email "feed-bot@users.noreply.github.com"
           git add data/feed.json
-          git diff --cached --quiet || (git commit -m "Refresh feeds [skip ci]" && git push)
+          git diff --cached --quiet || (git commit -m "Refresh feeds [skip ci]" && git pull --rebase -X theirs && git push)
       - uses: actions/upload-pages-artifact@v3
         with: { path: . }
       - uses: actions/deploy-pages@v4
