@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T02:31:57+00:00",
+ "updated": "2026-10-20T04:47:58+00:00",
  "news": [
   {
    "title": "Bergen250 Presents: Bergen County Revolutionary War Roundtable: Pillage, Plunder, and Arson in 1780 in Bergen County: Material Culture of the Inhabitants",
@@ -16,6 +16,14 @@
    "summary": "",
    "source": "Bergen County events (county government)",
    "category": "Nearby"
+  },
+  {
+   "title": "Edison Story Time",
+   "link": "https://bccls.libcal.com/event/17258866",
+   "date": "2026-11-20T00:00:00+00:00",
+   "summary": "Date: Friday, November 20, 2026 Time: 9:30am - 10:00am Location: Fair Lawn - Outside",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
   },
   {
    "title": "Baby Time (Under 2 w/adult)",
@@ -38,14 +46,6 @@
    "link": "https://bccls.libcal.com/event/16994365",
    "date": "2026-11-19T00:00:00+00:00",
    "summary": "Date: Thursday, November 19, 2026 Time: 11:15am - 12:15pm Presenter: Kathy Location: Fair Lawn - Level B Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Join Kathy for an Intermediate ESL class once a week for 12 weeks. Registration is required. This class is for Fair…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
-   "title": "Edison Story Time",
-   "link": "https://bccls.libcal.com/event/17258729",
-   "date": "2026-11-19T00:00:00+00:00",
-   "summary": "Date: Thursday, November 19, 2026 Time: 12:45pm - 1:15pm Location: Fair Lawn - Outside",
    "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
    "category": "Clubs"
   },
@@ -210,6 +210,14 @@
    "category": "Local news"
   },
   {
+   "title": "Game Teaser: Varsity Football Mahwah High School vs. Fair Lawn High School Highlights - NFHS Network",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UMTlDamt3S243emVUSDBWQmVydXJLY1VxcHNPUmFtbFJmNGpXV3NJaUdMY1FjaVowdm9vMlZWOTNTLTlmRm1ha1FOSUsxZFdPbGtjS3RuQmxSXzNDU29mQWRR?oc=5",
+   "date": "2026-10-16T22:30:00+00:00",
+   "summary": "Game Teaser: Varsity Football Mahwah High School vs. Fair Lawn High School Highlights NFHS Network",
+   "source": "Google News: \"Fair Lawn\" NJ",
+   "category": "Local news"
+  },
+  {
    "title": "Fair Lawn vs Mahwah - Boys Varsity Football 10/16/2026 | Watch Live & On Demand - NFHS Network",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGlRUU56M3Z3V1JhYUNJSUp1dlNocVR6aUJqaW5HcElVeG50V1ZZVzZxcDFNWVRXVVhSNXM1aFJPOGgwdmdPOUNybE9RUlNOYmdDVVBieHhGRUtnOTI5WHV4U3ZiaTJOSTJxOWNuRkVCU2lMM0IybjNmY3BUeXBSRFZ4S3piMy1vTmQw?oc=5",
    "date": "2026-10-16T21:08:08+00:00",
@@ -356,7 +364,7 @@
   {
    "title": "Fair Lawn pickleball facility remains open as parent company The Picklr files for Chapter 11 bankruptcy - News12 | New Jersey",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdmdQUFhkUExBRHBGNTByVzREdEVNWWhXRlBvTXZHaHYyZ1pCcWg5b2dEVllOMU43bHVLcDM2YTJNUm42S0FMdnB4ZjhFTEdxN25hUWtmUXREU2RlMDdPbFd2Q3hOVzBMaUQ5cmZ0dGZQYjh0ZjVSbDE5Tm5aektoelRLVUlaMXc5Q2FuX3Uya0o4UVVYcmNNZkZ6cUFPbG53eHVoZDNqMU5NWU5Qcmh1THN5UEhCZVJBN1dFbG13eXM4QllnVHBGb0U0REtCN1BZWlVtTVJsb21Jc0FoS3ptV1MwMEk3Y25Xd3hiVWVPRzdfRnBRZmVxNk13?oc=5",
-   "date": "2026-10-13T17:43:27+00:00",
+   "date": "2026-10-13T18:24:39+00:00",
    "summary": "Fair Lawn pickleball facility remains open as parent company The Picklr files for Chapter 11 bankruptcy News12 | New Jersey",
    "source": "Google News: \"Fair Lawn\" NJ",
    "category": "Local news"
@@ -375,14 +383,6 @@
    "date": "2026-10-13T11:15:36-04:00",
    "summary": "Fair Lawn's Access for All Halloween dance invites guests ages 17 and older for costumes, refreshments and more.",
    "source": "Fair Lawn-Saddle Brook Patch",
-   "category": "Local news"
-  },
-  {
-   "title": "HS Girls Soccer: Fair Lawn Eliminates Hasbrouck Heights in Double Overtime - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNExBeGR1T0cwOGNGVVF4TTZiREYwYnJMMU9oeUlYWEtUTXBqVVByM0JmXzVFRWwzcS1rX21Bbkx6NWFlZkRKaG1iVjU4eG84b0VFbG5IRWJaSUNqNVd3UGRxVEVMTkxNemd0V2JSQmpuN1c3LW93N3FQVm1kZEtrNU9qQk5mckJjQkpUVHI5a2Vmd2J0WnFTMC1tYkswSTVwVjNIenhJTldOelplZWpGdGJwcWp6Z0EyTy1rLVdyOFYxTmtwVXhrZjg2cTJOekFQTjlDdFRxUmtwWGRxNnpEbXZNSFV3MTBQZFNjdGFSRUNSaE1hLUt2WEZOdlBDOUdHWjQya0lHNktLeU0?oc=5",
-   "date": "2026-10-13T02:47:46+00:00",
-   "summary": "HS Girls Soccer: Fair Lawn Eliminates Hasbrouck Heights in Double Overtime TAPinto",
-   "source": "Google News: Fair Lawn past 7 days",
    "category": "Local news"
   },
   {
@@ -546,6 +546,14 @@
    "category": "Business"
   },
   {
+   "title": "Pascack Valley JV Football @ Fair Lawn - MaxPreps",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlFJdTJIYWRnVTV5UmhDeGcxeGVEa3JFSXg4Y2dZM0VqRGNQcHhYTTlLY1lMUjlvMlRPRkhqZjZxVnFiajk2d2pNSmNDTlFRV09iNGQtc1IyWEdPU2NwU191M1dia2JoZnJwNGZWSlk3N2ttOEtoNm5aOWZqbl80azI0VFVlZElaZEduVDY2eE1CUFdleFZZSmh0MS1aMVBLakwyY0g0YUhOLXVnTjFJTExfSHVfN0VFb1VqNjFLMS1ibTdjX3Y1WXFnWkFwREhoZFhSRjRid0Nndw?oc=5",
+   "date": "2026-10-06T13:56:06+00:00",
+   "summary": "Pascack Valley JV Football @ Fair Lawn MaxPreps",
+   "source": "Google News: \"Fair Lawn\" NJ",
+   "category": "Local news"
+  },
+  {
    "title": "Oyez! Watch the International Town Crier Competition in Fair Lawn NJ - Bergen Record",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1veVFIb3RRN0o5ajdiQTR2UXNmM18zMnVfTTRnVG1CSnFYUkpJUFJ6YldteUNQZDRjbGd1LXB6MXBScms2MWJMS2gyWmNnNTAzUXRrS21LVWFQNWdacHlDakJB?oc=5",
    "date": "2026-10-06T07:45:11+00:00",
@@ -554,27 +562,11 @@
    "category": "Local news"
   },
   {
-   "title": "Ramapo vs Fair Lawn - Girls Freshman Soccer 10/06/2026 | Watch Live & On Demand - NFHS Network",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFM1QjgtYVZzYVVOVVUyanpSMEFMcDVVMDlSUzdfS2txakc0YXlpUkR2RTh6QUxVSDk4Q2RXNDVwY3lfVmtSTTNydFQxYnpTN1NTNmtRd1N0dmRmd1YyVlRReU9pc09OSVN1TG9Za3JYZEFFeTJTcFNHOUIySU9kZHhOSU9nYkNTSVVMYnhB?oc=5",
-   "date": "2026-10-06T07:00:00+00:00",
-   "summary": "Ramapo vs Fair Lawn - Girls Freshman Soccer 10/06/2026 | Watch Live & On Demand NFHS Network",
-   "source": "Google News: \"Fair Lawn\" NJ",
-   "category": "Local news"
-  },
-  {
    "title": "More Fair Lawn Students Taking AP Courses, Achieving Higher Scores - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSlVTSUVUQVdNczdqZEJiOUV2YVZZbGhIWFgxcXN3VDBxRFotUk05UUIwRHN5MHNHem0wbDdROTJkaXdYVG96N0NyekVTOUVDTTlRMFhTSUs0NElHbDc2ZUlOdWc4am9DNDJ0TFRhV1pqTERfZ3Q0aG5mMWN6RlJLc2tEcjZMZ3dvNlRRRTJ6TVl2ZF9fcTF6NG5HUHoyc0cxTWVxTGt2VWJ4ZXBRemFZV0NLektpUE55dnFiTmNOV0c4WUsybGZlTnVuNXdGUlpQcndPU1JGS3UyNDRkdVdkNg?oc=5",
    "date": "2026-10-06T07:00:00+00:00",
    "summary": "More Fair Lawn Students Taking AP Courses, Achieving Higher Scores TAPinto",
    "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Rita Sellars Obituary (2026) - Fair Lawn, NJ - Vander Plaat Funeral Home - Wyckoff - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREh6SEVoMExsQ21Uc2paSHo5VEJhYk5UUkdjYy1IZEpPdlp4UlBERU1TMDhRa0dWMm1RbFhaZmNfdXJwVUlpTDk2OUc4VzFSRFlyRjNpWDRRdHlOYmpGZzd1RVBZT2FKc1BMamI0T0Z0TmxiTmVrLVpROVFFejlDWA?oc=5",
-   "date": "2026-10-06T01:35:35+00:00",
-   "summary": "Rita Sellars Obituary (2026) - Fair Lawn, NJ - Vander Plaat Funeral Home - Wyckoff Legacy | Obituary",
-   "source": "Google News: \"Fair Lawn\" NJ",
    "category": "Local news"
   },
   {
@@ -598,6 +590,14 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY292Zm1rQnptaWRLVlo3bUt4bVB5R1R0Y2huakdqOTZwODhuWWlQZW9FU0FxcVpiS3VZVEcwa0ZxTnRZQjhjSGxyZHRvMFNpYkNMNTFCN0w5QllRVzZpUzREVi1Eejc1ejBiaUpMTzhiZGlrSGVaUVNGTWpDd0xzZlh6M1VYMk5YX0dzT1lPRzh2dFRqZ0lCXzg4ODhkV2tyS2EtUm5TTHlTYkhSMFhkdWVPcDV4cC1LYXE2M3c1NWZuQmdQUXVsMnpESU9XSXFFLTJYYUwzZGJ0UzR3WWNJbjV4YkpMOUlNQjNDd0NqTWh0ano1OHNjSg?oc=5",
    "date": "2026-10-05T06:27:39+00:00",
    "summary": "Fair Lawn Board of Education Trustee Abruptly Resigns, Leaving Year Before Term Ends TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
+   "title": "Have a Slice and Talk Green with Fair Lawn's Green Team - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEFoN2V3Q2lveExUNFFpLTdhRktDZUFpaVgxd2trcUxiU2R3OEhVd2s0MWxsUzd0X2V0NEIzdXlGNmhQaEg4Yl9tVlVTbVJhV18wWkRxTGFNdVFpdS1tNUFRX2lYR2h6eTZuMEptVUhvT1FLa1FXYUhZWG9XR0ZqUFRzalVGSzhUY0JKSS1Mb3pHX0hKTkVfMkhUYlUyRlBFbXBkc2lNTGJ6VnN1dTl2ZzZweVVLTmhWX2FTOVRucXdEVG0yZE9KUDAzbUhDZw?oc=5",
+   "date": "2026-10-04T15:03:28+00:00",
+   "summary": "Have a Slice and Talk Green with Fair Lawn's Green Team TAPinto",
    "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
@@ -626,14 +626,6 @@
    "category": "Local news"
   },
   {
-   "title": "Fair Lawn Considers Natural Streetscaping on Advice from Wisconsin Landscape Artist - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTUM3el9rWVpPTVI5NGpMODlYUzJnRFJLM0YzQThDWkQ1dDljMk1qLVlraElTblp2b2hKZ0Ficmh6TzVQWWpXRmlZLVhJbk54ajRaRTBFYnNZWHg5bmpldUU0QWRqa095bHFoVjNGX0xHbXZwUU1YaGtLRG91Q1NfblZVN2hfTXVEV0tvdy1xLTNHeDdNY2hmUWJOUlJENjFCdW91YWZzQkNGWVc4bGx6RHpSZWFPUVdOQU9TZnZWUHdJXzZUeDlpNTlHbjFuNWFDNG5tbUtSYUtnUXlaWklCVUpNcS1ReUU2N0FXMkwtX0MyLUM5MVdxWXln?oc=5",
-   "date": "2026-10-03T00:30:14+00:00",
-   "summary": "Fair Lawn Considers Natural Streetscaping on Advice from Wisconsin Landscape Artist TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
    "title": "25-Year-Old Fair Lawn Man's Cause of Death Not Released Pending AG Investigation - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc3RaWDBhdm9CdXpnTXJJX0hsdTlsQnRSUmQ3enVSUjFBaXRaQV9zMHZoTG40Ymdpc2xZcjI1bHZpYS1rRjJsUTMwejZfVHRjajFjSWVkN3JxZ01HdFdTWnFJZUZDVXZVdktzVmxMYVJHZGVfVnNzREZnaHFoQlk4ZUtUOE1QVE1kTnlTRkFmRE13U1dtYzJPS0lua2RVdThmbUVubVBFOHJyZWhQSlNmaldZUEZ1RGZTSS10dk12cmt6MFJLQkplLUwxM2lPNFdfZzlhcTFmcjhXa0p4bGZ1M25hbFREekJac2Qzem94d2tXaFE2VFhCZF9vYzg?oc=5",
    "date": "2026-10-02T01:49:54+00:00",
@@ -655,14 +647,6 @@
    "date": "2026-10-01T07:00:00+00:00",
    "summary": "Artist Julia Guzzio Opening Reception Coming To Fair Lawn Library Patch",
    "source": "Google News: Patch Fair Lawn (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Attention Fair Lawn Drivers: Click It or Ticket - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXlUd09Ob2x1WS1IWVB0TVdBejU3NzlDZmdQc1JHeWpZekdEU0JXY0ZrVm9vQmxObG1KSDNOUExIMVpUS2VVTmV0aFZmalkxR2Fwd3ZzODBGdU4yVW1SdGo4cG1pQUFoWm5lS0c0ZzZTM3VBNGpEeGppNzlONkxBaDZ4R2Z4dXYtZDR3SlkySFd3SWZrY3QwWm9kUF9tY25RelFBSFlfVm5Za0NQZ2lvWldWS28xVHRtaVFtMTYtanBucGQ0MkNZRURFMEpCR3c?oc=5",
-   "date": "2026-09-30T08:07:39+00:00",
-   "summary": "Attention Fair Lawn Drivers: Click It or Ticket TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
   {
@@ -706,6 +690,14 @@
    "category": "Local news"
   },
   {
+   "title": "Fair Lawn College Student Earns Top Honors in Science Competition - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG9hUmQycnREWXRxS0hxdFNBYlVYSExVSF9la00zVWdXTzJlM01nSmY0dEwwYmFxZHhHd2JEbDVoLWctcThwNW1lQmZuSDBhdmU3N3NOXzZ0TlJDd1JtY0JEUVlHUi14Y3ptaVpQeW5McmtTVzZ0cXpNMnpSek1xcndJQkVFQzc2c1JPS1B1ZHo4dDFWWEt1WEdfNlZBeGduSkVkTTFfeFBITEd1bm80azl1YTJnVlZTdENJaEdpTVRaR05HZ0xicFh4ZW9HOXlQWXVaWWxjSTFEWnFNTHJBWA?oc=5",
+   "date": "2026-09-26T10:00:23+00:00",
+   "summary": "Fair Lawn College Student Earns Top Honors in Science Competition TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
    "title": "Fair Lawn Council Pushes Forward Beaverdam Park Playground Replacement - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUJCRW9xTjNqTHN2Sl81UEI3aXNVaFRkQWhITzlKLWZfc2IzZmdYYzAwVDQ0VzluMWdFWlhJS2lKSk5hWko2a29DS1FBV25BRGZSZnc2eHp6LXhMZTN4UlNVYjVYVTZIY29XaUNyWm5LMk0xUi1fM0llVEhKdnFtSXVZZjZtam04dm94Y1FQVWpoOFJRWm9wVjlpQ0JTeEVoZGJfSDJVSlhkcExPTXVqOG94TThpb0JYTTJhUzNaRmlTWWp0VnNtNGloVnBLMjFiVUJpbUNKVEtISlZ6REJpZVplYWJYcmN2?oc=5",
    "date": "2026-09-26T09:17:24+00:00",
@@ -718,14 +710,6 @@
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRDNZMHFITGkxY2RRYnpuamZNQXdUYldwZkZTRkNlVXJtU2plMFBtc2p3YVFZTzBVak8xMC1FTS0wd2FkSlJaMVdiaXZWc3pCRVMxLXhBNjVlWWIxYjRoNEw3Y0tsM3lCdHFibGZTQkFfVFJpTlpNX0hVSUp2M1R3OVlOUHJ0N2NzLTlPcEZLcFhHZzR5aXo0SFltaE11M0M3MFZWbVBWN3BPQlBxZVBoeHZxMk5yOFAtWElXUVNheU9mRHJ3cmtUQWxn?oc=5",
    "date": "2026-09-25T20:16:59+00:00",
    "summary": "No Smoking In Public Parks: Fair Lawn Passes Ban TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Fair Lawn Taking the Heat Seriously - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaVBwUl9rSG01Yk84UVlXelZObjZzS0psV1hmVUFUbWFteERVNVRPdGFiQTNPaVFWeV9nTTZJYWc2dDVuZTdjZ1g2cW5YWjVTaWQteGlIOFVncjV5N1o5cGNZRjVQa0VqcDJjT1BuSGZVeE9NUXNsUzgyZFZ0RS1OQS00dUhqUHZfeWRid01fdGg1NENqWjY0QWhwMGRDVndNNk9jcW45X1hlR2U3ZHJqVFNqbzRxQQ?oc=5",
-   "date": "2026-09-25T15:08:57+00:00",
-   "summary": "Fair Lawn Taking the Heat Seriously TAPinto",
    "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
@@ -750,6 +734,14 @@
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcnhfeDZxNV92U1JzUUZDT0hpb0R3dWNuX0k3U0lsN2I2eEFmdmtkRHc4LTJFN2J1M3FOTUQ0LWtNMVdIWXNDaXNTM01MczFoNFQ3blIyYkhMcG1zbHVJRWJnVDM4ak1FbDFUbkpPMFIzUzRhVXlNdW5udE4xbS13QW9YNGR3OG1jT0JDSHBwbktFUVdMY3FXS3FPVFhWbi1YdG5md1VxTlRicjBKS3VKalB4cF96TzNuTXFIV2UwcE9NVEU4YUpvX3BBcWFreFVkMlE?oc=5",
    "date": "2026-09-25T06:09:37+00:00",
    "summary": "Another Successful Season On The Links For Fair Lawn Golf TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
+   "title": "Relative of Injured Fair Lawn Teen Speaks Out About \"Radburn Bump\" Accident - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTloybW9YM2REN01sSUFxMVl1X1FPTjV0bXp0V3JsVWJuVFBVSVZYcFM5TG9QNGFMS3V2VEp6Q3lpc0dXeG5qU1hkOVlzNGYyNk00MHJHclBPUUg4Z1JOMk9qSDZZLTAtTTVOTUkzUkNZRWpqVnh2SDNrS21OdkZzY2s1VTFqZWt3WS1Xc0tDYUJBQ19kUEhfalNZMUxhVVBBWDliR3pxeTNZZEN1RmhEN2RFeDhDa25raWdDeWdvN0s5VTliRUJqM281YnMzbHBIVzVQMWJENEFaS3k0Sm1tRURKQWZQSHNPTnRpcGEzWHFRbXc?oc=5",
+   "date": "2026-09-25T03:37:07+00:00",
+   "summary": "Relative of Injured Fair Lawn Teen Speaks Out About \"Radburn Bump\" Accident TAPinto",
    "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
@@ -904,14 +896,6 @@
    "summary": "Ridge Girls Volleyball Opens Season With Comeback Win Over Fair Lawn TAPinto",
    "source": "Google News: Fair Lawn restaurants & openings",
    "category": "Business"
-  },
-  {
-   "title": "Fair Lawn 9/11 Remembrance Ceremony Set For Friday - Patch",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3haRHM5SHZ3MmlXUkZpNEx5OWh0WTMwUFZwc01Wa0hab2Q3UWRPekNodXhOazd6aWhvRElGT2J2aHBUM1VmWWQxVmMxQmlTNjdjQ0I2RVB2WmRuQjdZTW9INWYzUWl0YnNTWWdRenJaUWF4cWZCdktNWW1SNHhRTkpMYUNCeUtZTzRoU21BNmZweWxOLV9QSmxCR1c?oc=5",
-   "date": "2026-09-08T07:00:00+00:00",
-   "summary": "Fair Lawn 9/11 Remembrance Ceremony Set For Friday Patch",
-   "source": "Google News: Fair Lawn events & community",
-   "category": "Community"
   },
   {
    "title": "Leases for Fair Lawn medical practice, West Milford restaurant among newest Azarian deals - Real Estate NJ",
@@ -1870,6 +1854,14 @@
    "category": "Schools"
   },
   {
+   "start": "2026-11-05T17:30:00",
+   "title": "5K Run in Ridgewood - meet outside Sweet Kitchen",
+   "summary": "The North Jersey Road Runners This route is a 5K that goes through the streets of Ridgewood and Midland Park. We meet outside of Sweet Kitchen and then we'll run a route through the streets of Ridgewood. We meet outside of Sweet Kitchen just across from the big clock in…",
+   "link": "https://www.meetup.com/running-257/events/316561256/",
+   "source": "North Jersey Road Runners (Meetup)",
+   "category": "Nearby"
+  },
+  {
    "start": "2026-11-06",
    "summary": "",
    "location": "",
@@ -1884,6 +1876,14 @@
    "title": "NJEA Convention - School Closed",
    "source": "Memorial Middle School - Events",
    "category": "Schools"
+  },
+  {
+   "start": "2026-11-07T09:00:00",
+   "title": "Streets of Ridgewood Saturday Morning 3-5 Mile Run",
+   "summary": "The North Jersey Road Runners This will be a 3-5 mile route that goes through the streets of Ridgewood. We will meet outside of Sweet Kitchen at the intersection of East Ridgewood Avenue and Oak Street/Van Neste Square across from the big clock. The route is flexible and mostly…",
+   "link": "https://www.meetup.com/running-257/events/317033800/",
+   "source": "North Jersey Road Runners (Meetup)",
+   "category": "Nearby"
   },
   {
    "start": "2026-11-08",
