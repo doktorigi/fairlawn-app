@@ -1,0 +1,2795 @@
+{
+ "generated": "2026-10-19",
+ "collection": {
+  "sections": {
+   "1": {
+    "recycling": "Tue",
+    "garbage": "Wed",
+    "summerGarbage": "Sat",
+    "paperWeekOf": "2026-10-20",
+    "notes": "Calendar: paper/cardboard Tue 2026-10-20, bottles/cans Tue 2026-10-27; alternates weekly. Fall 2026 construction-material day Wed 2026-10-21. Last 2026 yard-waste pickup Tue 2026-12-15."
+   },
+   "2": {
+    "recycling": "Wed",
+    "garbage": "Thu",
+    "summerGarbage": "Mon",
+    "paperWeekOf": "2026-10-21",
+    "notes": "Calendar: paper Wed 2026-10-21, bottles/cans Wed 2026-10-28. Fall 2026 construction-material day Thu 2026-10-22. Last 2026 yard-waste pickup Wed 2026-12-16."
+   },
+   "3": {
+    "recycling": "Fri",
+    "garbage": "Mon",
+    "summerGarbage": "Thu",
+    "paperWeekOf": "2026-10-23",
+    "notes": "Calendar: paper Fri 2026-10-23, bottles/cans Fri 2026-10-30. Fall 2026 construction-material day Mon 2026-10-19. Last 2026 yard-waste pickup Fri 2026-12-18."
+   },
+   "4": {
+    "recycling": "Thu",
+    "garbage": "Tue",
+    "summerGarbage": "Fri",
+    "paperWeekOf": "2026-10-22",
+    "notes": "Calendar: paper Thu 2026-10-22, bottles/cans Thu 2026-10-29. Fall 2026 construction-material day Tue 2026-10-20. Last 2026 yard-waste pickup Thu 2026-12-17."
+   },
+   "5": {
+    "recycling": "Mon",
+    "garbage": "Fri",
+    "summerGarbage": "Tue",
+    "paperWeekOf": "2026-10-19",
+    "notes": "Calendar: paper Mon 2026-10-19, bottles/cans Mon 2026-10-26. Fall 2026 construction-material day Fri 2026-10-23. Last 2026 yard-waste pickup Mon 2026-12-14."
+   }
+  },
+  "summer": {
+   "from": "05-04",
+   "to": "09-26",
+   "note": "Rule: first full week of May through last full week of September. Dates shown are from the 2026 calendar and vary slightly by section."
+  },
+  "holidays": [
+   {
+    "date": "2026-11-26",
+    "note": "Thanksgiving: no collection. Section 2 garbage moves to Fri 11/27. Section 4 recycling (bottles/cans) moves to Fri 11/27 (no yard waste that pickup)."
+   },
+   {
+    "date": "2026-12-25",
+    "note": "Christmas: no collection. Section 3 recycling (bottles/cans) moves to Thu 12/24. Section 5 garbage moves to Thu 12/24."
+   },
+   {
+    "date": "2027-01-01",
+    "note": "New Year's Day: per the 2026 calendar, Section 3 recycling (paper) moves to Thu 12/31/2026 and Section 5 garbage moves to Thu 12/31/2026. The 2027 calendar was not yet published as of 2026-10-19, so other 2027 holiday changes are unknown."
+   }
+  ],
+  "special": [
+   {
+    "date": "2026-10-19",
+    "end": "2026-10-23",
+    "title": "Fall curbside construction-material pickup",
+    "note": "One day per section, on your garbage day: Sec 3 Mon 10/19, Sec 4 Tue 10/20, Sec 1 Wed 10/21, Sec 2 Thu 10/22, Sec 5 Fri 10/23. Up to 4 barrels or 200 lbs. No brick, block, concrete, asphalt, rock or dirt."
+   },
+   {
+    "date": "2026-11-01",
+    "title": "Q4 property tax due",
+    "note": "10-day grace period. Interest is charged from 11/1 if unpaid by 4 pm on the 10th day."
+   },
+   {
+    "date": "2026-11-03",
+    "title": "General Election",
+    "note": "Early-voting details are on the Borough Clerk page."
+   },
+   {
+    "date": "2026-12-14",
+    "end": "2026-12-18",
+    "title": "Last weekly yard-waste/leaf pickups of 2026",
+    "note": "Final [Y] dates on your recycling day: Sec 5 12/14, Sec 1 12/15, Sec 2 12/16, Sec 4 12/17, Sec 3 12/18. After that the calendar shows no yard-waste pickups for the rest of December."
+   },
+   {
+    "date": "2027-04-24",
+    "title": "Litter Clean-Up Day (volunteer)",
+    "note": "8:45 AM-12:30 PM; bus leaves 9:00 AM. Register on fairlawn.org. Other 2027 dates: 5/15, 6/12, 9/11."
+   },
+   {
+    "date": "2027-05-15",
+    "title": "Litter Clean-Up Day (volunteer)",
+    "note": "8:45 AM-12:30 PM."
+   },
+   {
+    "date": "2027-06-12",
+    "title": "Litter Clean-Up Day (volunteer)",
+    "note": "8:45 AM-12:30 PM."
+   },
+   {
+    "date": "2027-09-11",
+    "title": "Litter Clean-Up Day (volunteer)",
+    "note": "8:45 AM-12:30 PM."
+   }
+  ],
+  "lookupUrl": "https://www.fairlawn.org/recycling",
+  "calendarUrl": "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326",
+  "streets": [
+   {
+    "street": "1st Street",
+    "range": "5 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "1st Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "2nd Street",
+    "range": "4 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "2nd Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "3rd Street",
+    "range": "5 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "3rd Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "4th Street",
+    "range": "5 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "4th Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "5th Street",
+    "range": "5 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "5th Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "6th Street",
+    "range": "5 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "6th Street",
+    "range": "12 block to 15 block",
+    "section": "1"
+   },
+   {
+    "street": "11th Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "12th Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "15th Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "17th Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "20th Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "22nd Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "26th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "27th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "28th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "29th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "30th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "31st Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "32nd Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "33rd Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "34th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "35th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "36th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "37th Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Abbott Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Abbott Road North",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Aberdeen Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Ackerman Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Addison Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Albert Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Alden Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Alexander Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Allen Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Allwood Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Alyson Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Andover Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Andrew Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Angelo Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Arcadia Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Ardmore Court",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Arlington Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Arnold Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Arnot Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Ashburn Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Audobon Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Backus Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Ballard Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Bancroft Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Banta Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Barbara Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Barrister Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Barry Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Bedford Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Beekman Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Bellair Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Berdan Avenue",
+    "range": "1 block to 17 block (odd numbers)",
+    "section": "1"
+   },
+   {
+    "street": "Berdan Avenue",
+    "range": "1 block to 17 block (even numbers)",
+    "section": "5"
+   },
+   {
+    "street": "Berdan Avenue",
+    "range": "25 block to 40 block",
+    "section": "3"
+   },
+   {
+    "street": "Bergen Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Berkeley Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Berkshire Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Bernard Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Berwyn Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Beverly Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Blue Hill Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Bolton Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Boyd Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Brearly Crescent",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Brennan Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Brighton Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Bristol Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Broadway",
+    "range": "12 block to 17 block",
+    "section": "5"
+   },
+   {
+    "street": "Broadway",
+    "range": "21 block to 40 block",
+    "section": "4"
+   },
+   {
+    "street": "Brookside Avenue",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Bryant Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Bryson Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Burbank Street",
+    "range": "9 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "Burbank Street",
+    "range": "12 block",
+    "section": "1"
+   },
+   {
+    "street": "Burke Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Burlington Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Burnham Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Bush Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Cadmus Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Calabrese Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Cambridge Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Camp Court",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Campbell Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Canger Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Carlisle Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Carol Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Cedar Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Central Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Century Road Extension",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Chadwick Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Charles Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Chester Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Chittenden Road",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Chris Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Christie Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Christine Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Columbia Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Columbus Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Comerford Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Cosgrove Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Craig Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Creek Court",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Cross Creek Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Cross Meadow Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Cyril Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Dalton Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "D'Auria Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "De Bruin Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Dewey Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Dorchester Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Dorothy Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Dunkerhook Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "East Amsterdam Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Eastern Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Eberlin Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Edison Court",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Edward Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Elaine Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Elden Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Elizabeth Street",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Ellington Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Elliott Terrace",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Ellis Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Elm Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Elmary Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Elmwood Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Emerson Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Erli Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Essex Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Estler Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Eugene Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Everett Terrace",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Exeter Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Fair Lawn Avenue",
+    "range": "0 block to 20 block",
+    "section": "1"
+   },
+   {
+    "street": "Fair Lawn Avenue",
+    "range": "21 block to 40 block (odd numbers)",
+    "section": "2"
+   },
+   {
+    "street": "Fair Lawn Avenue",
+    "range": "22 block to 40 block (even numbers)",
+    "section": "3"
+   },
+   {
+    "street": "Fair Lawn Parkway",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Fairclough Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Fairhaven Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Fairmount Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Fayette Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Fern Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Fernwood Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Ferry Heights",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Finn Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Floral Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Ford Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Forest Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Fox Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Franciscan Way",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Fulton Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Garden View Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Gardiner Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Garfield Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Garrison Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Garvey Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Garwood Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Gentner Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "George Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Gibson Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Gieger Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Glenfair Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Godwin Avenue",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Goldblatt Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Gordon Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Grant Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Greenwood Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Gregory Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Greydanus Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Grover Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Grunauer Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Grunstra Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Gurney Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hale Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Halsey Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Halstead Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hamilton Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hamlin Court",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Harlow Crescent",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Harris Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Harrison Drive",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Harristown Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Hartley Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Hazel Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Hedman Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Heights Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Hemlock Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Henderson Boulevard",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Henrietta Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Herold Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Heywood Avenue",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "High Street",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hillery Street",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hillside Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Hopper Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Howard Avenue",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Hunter Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Ivy Lane",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Jasper Lane",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Jean Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Jerome Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "John Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Jordan Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Karl Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Katherine Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Kearns Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Keith Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kenneth Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Kershner Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kilada Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kipp Street",
+    "range": "16 block to 19 block",
+    "section": "5"
+   },
+   {
+    "street": "Kipp Street",
+    "range": "25 block to 27 block",
+    "section": "3"
+   },
+   {
+    "street": "Knott Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kossuth Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Kramer Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kriesmer Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Kuiken Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Lafayette Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Lake Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lakeside Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lambert Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lamring Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Landmark Lane",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Landzettel Way",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Legion Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lenox Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Leonard Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Leslie Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Lexington Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lincoln Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Linden Lane",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Lindsay Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Linwood Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Litchfield Lane",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Long Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Loretto Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lori Lane",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Lowe Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Lucena Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Lyle Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Lyncrest Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Lyons Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Madelyne Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Madison Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Malcolm Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Maltese Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Mandon Place",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Manor Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Mansfield Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Maple Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Margaret Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Marie Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Marshall Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Mason Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Matule Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Maxwell Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Mayfair Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Maynard Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Maywood Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "McKinley Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Meadowview Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Melvin Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Menow Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Merritt Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Midland Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Mitchell Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Monroe Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Morlot Avenue",
+    "range": "0 block to 19 block",
+    "section": "5"
+   },
+   {
+    "street": "Morlot Avenue",
+    "range": "21 block to 27 block",
+    "section": "4"
+   },
+   {
+    "street": "Morlot Avenue",
+    "range": "208 Bridge to Saddle River Road",
+    "section": "3"
+   },
+   {
+    "street": "Moss Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Myrtle Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Naugle Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Nevins Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Newton Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Nicholson Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Norma Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Northern Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Norwood Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Nottingham Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Oak Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Ontario Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Orchard Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Overlook Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Owen Avenue",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Park Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Park View Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Parmelee Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Paterson Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Pellack Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Pellington Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Pershing Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Philip Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Pickett Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Pine Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Plaza Lane",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Plaza Road",
+    "range": "0 block to 8 block",
+    "section": "4"
+   },
+   {
+    "street": "Plaza Road",
+    "range": "9 block to 11 block",
+    "section": "3"
+   },
+   {
+    "street": "Plaza Road",
+    "range": "12 block to 16 block",
+    "section": "2"
+   },
+   {
+    "street": "Plaza Road North",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Plymouth Drive",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Pollitt Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Pomona Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Prescott Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Prospect Avenue",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Radburn Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Ramapo Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Ramsey Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Ramsey Terrace West",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Randolph Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Range Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Raphael Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Raymond Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Reading Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Red Mill Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Remington Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Richard Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "River Road",
+    "range": "3 block to 11 block",
+    "section": "5"
+   },
+   {
+    "street": "River Road",
+    "range": "12 block to 18 block",
+    "section": "1"
+   },
+   {
+    "street": "Romaine Street",
+    "range": "16 block",
+    "section": "5"
+   },
+   {
+    "street": "Romaine Street",
+    "range": "25 block to 27 block",
+    "section": "3"
+   },
+   {
+    "street": "Romana Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Roosevelt Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Rosalie Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Rose Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Rosewood Street",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Route 4",
+    "range": "See Broadway",
+    "section": ""
+   },
+   {
+    "street": "Ruskin Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Rutgers Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Ryan Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Ryder Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Rys Terrace",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Saddle River Road",
+    "range": "Whole length (odd numbers)",
+    "section": "2"
+   },
+   {
+    "street": "Saddle River Road",
+    "range": "2 block to 13 block (even numbers)",
+    "section": "3"
+   },
+   {
+    "street": "Saddle River Road",
+    "range": "14 block to 21 block (even numbers)",
+    "section": "2"
+   },
+   {
+    "street": "Saddle River Road",
+    "range": "0 block",
+    "section": "4"
+   },
+   {
+    "street": "Sampson Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sandford Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sandow Court",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Scialla Court",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Scribner Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sheffield Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sheridan Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sherman Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Simmons Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Smith Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "South Broadway",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Southern Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Sperber Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Split Rock Road",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "St. Anne Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Stelton Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Stewart Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Strathmore Terrace",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Summit Avenue",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Sumner Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Sunderland Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Sunnyside Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Susan Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Sycamore Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Tanis Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Taylor Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Terhune Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Tierney Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Townley Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Tryon Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Turnbridge Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Underwood Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Union Street",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Upton Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Urban Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Utica Terrace",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Van Duren Avenue",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Van Riper Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Van Saun Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Vanore Drive",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Veile Place",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Vernon Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Victoria Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Virginia Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Vivian Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Vogel Terrace",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Wagaraw Road",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Wallace Way",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Walsh Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Walton Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Ward Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Warren Road",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Watkins Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Waverly Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Wayne Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Weber Place",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Well Drive",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Wenonah Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "West Amsterdam Avenue",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Western Drive",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Westmoreland Avenue",
+    "range": "",
+    "section": "1"
+   },
+   {
+    "street": "Westwood Drive",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Whitehall Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Wilcox Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Wilkens Court",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Williams Street",
+    "range": "",
+    "section": "2"
+   },
+   {
+    "street": "Williamson Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Willow Street",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Wilson Street",
+    "range": "",
+    "section": "3"
+   },
+   {
+    "street": "Windsor Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Winslow Terrace",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Wyckoff Terrace",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Wyman Court",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Yale Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Yerger Road",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "York Street",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Yost Place",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Zachary Terrace",
+    "range": "",
+    "section": "4"
+   },
+   {
+    "street": "Zink Place",
+    "range": "",
+    "section": "5"
+   },
+   {
+    "street": "Zito Court",
+    "range": "",
+    "section": "3"
+   }
+  ],
+  "notes": "Source: Borough recycling page and the 2026 Recycling & Garbage Calendar (revised 1/13/26). The contractor is Cali Carting.\n\nRecycling alternates every week between Paper/Cardboard [P] and Bottles/Cans [C] on your recycling day. Across all sections, the week of 2026-10-19 is a paper week and the week of 2026-10-26 is bottles/cans. The calendar keeps this alternation steady through 12/2026.\n\nSecond (summer) garbage pickup runs from the first full week of May through the last full week of September. In the 2026 calendar it ran from about 05-04 to 09-26; the exact first and last dates vary slightly by section. Memorial Day, Independence Day and Labor Day have no garbage make-up.\n\nSet-out rules: put items out after 6 PM the night before and by 6 AM on collection day. Garbage is limited to 4 barrels; recycling is unlimited. Barrels must be 20-40 gal and weigh 40 lb or less, with tight lids. Toters and plastic bags for recycling are not accepted. Bring cans in by midnight after collection (website). Borough Code 204-5 says 9 PM, so the two sources conflict. One furniture item per garbage day.\n\nLeaves and yard waste in 2026 are collected as [Y] weekly on your recycling day from early April through mid-December. They must be in paper leaf bags or containers of 40 gal or less. Branches must be under 3 ft long and 3 in across, bundled and tied. No logs or stumps. Leaves may NOT be raked or blown into the street at any time (Code 204-20). The DPW pages still mention 'loose leaf collection', but the current recycling page, calendar and code all describe bagged or containerized leaves only. Treat loose-leaf curb pickup as not offered unless the Borough announces otherwise.\n\nChristmas trees [X] are picked up on one paper-recycling day in mid-January, on your section's recycling day. In 2026 the dates were Sec5 1/12, Sec1 1/13, Sec2 1/14, Sec4 1/15 and Sec3 1/16. January 2027 dates are not yet published. Remove all ornaments and tinsel, and do not use plastic bags.\n\nMetal, appliances and electronics are picked up at the curb by appointment on your recycling day. Call 201-794-5341 at least 1 business day ahead, or drop them at the Recycling Center (20-05 Saddle River Rd; Mon-Fri 7:00-3:20, Sat 9:00-12:50, Sun 12:00-3:50; closed Borough holidays).\n\nConstruction debris: there are 2 free curbside days a year [D] (see special). Otherwise use $50 Recycling Center vouchers: 1 for a car, 2 for a trailer, 3 for an SUV, van or pickup. Missed pickup: Cali Carting 201-991-5400.\n\nStreet lookup: 'block' means the number before the dash in a Fair Lawn address. For example, 8-01 Fair Lawn Ave is the 8 block. The street list was extracted from the Borough's 'Section List by Street' table (426 rows)."
+ },
+ "faqs": [
+  {
+   "q": "When can I put garbage and recycling out?",
+   "a": "After 6:00 PM the night before your collection day, and no later than 6:00 AM on collection day. The website says empty cans must come in by midnight after collection, but Borough Code 204-5 says 9:00 PM, so bring them in by 9 PM to be safe.",
+   "source": "https://www.fairlawn.org/recycling",
+   "category": "Trash"
+  },
+  {
+   "q": "What's my garbage/recycling day?",
+   "a": "Find your street and block in the Section List by Street, then use the section's days. Sec 1: recycling Tue, garbage Wed (summer Sat). Sec 2: recycling Wed, garbage Thu (summer Mon). Sec 3: recycling Fri, garbage Mon (summer Thu). Sec 4: recycling Thu, garbage Tue (summer Fri). Sec 5: recycling Mon, garbage Fri (summer Tue).",
+   "source": "https://www.fairlawn.org/recycling",
+   "category": "Trash"
+  },
+  {
+   "q": "Is this a paper week or a bottles-and-cans week?",
+   "a": "Recycling alternates every week. For every section, the week of Oct 19, 2026 is paper/cardboard and the week of Oct 26, 2026 is bottles/cans. Check the 2026 calendar for holiday shifts.",
+   "source": "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326",
+   "category": "Trash"
+  },
+  {
+   "q": "How many garbage cans can I put out?",
+   "a": "Up to 4 barrels per house per collection. Each must be 20-40 gallons and 40 lb or less with a tight lid. No loose bags, no cardboard boxes used as cans, and no toters. Recycling is unlimited.",
+   "source": "https://www.fairlawn.org/recycling",
+   "category": "Trash"
+  },
+  {
+   "q": "How do I get rid of furniture or a mattress?",
+   "a": "One piece of furniture per garbage day, with no appointment needed. A box spring or mattress counts as one item. Carpet must be cut and tied in 3-foot lengths, with a maximum of one room per collection.",
+   "source": "https://www.fairlawn.org/item-disposal",
+   "category": "Trash"
+  },
+  {
+   "q": "How do I dispose of an old fridge, AC, grill or electronics?",
+   "a": "Call the Recycling Office at 201-794-5341 at least one business day ahead to book a curbside pickup on your recycling day. You can also drop it at the Recycling Center, 20-05 Saddle River Rd.",
+   "source": "https://www.fairlawn.org/item-disposal",
+   "category": "Trash"
+  },
+  {
+   "q": "How are leaves collected in 2026?",
+   "a": "Leaves count as yard waste. They are picked up weekly on your recycling day, from early April through mid-December. Use paper lawn bags or containers of 40 gallons or less. Raking or blowing leaves into the street is prohibited at any time. You can also drop leaves at the Recycling Center.",
+   "source": "https://ecode360.com/10055582",
+   "category": "Trash"
+  },
+  {
+   "q": "When is Christmas tree pickup?",
+   "a": "Christmas trees are picked up on one paper day in mid-January, on your recycling day. In 2026 that was Jan 12-16 depending on section. The 2027 dates were not yet published as of Oct 2026. Remove ornaments and tinsel, and don't use a plastic bag.",
+   "source": "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326",
+   "category": "Trash"
+  },
+  {
+   "q": "How do I get rid of construction debris from a renovation?",
+   "a": "You have three options. Use the free curbside construction days, two per year on your garbage day; fall 2026 was Oct 19-23. Buy $50 vouchers to use the Recycling Center. Or hire a contractor or dumpster; a dumpster placed in the street needs a DPW permit (201-794-5304).",
+   "source": "https://www.fairlawn.org/construction-disposal",
+   "category": "Trash"
+  },
+  {
+   "q": "Where do paint and chemicals go?",
+   "a": "Household hazardous waste such as paint, chemicals, propane tanks and antifreeze is not collected by the Borough. Take it to a Bergen County Utilities Authority (BCUA) household hazardous waste event (bcua.org, 201-807-5825).",
+   "source": "https://www.fairlawn.org/item-disposal",
+   "category": "Trash"
+  },
+  {
+   "q": "Can I burn leaves or brush?",
+   "a": "No. Fair Lawn requires leaves and yard waste to be bagged or put in containers for collection, or dropped at the Recycling Center. Open burning of leaves is also generally prohibited under New Jersey air-pollution rules. Call the Fire Prevention Bureau (201-794-5408) with questions.",
+   "source": "https://ecode360.com/10055582",
+   "category": "Home"
+  },
+  {
+   "q": "Where can I park overnight?",
+   "a": "Nowhere on the street. Parking is prohibited 2-5 AM every day on all streets and municipal lots. For a free one-night pass (up to 2 consecutive nights), request it at pdlinx.com/parking. For up to a week, use pdlinx.com/parkingpermit. Handicap plates and placards are exempt.",
+   "source": "https://www.fairlawnpd.com/parking/",
+   "category": "Parking"
+  },
+  {
+   "q": "How do I get a longer-term hardship parking permit?",
+   "a": "Buy it from the Police Records Bureau (Borough Hall, Room 106). It costs $10/month or $100/year for the first vehicle, and half that for a second vehicle; yearly permits are prorated by month. The permit is tied to one vehicle, valid only near your home, and not valid during snow removal.",
+   "source": "https://fairlawnpd.com/wp-content/uploads/FLPD-Hardship-Parking-FAQ-2-2025.pdf",
+   "category": "Parking"
+  },
+  {
+   "q": "I need to park on an '8-10 AM no parking' street. What do I do?",
+   "a": "Call the police non-emergency line, 201-796-1400, before you park. This is a separate list from overnight permission.",
+   "source": "https://www.fairlawnpd.com/parking/",
+   "category": "Parking"
+  },
+  {
+   "q": "How do I get a commuter parking permit?",
+   "a": "Train lots (Erie, Upper Erie, Pollitt Dr.) and the Saddle River Rd bus lot are managed through ParkLync, with separate resident and non-resident sign-up links on the FLPD parking page. Effective March 1, 2026, daily permits stopped and only monthly permits are issued.",
+   "source": "https://www.fairlawnpd.com/parking/",
+   "category": "Parking"
+  },
+  {
+   "q": "What are the snow parking rules?",
+   "a": "When snow covers the road, no parking is allowed on the designated snow streets until they are plowed. These include Berdan Ave, Fair Lawn Pkwy, Plaza Rd, Radburn Rd, Prospect Ave, 11th/12th/17th Sts and others. The Borough plows curb to curb at 3+ inches, and hardship permits don't apply then. Keep cars off cul-de-sacs and local streets until they are cleared.",
+   "source": "https://ecode360.com/10056086",
+   "category": "Parking"
+  },
+  {
+   "q": "How fast must I clear my sidewalk after snow?",
+   "a": "Within 12 hours of daylight after the snow or ice stops. If the ice can't be removed, put down sand or another abrasive within that time. Don't shovel snow into the street (Code 208-2), and please clear nearby hydrants and crosswalks.",
+   "source": "https://ecode360.com/10055671",
+   "category": "Home"
+  },
+  {
+   "q": "How do I report a pothole, missed street sweeping or other public-works problem?",
+   "a": "Use the Borough's online 311 Service Request portal, or call DPW at 201-794-5304 / 201-794-5326.",
+   "source": "https://fairlawnnj.qscend.com/311/request/add",
+   "category": "Home"
+  },
+  {
+   "q": "How do I report a streetlight or traffic-light outage?",
+   "a": "Report it through the 311 Service Request portal or call DPW (201-794-5304); the Borough electrician maintains traffic lights. Many NJ streetlights are owned by PSE&G, which also takes outage reports. The Borough site doesn't say who owns each streetlight.",
+   "source": "https://fairlawnnj.qscend.com/311/request/add",
+   "category": "Home"
+  },
+  {
+   "q": "Who picks up a dead animal in the road?",
+   "a": "Not confirmed: the Borough site does not publish a dead-animal procedure. Try DPW (201-794-5304) or the police non-emergency line (201-796-1400). Animal bites and rabies issues go to the Northwest Bergen Regional Health Commission (201-445-7217).",
+   "source": "https://www.fairlawn.org/health",
+   "category": "Pets"
+  },
+  {
+   "q": "How do I license my dog or cat?",
+   "a": "Licenses are required for dogs and cats over 6 months old. Dog licenses run Jan 1-Dec 31 (renewals after that cost $10 extra). Cat licenses run Jun 1-May 31. A 1-year license is $12 for spayed/neutered pets or $15 if not; a 3-year license is $30 or $40. Apply by mail with proof of rabies vaccination, or call 201-794-5327. Free rabies clinics are usually held in early May and November.",
+   "source": "https://www.fairlawn.org/dog-cat-licenses",
+   "category": "Pets"
+  },
+  {
+   "q": "Does my dog barking count as a noise violation?",
+   "a": "It can. The noise code treats an animal vocalizing for 5 minutes straight (about 4+ barks a minute) as evidence of a violation, and enforcement officers can order the owner to stop.",
+   "source": "https://ecode360.com/10054351",
+   "category": "Pets"
+  },
+  {
+   "q": "What are the quiet hours?",
+   "a": "General sound limits are stricter from 10 PM to 7 AM. Residents can't run power tools or lawn/yard equipment from 8 PM to 8 AM unless it meets the night sound limits. Construction is allowed 7 AM-6 PM on weekdays and 9 AM-6 PM on weekends and federal holidays.",
+   "source": "https://ecode360.com/10054351",
+   "category": "Home"
+  },
+  {
+   "q": "What are the rules for landscapers and leaf blowers?",
+   "a": "Commercial landscaping equipment can't run from 6 PM to 8 AM on weekdays, or from 6 PM to 9 AM on weekends and federal holidays, and must have mufflers. Landscapers need an annual Borough license ($25 for the first vehicle, $15 for each additional one). They must haul away clippings and may not leave debris at the curb. No seasonal gas-leaf-blower ban was found in the Fair Lawn code.",
+   "source": "https://ecode360.com/46119716",
+   "category": "Home"
+  },
+  {
+   "q": "Do I need a permit for a fence or shed?",
+   "a": "Yes. Sheds and fences need zoning approval and building permits; bring a copy of your property survey. Fences must sit inside your property line with the finished side facing out. Building Dept 201-794-5307; Zoning 201-794-5308.",
+   "source": "https://www.fairlawn.org/remodeling",
+   "category": "Permits"
+  },
+  {
+   "q": "Do I need a permit to remove a tree on my property?",
+   "a": "Yes. The Borough says zoning approval is required to remove any tree; call 201-794-5308. For trees in the public right-of-way (between sidewalk and curb), contact DPW Shade Tree at 201-794-5304, which has a tree removal permit application.",
+   "source": "https://www.fairlawn.org/remodeling",
+   "category": "Permits"
+  },
+  {
+   "q": "Which home projects need a building permit?",
+   "a": "Water heater, boiler or furnace replacements, interior alterations, steps, roofing, siding, chimney relining, decks, sheds, fences, additions and pools. Call 201-794-5307. Permits are issued 9 AM-4 PM in Room 112 of Borough Hall.",
+   "source": "https://www.fairlawn.org/remodeling",
+   "category": "Permits"
+  },
+  {
+   "q": "Do I need a permit for a garage sale?",
+   "a": "Unclear. The Borough Code's 'Sales' chapter (183) licenses going-out-of-business and fire sales, not yard sales, and no garage-sale permit appears on the Clerk's page. Confirm with the Municipal Clerk before posting signs.",
+   "source": "https://ecode360.com/10055289",
+   "category": "Permits"
+  },
+  {
+   "q": "Do I need anything to sell my house?",
+   "a": "Yes. A Certificate of Continued Occupancy (CCO) inspection is required before closing on all resales of one- and two-family homes, townhomes and condos. Applications are at the Building Department.",
+   "source": "https://www.fairlawn.org/remodeling",
+   "category": "Permits"
+  },
+  {
+   "q": "When are property taxes due?",
+   "a": "Feb 1, May 1, Aug 1 and Nov 1. There is a 10-day grace period; after that, interest runs from the 1st at 8% on the first $1,500 and 18% above that. Pay online (e-check $1.95 fee, card about 2.95%), by mail, or at the drop box behind the Municipal Building.",
+   "source": "https://www.fairlawn.org/collector-water-billing",
+   "category": "Taxes"
+  },
+  {
+   "q": "How do I appeal my property assessment?",
+   "a": "File with the Bergen County Board of Taxation by April 1, or within 45 days of the assessment notice mailing if that is later. Properties assessed over $1M may go directly to NJ Tax Court. Appeals of added/omitted assessments are due by Dec 1. Tax Assessor: 201-794-5319.",
+   "source": "https://www.fairlawn.org/tax-assessor",
+   "category": "Taxes"
+  },
+  {
+   "q": "Are there property tax deductions for seniors or veterans?",
+   "a": "Yes. There is a $250/yr deduction for qualifying veterans or surviving spouses, and a $250 deduction for low-income seniors (65+), disabled persons or surviving spouses. Totally disabled veterans can get a full exemption. Apply with the Tax Assessor.",
+   "source": "https://www.fairlawn.org/tax-assessor",
+   "category": "Taxes"
+  },
+  {
+   "q": "How is water billed?",
+   "a": "Water is billed quarterly by the Borough. The 2026 rate is $7.50 per 1,000 gallons. Pay online, by mail or at the drop box. Water Billing: 201-794-5334.",
+   "source": "https://www.fairlawn.org/collector-water-billing",
+   "category": "Taxes"
+  },
+  {
+   "q": "How do I get a copy of a birth, marriage or death certificate?",
+   "a": "If the event happened in Fair Lawn, order it from the Registrar of Vital Statistics (Health Dept, Borough Hall) in person or by mail. Copies are $10 each and need ID and proof of relationship. Marriage licenses are by appointment only.",
+   "source": "https://www.fairlawn.org/vital-records",
+   "category": "Records"
+  },
+  {
+   "q": "How do I request public records or a police report?",
+   "a": "Borough records go through an OPRA request with the Municipal Clerk (online form). For police incident or accident reports, call FLPD Records at 201-794-5418 or 201-794-5419.",
+   "source": "https://www.fairlawn.org/clerk",
+   "category": "Records"
+  },
+  {
+   "q": "Where and when do I vote?",
+   "a": "The 2026 General Election is Tue, Nov 3, 2026. Register at least 29 days before an election. Vote-by-mail applications go to the Bergen County Clerk. Find your polling place and early-voting sites through the Borough Clerk page and NJ Division of Elections links.",
+   "source": "https://www.fairlawn.org/clerk",
+   "category": "Other"
+  },
+  {
+   "q": "How do I get a pool membership?",
+   "a": "Memorial Pool memberships are for Fair Lawn residents only, with photo-ID badges. Registration is through the Borough's Community Pass, and cash or check is accepted in person at the Community Center. The 2026 season is over; watch the Recreation page in spring 2027 for prices.",
+   "source": "https://www.fairlawn.org/memorial-pool",
+   "category": "Other"
+  },
+  {
+   "q": "Can I use the Community Center gym?",
+   "a": "Yes, if you're a Fair Lawn resident with ID; no guests. Hours are Mon-Fri 7 AM-9 PM, Sat 9 AM-9 PM and Sun 9 AM-5 PM. Open-gym schedules are posted weekly.",
+   "source": "https://www.fairlawn.org/park-rec",
+   "category": "Other"
+  },
+  {
+   "q": "How do I get emergency alerts?",
+   "a": "Register for Borough phone alerts (Nixle) and email notifications through the links on the Borough's 'Stay Informed' notice. Seniors without internet can call the Senior Loop-Line at 201-777-6161 for a weekly recorded update.",
+   "source": "https://www.fairlawn.org/",
+   "category": "Other"
+  },
+  {
+   "q": "Can landscapers dump leaves at the town compost site?",
+   "a": "Only with a $100-per-truck season permit sold at the DPW office from October. It is valid until Dec 31 or until the site is full, and only for leaves from Fair Lawn properties. The compost site page showed it as currently closed.",
+   "source": "https://www.fairlawn.org/leaf-permits",
+   "category": "Trash"
+  },
+  {
+   "q": "Where can I get a child car seat installed?",
+   "a": "The FLPD Traffic Division installs car seats Wednesdays and Saturdays 9 AM-1 PM. Call 201-796-1400 first to confirm.",
+   "source": "https://www.fairlawnpd.com/traffic/",
+   "category": "Other"
+  }
+ ],
+ "guides": [
+  {
+   "id": "parking-snow-rules",
+   "title": "Parking & snow rules",
+   "category": "Living here",
+   "body": "Fair Lawn has some of the strictest street-parking rules in Bergen County. The basics:\n\n- No parking 2-5 AM, every day, on ALL streets and municipal lots (Code 232-11A). Handicap plates and placards are exempt.\n- Need to park overnight? You can get free permission for 1 night, up to 2 in a row, at pdlinx.com/parking. For up to about a week use pdlinx.com/parkingpermit. The one-week option is renewable once a year.\n- For longer needs, buy a hardship permit from FLPD Records (Room 106): $10/month or $100/year for the first car, half price for a second, prorated by month. It is valid only near your home and requires a registration address match.\n- '8-10 AM No Parking' applies on many posted residential streets on weekdays. To get an exception, call 201-796-1400 before parking. Overnight permission does NOT cover it.\n- Other posted restrictions exist on certain blocks, such as Lake St/Oak St 10 PM-5 AM and Cedar St midnight-5 AM, plus 2-hour limits on Cyril Ave and Grunauer Pl.\n\nSnow\n\n- When snow covers the road, parking is banned on designated snow streets until they're plowed. These are 11th, 12th and 17th Sts, Berdan Ave, Berkshire Rd, Fair Lawn Pkwy, George St (Berdan-Fair Lawn Ave), Heights Ave, Henderson Blvd, Hopper Ave, Orchard St, Philip St, Plaza Rd, Prospect Ave, Radburn Rd, Rosalie St and Sunnyside Dr. Violators can be towed.\n- The Borough plows curb to curb once there are 3+ inches, and hardship permits are void during snow removal. Keep cars off local streets and cul-de-sacs until plows finish.\n- The Police Chief can declare a parking emergency and post temporary EMERGENCY NO PARKING signs.\n- Clear your sidewalk within 12 hours of daylight after snow stops, with a path of at least 30 in. Use sand if the ice won't come up. Never shovel snow into the street; that violates Code 208-2. Clear nearby hydrants and crosswalks too.\n- Plow damage to mailboxes is the owner's responsibility. Portable basketball hoops in the right-of-way are at your own risk.\n\nStreet sweeping and alternate side\n\n- DPW sweeps Borough streets on a regular routine, but no public sweeping calendar is posted. Posted monthly sweeping no-parking applies only on parts of Abbott Rd North and Warren Rd (1st Tue) and High St and Sampson Rd (1st Wed).\n- Fair Lawn has no general alternate-side parking. The 'alternate side' ordinance only sets 2-hour limits on Cyril Ave and Grunauer Pl.\n\nLeaves: never rake or blow leaves into the street. Bag them in paper bags or containers for your weekly yard-waste pickup.",
+   "sources": [
+    "https://www.fairlawnpd.com/parking/",
+    "https://fairlawnpd.com/wp-content/uploads/FLPD-Hardship-Parking-FAQ-2-2025.pdf",
+    "https://ecode360.com/10056099",
+    "https://ecode360.com/10056086",
+    "https://ecode360.com/10056093",
+    "https://ecode360.com/10055671",
+    "https://www.fairlawn.org/index.asp?SEC=8B08A93C-E487-49D3-BFB3-D8FA3881096A&DE=F9CA9A3D-81F5-4713-89D4-740FD6BE60D3",
+    "https://ecode360.com/10056163",
+    "https://ecode360.com/10056134",
+    "https://ecode360.com/10055582"
+   ]
+  },
+  {
+   "id": "trash-recycling-basics",
+   "title": "Trash, recycling & leaves",
+   "category": "Living here",
+   "body": "Cali Carting collects for the Borough. Fair Lawn is split into 5 sections. Find yours with the street/block lookup; the block is the number before the dash, so 8-01 Fair Lawn Ave is the 8 block.\n\n- Sec 1: recycling Tue, garbage Wed, summer 2nd garbage Sat\n- Sec 2: recycling Wed, garbage Thu, summer Mon\n- Sec 3: recycling Fri, garbage Mon, summer Thu\n- Sec 4: recycling Thu, garbage Tue, summer Fri\n- Sec 5: recycling Mon, garbage Fri, summer Tue\n\nRecycling alternates weekly between Paper/Cardboard and Bottles/Cans. In all sections the week of Oct 19, 2026 is paper. The summer second garbage day runs from the first full week of May to the last full week of September. Memorial Day, July 4 and Labor Day garbage is not made up.\n\n- Put out after 6 PM the night before and by 6 AM. Up to 4 barrels of garbage (20-40 gal, 40 lb max, lids). Unlimited recycling. No plastic bags for recycling, and no toters.\n- Yard waste and leaves go out weekly on your recycling day, early April to mid-December, in paper bags or cans. Branches must be under 3 ft long and under 3 in across, tied.\n- One furniture piece per garbage day. Book metal and electronics pickups at 201-794-5341.\n- Recycling Center, 20-05 Saddle River Rd: Mon-Fri 7-3:20, Sat 9-12:50, Sun 12-3:50.\n- Paint and chemicals go to BCUA household hazardous waste events.\n- Missed pickup: 201-991-5400.",
+   "sources": [
+    "https://www.fairlawn.org/recycling",
+    "https://www.fairlawn.org/uploads/dm/48126/2026_Recycling_Calendar__Revised_11326",
+    "https://www.fairlawn.org/item-disposal",
+    "https://ecode360.com/10055582"
+   ]
+  },
+  {
+   "id": "development-tracker",
+   "title": "What's being built (development tracker)",
+   "category": "Town news",
+   "body": "A neutral snapshot of major projects and issues as of Oct 19, 2026. Each item notes its status and source date. Details change often, so check Planning and Zoning Board agendas for the latest.\n\nFormer Nabisco plant (22-11 Route 208 / McBride Ave)\n- The 39-acre site was approved by the Planning Board for a roughly 644,000 sq ft logistics/warehouse building by Greek Real Estate Partners (CLPF Greek Fair Lawn LLC). The plant closed after 2021 and demolition began in 2023.\n- In Aug 2026, News 12 reported that a marketing listing ('Gateway North 208') touted 'data center by right.' The owner and Mayor Cristina Cutrone said no data-center application has been filed and the approval covers only a warehouse.\n- The Planning Board's Oct 19, 2026 agenda lists a 2nd extension of Resolution #10-2023 for CLPF Greek Fair Lawn, LLC.\n\nFormer Kodak land (Route 208)\n- Part of the old Kodak industrial property was redeveloped as Fair Lawn Promenade, a mixed-use center that opened in 2014. No new 2025-26 Kodak-site proposal was found in Borough agendas during this research.\n\nPlaza Greene, at the Radburn station (Fair Lawn Ave & Plaza Rd)\n- 145 age-restricted (55+) apartments, about 24,000 sq ft of retail and a Sprouts Farmers Market, in a 4-story building with a garage and streetscape improvements. It received full site plan approval in 2025; Daily Voice (Dec 3, 2025) said construction was expected to begin soon. No Sprouts opening date has been announced.\n\nMcDonald's rebuild, 37-01 Broadway (Route 4)\n- Zoning Board application #26-014 is for a rebuild needing variances for the non-conforming use, front-yard parking on 37th St and larger signs. The Sept 28, 2026 Zoning Board agenda listed it as carried to Oct 26, 2026, with a related site-plan memorialization item. Check the Oct 26 agenda for the outcome.\n\nRiver Road\n- Whispering Woods, 13-09/13-13 River Rd: a modified mixed-use application, listed as APPROVED on the Sept 28, 2026 Zoning Board agenda.\n- Former ShopRite, River Rd shopping center (17-17 to 17-70 River Rd): sold for about $14M. Local outlets reported in Oct 2026 that a Planning Board-approved redevelopment plan will turn the vacant ShopRite into a Hindu temple. ShopRite relocated to 22-00 Maple Ave (Route 208) in 2023.\n- The affordable-housing plan proposes extending the River Road Overlay to 17-08 to 17-50 River Rd, allowing up to 96 units with 20 affordable.\n\nAffordable housing (Fourth Round, 2025-2035)\n- The court-set obligation is 65 units of present need (rehabilitation) and 412 units of prospective need. Fair Lawn's plan (final HEFSP dated May 5, 2026) claims a realistic development potential of 17 units plus 99 units of unmet need.\n- Proposed sites:\n- 40-10 Broadway: gas station to be replaced by a mixed-use building with 10 apartments, 2 of them supportive housing.\n- 139 Lincoln Ave: vacant bank to be replaced by about 29 apartments, 6 affordable.\n- 0-106 29th St: 20 units, 4 affordable. Zoning Board approval was memorialized Sept 28, 2026.\n- 21-00 Route 208: overlay zoning for up to 150 apartments (30 affordable), possibly after office leases end around 2030.\n- Also counted: Livana senior units at 19-00 Pollitt Dr, and a 12-unit accessory-apartment program.\n\nRoads\n- PSE&G fall 2026 milling and paving on many streets (Northern Dr, Southern Dr, 26th-37th Sts, Summit Ave, Lyncrest Ave and others), scheduled through about Oct 22, weather permitting.\n- Maple Ave (CR 507) bridge over Route 208: a $10.4M NJDOT replacement. Route 208 traffic is shifted onto the shoulders through the end of 2026, and completion is expected in fall 2028.\n\nBudget and taxes\n- TAPinto reported that the Council unanimously adopted the 2026 municipal budget on May 19, 2026. It raises the municipal portion of the average assessed homeowner's bill by about $32/month (about 11.7%).\n- Final 2026 tax bills were mailed by Aug 6, 2026, after the rate was certified, with the August grace period extended to Sept 1. Of each tax dollar, about 61.19% goes to schools, 28.19% to municipal operations, 10.03% to Bergen County and 0.59% to open space.\n- The certified 2026 tax rate was not captured in this research.\n\nSchools\n- No Fair Lawn school bond referendum for 2025 or 2026 was found. The last one found was the $25M referendum passed in March 2018.\n\nRadburn\n- Radburn (1929, a National Historic Landmark) is governed by the private Radburn Association, which collects fees and controls common land. Disputes over playground placement and association by-laws have drawn coverage in past years. No specific 2026 Radburn issue was confirmed in this research.\n\nNew businesses\n- Parfait Cafe, 95 Lincoln Ave, opened in May 2026 (Boozy Burbs, 5/19/2026).\n- Sprouts at Plaza Greene is coming, date TBA.\n\nNot found or unconfirmed: a Fair Lawn Ave streetscape project (beyond the Plaza Greene sidewalk work) and the 2026 school referendum.",
+   "sources": [
+    "https://www.fairlawn.org/planning-board",
+    "https://www.fairlawn.org/zoning-board",
+    "https://www.fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/FINAL_Fair_Lawn_HEFSP_5.5.26.pdf",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=3978CD76-3725-4164-AF4C-70C9231F3857",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=A4F1B9BA-D65F-4B32-93DA-EFB3E8EA8A7C",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=162D8920-953B-4593-8536-BA0DB3567B8A",
+    "https://newyork.news12.com/from-baking-cookies-to-tracking-cookies-lease-for-old-fair-lawn-nabisco-site-lists-data-center-by-right",
+    "https://re-nj.com/greek-files-plans-for-644000-sq-ft-logistics-facility-at-former-nabisco-plant-in-fair-lawn/",
+    "https://dailyvoice.com/new-jersey/fairlawn/plaza-greene-construction-set-to-begin-in-fair-lawn/",
+    "https://jerseydigs.com/river-road-shopping-center-fair-lawn/",
+    "https://patch.com/new-jersey/fairlawn-saddlebrook",
+    "https://www.tapinto.net/towns/fair-lawn-slash-glen-rock/sections/government/articles/fair-lawn-municipal-taxes-to-increase-32-per-month-or-11-7-for-average-assessed-homeowner",
+    "https://patch.com/new-jersey/fairlawn-saddlebrook/25m-fair-lawn-school-referendum-approved",
+    "https://www.boozyburbs.com/2026/05/19/opening-alert-parfait-cafe-fair-lawn-nj/",
+    "https://www.langan.com/portfolio/fair-lawn-promenade"
+   ]
+  },
+  {
+   "id": "history-fun-facts",
+   "title": "Fair Lawn history & fun facts",
+   "category": "History",
+   "body": "Fair Lawn grew from Lenape land to Dutch farms ('Slooterdam') to one of Bergen County's largest suburbs.\n\n- The Lenape built a V-shaped stone fish weir in the Passaic River. It can still be seen at low water just upstream of the Fair Lawn Ave bridge, and it gave the area its old Dutch name, Slooterdam, used until about 1791.\n- Fair Lawn was incorporated on March 6, 1924 as 'Fairlawn,' carved out of Saddle River Township, largely over complaints about schools. The name comes from David Acker's 1865 estate 'Fairlawn.' The spelling split into 'Fair Lawn' in 1933.\n- Radburn was founded in 1929 by Clarence Stein and Henry Wright as the 'Town for the Motor Age.' It used superblocks, inner parks and pedestrian underpasses that separated people from cars. The Depression bankrupted the developer in 1933, but the design was copied worldwide, and Radburn became a National Historic Landmark in 2005.\n- In Revolutionary War lore, John H. Post of Slooterdam dismantled the Passaic River bridge in 1776 to slow Cornwallis's pursuit of Washington. Lafayette visited the Naugle House area, and stayed there in 1824.\n- The Garretson Forge & Farm (4-02 River Rd) dates to the early 1700s and is among the oldest surviving buildings in Bergen County.\n- Fair Lawn boomed after WWII, growing from about 9,000 people in 1940 to about 36,400 by 1960. Its Route 208 industrial park drew Kodak, Nabisco and Lea & Perrins.\n- The Nabisco bakery (opened 1958) made up to 175 million lb of cookies a year, earning the area the nickname 'Cookie City.' It closed after 2021.\n- Fair Lawn uses Queens-style hyphenated addresses such as 10-01 Fair Lawn Ave. Its roughly 10,000 hyphenated addresses are about half of all such addresses in New Jersey.\n- In the 1976 film Taxi Driver, Travis Bickle gives a fake address on Hopper Ave, Fair Lawn. The Sopranos also referenced the town.\n- Notable people connected to Fair Lawn include Donald Fagen of Steely Dan, singer Regina Spektor, Olympic sprinter Dave Sime, Dodgers pitcher Ron Perranoski, actor Charlie Schlatter and Ian Axel of A Great Big World.\n\nBy the numbers\n\n- Population 34,927 (2020 Census), with 12,243 households; projected about 40,000 by 2050.\n- Median household income about $144,574 (ACS 2020-2024), above the Bergen County median.\n- Area about 5.2 sq mi, with about 81 miles of Borough roads.\n- Two NJ Transit Bergen County Line stations: Radburn and Broadway.",
+   "sources": [
+    "https://www.fairlawn.org/about-fair-lawn",
+    "https://en.wikipedia.org/wiki/Fair_Lawn,_New_Jersey",
+    "https://www.fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/FINAL_Fair_Lawn_HEFSP_5.5.26.pdf",
+    "https://www.fairlawn.org/dpw"
+   ]
+  },
+  {
+   "id": "day-trips",
+   "title": "Day trips within 30 minutes",
+   "category": "Day trips",
+   "body": "Drive times are rough estimates from central Fair Lawn without heavy traffic.\n\n- Paterson Great Falls National Historical Park (Paterson, about 15 min): a 77-ft waterfall on the Passaic and the birthplace of Hamilton's industrial city. It is free, with an overlook and the Hamilton Park trails. nps.gov/pagr\n- Garret Mountain Reservation and Lambert Castle (Woodland Park, about 20 min): Passaic County park with skyline views of NYC, trails, a pond and stables, plus the Lambert Castle museum next door.\n- Van Saun County Park and Bergen County Zoo (Paramus, about 15 min): playgrounds, a mini train and carousel, and a small zoo open 10:00-4:30 with last entry 4:00. Check the County site for current admission.\n- Saddle River County Park (Ridgewood, Glen Rock, Fair Lawn and Saddle Brook): a long paved bike and walking path along the Saddle River, with access minutes from the Fair Lawn Ave and Dunkerhook area.\n- Paramus malls (Garden State Plaza, Paramus Park and Route 4/17 stores, about 10 min): Bergen County blue laws close most clothing, furniture and electronics stores on Sundays. Paramus is even stricter, and grocery stores and restaurants stay open. Paramus sued American Dream (East Rutherford, about 20-25 min) in 2025 over Sunday sales, and that dispute was still pending as of early 2026.\n- Downtown Ridgewood (about 10 min): walkable restaurants and shops, the Ridgewood Duck Pond and Graydon Pool.\n- Wayne (about 20 min): Willowbrook Mall (Passaic County, so open Sundays), the Dey Mansion Washington's Headquarters museum, and the Van Riper-Hopper House.\n- Garretson Forge & Farm (right in Fair Lawn, 4-02 River Rd): an early-1700s Dutch farmstead museum with seasonal festivals.\n- NYC by train: NJ Transit Bergen County Line from Radburn or Broadway station to Hoboken (PATH or ferry to Manhattan), or transfer at Secaucus Junction to Penn Station. Commuter parking is monthly-only via ParkLync.\n- NYC by bus: NJ Transit routes such as 144/145/148/160/164/196 run to Port Authority, and 171/175 run to the George Washington Bridge terminal. Jitneys on Broadway/Route 4 run to Washington Heights.",
+   "sources": [
+    "https://www.nps.gov/pagr/",
+    "https://www.passaiccountynj.org/",
+    "https://bergencountynj.gov/bergen-county-departments-of-parks/bergen-county-zoo",
+    "https://fortune.com/2025/08/27/new-jersey-town-paramus-sues-american-dream-mall-blue-law",
+    "https://en.wikipedia.org/wiki/Fair_Lawn,_New_Jersey",
+    "https://www.fairlawnpd.com/parking/"
+   ]
+  },
+  {
+   "id": "quiet-hours-home-rules",
+   "title": "Quiet hours & home rules",
+   "category": "Living here",
+   "body": "Key Borough Code rules for homeowners and renters. Full text is at ecode360.com/FA1754.\n\nNoise (Chapter 150)\n- Nighttime sound limits apply 10 PM-7 AM.\n- Residents' power tools and lawn/yard equipment: not between 8 PM and 8 AM unless they meet the night limits. Mufflers are required.\n- Commercial landscapers and contractors' yard equipment: not 6 PM-8 AM on weekdays, or 6 PM-9 AM on weekends and federal holidays.\n- Construction and demolition: 7 AM-6 PM weekdays and 9 AM-6 PM weekends and holidays.\n- Car alarms must stop within 5 minutes for continuous sound, or 15 minutes for intermittent sound.\n- Portable speakers in public places can't be plainly audible at 50 ft during the day or 25 ft at night (10 PM-8 AM).\n- A pet barking or howling for 5 minutes straight can be a violation.\n\nYard and trash\n- Put trash out after 6 PM the night before and by 6 AM. Bring cans in promptly; the code says by 9 PM.\n- Never put leaves, grass or yard waste in the street. Use paper bags or cans on your weekly yard-waste day.\n- Landscapers must be Borough-licensed and haul away their own debris.\n- Fertilizer, pesticide and bamboo rules also exist (Ch. 129, 166, 167).\n- Keep brush and hedges trimmed near intersections (Ch. 208, Art. II).\n- Clear sidewalk snow within 12 hours of daylight.\n\nBuilding and property\n- Fences, sheds, decks, pools, additions, roofing, siding and water heaters need permits. Zoning approval is needed for sheds, fences, patios, driveway widening, storage pods and ANY tree removal. Bring your survey.\n- Fences must be inside your property line with the finished side out.\n- Dumpsters placed in the street need a DPW permit.\n- Selling a home requires a Certificate of Continued Occupancy (CCO) inspection.\n\nPets\n- License dogs and cats over 6 months old. Feeding wildlife and Canada geese is prohibited (Ch. 62). Keeping fowl requires a license.\n\nWho to call\n- Noise or after-hours issues: police non-emergency 201-796-1400.\n- Property maintenance complaints: 201-777-6137.\n- Building questions: 201-794-5307.",
+   "sources": [
+    "https://ecode360.com/10054351",
+    "https://ecode360.com/10055474",
+    "https://ecode360.com/10055582",
+    "https://ecode360.com/46119716",
+    "https://ecode360.com/10051536",
+    "https://www.fairlawn.org/remodeling",
+    "https://ecode360.com/10055671",
+    "https://ecode360.com/FA1754",
+    "https://www.fairlawn.org/building-zoning"
+   ]
+  },
+  {
+   "id": "taxes-and-bills",
+   "title": "Property taxes & water bills",
+   "category": "Living here",
+   "body": "- Taxes are due Feb 1, May 1, Aug 1 and Nov 1, with a 10-day grace period. Late interest is 8% on the first $1,500 and 18% above that, counted from the due date.\n- The 2026 bills (final 2026 plus preliminary 2027) were mailed by Aug 6, 2026, and the August grace period was extended to Sept 1, 2026.\n- Pay online through the Edmunds WIPP portal (e-check $1.95, card about 2.95%), by mail to Tax Collector, 8-01 Fair Lawn Ave, or at the drop box in the rear Municipal Building lot. No cash in the drop box.\n- Water is billed quarterly at $7.50 per 1,000 gallons (2026).\n- Assessment appeals go to the Bergen County Board of Taxation by April 1, or 45 days after the notice.\n- Deductions available: veterans ($250), low-income seniors and disabled persons ($250), and a full exemption for 100% disabled veterans.\n- Tax Collector: 201-794-5338. Assessor: 201-794-5319. Water Billing: 201-794-5334.",
+   "sources": [
+    "https://www.fairlawn.org/collector-water-billing",
+    "https://www.fairlawn.org/tax-assessor",
+    "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=162D8920-953B-4593-8536-BA0DB3567B8A"
+   ]
+  }
+ ],
+ "contacts": [
+  {
+   "name": "Borough Hall (main)",
+   "category": "Government",
+   "phone": "201-796-1700",
+   "url": "https://www.fairlawn.org/",
+   "notes": "8-01 Fair Lawn Ave. Mon-Fri 8:30-4:30."
+  },
+  {
+   "name": "Police - non-emergency (24/7)",
+   "category": "Government",
+   "phone": "201-796-1400",
+   "url": "https://www.fairlawnpd.com/",
+   "notes": "Emergency: 911. Daytime 8-10 AM parking exceptions."
+  },
+  {
+   "name": "Police Traffic Bureau",
+   "category": "Government",
+   "phone": "201-794-5413",
+   "url": "https://www.fairlawnpd.com/traffic/",
+   "notes": "traffic@fairlawnpd.com; car seat installs Wed/Sat 9-1."
+  },
+  {
+   "name": "Police Records Bureau",
+   "category": "Government",
+   "phone": "201-794-5418",
+   "url": "https://www.fairlawnpd.com/records/",
+   "notes": "Hardship parking permits, reports. Alt 201-794-5419. Room 106."
+  },
+  {
+   "name": "Overnight parking request (online)",
+   "category": "Government",
+   "phone": "",
+   "url": "https://pdlinx.com/parking",
+   "notes": "One night (max 2 consecutive). Up to a week: https://pdlinx.com/parkingpermit"
+  },
+  {
+   "name": "Public Works (DPW) administration",
+   "category": "Government",
+   "phone": "201-794-5304",
+   "url": "https://www.fairlawn.org/dpw",
+   "notes": "Alt 201-794-5326; dpw@fairlawn.org. Roads, snow, potholes, street dumpster permits."
+  },
+  {
+   "name": "311 Service Request portal",
+   "category": "Government",
+   "phone": "",
+   "url": "https://fairlawnnj.qscend.com/311/request/add",
+   "notes": "Report potholes, street trees, other service issues online."
+  },
+  {
+   "name": "Shade Tree (new street tree requests)",
+   "category": "Government",
+   "phone": "201-794-5305",
+   "url": "https://www.fairlawn.org/shade-tree",
+   "notes": "Tree removal info: 201-794-5304."
+  },
+  {
+   "name": "Recycling Office / Recycling Center",
+   "category": "Government",
+   "phone": "201-794-5341",
+   "url": "https://www.fairlawn.org/recycling",
+   "notes": "recycling@fairlawn.org; 20-05 Saddle River Rd. Metal/electronics appointments."
+  },
+  {
+   "name": "Cali Carting (missed garbage/recycling)",
+   "category": "Other",
+   "phone": "201-991-5400",
+   "url": "http://www.calicarting.com",
+   "notes": "service@calicarting.com"
+  },
+  {
+   "name": "Building Department",
+   "category": "Government",
+   "phone": "201-794-5307",
+   "url": "https://www.fairlawn.org/building-zoning",
+   "notes": "Room 112; permits issued 9-4."
+  },
+  {
+   "name": "Zoning / Planning Board secretary",
+   "category": "Government",
+   "phone": "201-794-5308",
+   "url": "https://www.fairlawn.org/zoning-board",
+   "notes": "Tara Longo."
+  },
+  {
+   "name": "Property Maintenance / Code Enforcement",
+   "category": "Government",
+   "phone": "201-777-6137",
+   "url": "https://www.fairlawn.org/building-zoning",
+   "notes": ""
+  },
+  {
+   "name": "Rent Leveling Board",
+   "category": "Government",
+   "phone": "201-564-6152",
+   "url": "https://www.fairlawn.org/rent-leveling",
+   "notes": ""
+  },
+  {
+   "name": "Tax Collector",
+   "category": "Government",
+   "phone": "201-794-5338",
+   "url": "https://www.fairlawn.org/collector-water-billing",
+   "notes": "Alt 201-794-5339."
+  },
+  {
+   "name": "Tax Assessor",
+   "category": "Government",
+   "phone": "201-794-5319",
+   "url": "https://www.fairlawn.org/tax-assessor",
+   "notes": ""
+  },
+  {
+   "name": "Water Billing",
+   "category": "Government",
+   "phone": "201-794-5334",
+   "url": "https://www.fairlawn.org/collector-water-billing",
+   "notes": ""
+  },
+  {
+   "name": "Water Department (operations)",
+   "category": "Government",
+   "phone": "201-703-4260",
+   "url": "https://www.fairlawn.org/dpw-water",
+   "notes": ""
+  },
+  {
+   "name": "Municipal Clerk (OPRA, elections, licenses)",
+   "category": "Government",
+   "phone": "201-796-1700",
+   "url": "https://www.fairlawn.org/clerk",
+   "notes": "Clerk Nicholas J. Magarelli."
+  },
+  {
+   "name": "Pet licensing / Human Services / Vital records",
+   "category": "Government",
+   "phone": "201-794-5327",
+   "url": "https://www.fairlawn.org/dog-cat-licenses",
+   "notes": ""
+  },
+  {
+   "name": "Northwest Bergen Regional Health Commission",
+   "category": "Government",
+   "phone": "201-445-7217",
+   "url": "http://www.nwbrhc.org/",
+   "notes": "Health inspections, animal bites, rat control, clinics."
+  },
+  {
+   "name": "Recreation & Parks / Community Center",
+   "category": "Government",
+   "phone": "201-796-6746",
+   "url": "https://www.fairlawn.org/park-rec",
+   "notes": "10-10 20th St."
+  },
+  {
+   "name": "Fire Prevention Bureau",
+   "category": "Government",
+   "phone": "201-794-5408",
+   "url": "https://www.fairlawn.org/fire-prevention",
+   "notes": ""
+  },
+  {
+   "name": "Municipal Court clerk",
+   "category": "Government",
+   "phone": "201-794-5348",
+   "url": "https://www.fairlawn.org/court",
+   "notes": "Citizen complaints."
+  },
+  {
+   "name": "Senior Loop-Line (recorded weekly info)",
+   "category": "Government",
+   "phone": "201-777-6161",
+   "url": "https://www.fairlawn.org/",
+   "notes": "Unattended info line."
+  },
+  {
+   "name": "BCUA Household Hazardous Waste",
+   "category": "Government",
+   "phone": "201-807-5825",
+   "url": "https://www.bcua.org",
+   "notes": "Paint, chemicals, propane."
+  },
+  {
+   "name": "NJDOT Office of Community Relations (Maple Ave bridge)",
+   "category": "Government",
+   "phone": "609-963-1982",
+   "url": "https://www.fairlawn.org/index.asp?SEC=AC83F0E1-4649-43A1-8379-888B8DB7A2F4&DE=A4F1B9BA-D65F-4B32-93DA-EFB3E8EA8A7C",
+   "notes": "Shivon Harris, Regional Coordinator."
+  },
+  {
+   "name": "PSE&G outages",
+   "category": "Other",
+   "phone": "",
+   "url": "https://nj.pseg.com/outageandgasleaks",
+   "notes": "Power outages and gas leaks."
+  }
+ ]
+}

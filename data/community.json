@@ -1,0 +1,1312 @@
+{
+  "places": [
+    {
+      "name": "Congregation Shomrei Torah",
+      "category": "Worship",
+      "lat": 40.929598,
+      "lng": -74.118535,
+      "address": "19-10 Morlot Ave, Fair Lawn, NJ 07410",
+      "description": "Orthodox synagogue (OU member, ~300 families); one of seven shuls maintaining the Fair Lawn eruv; eruv chatzerot kept in the rabbi's office.",
+      "url": "https://www.shomrei-torah.org",
+      "phone": "(201) 791-7910"
+    },
+    {
+      "name": "Young Israel of Fair Lawn",
+      "category": "Worship",
+      "lat": 40.938668,
+      "lng": -74.098552,
+      "address": "11-05 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Orthodox synagogue; part of the Fair Lawn eruv.",
+      "url": "https://www.yifl.org",
+      "phone": "(201) 797-1800"
+    },
+    {
+      "name": "Congregation Ahavat Achim",
+      "category": "Worship",
+      "lat": 40.948315,
+      "lng": -74.103942,
+      "address": "18-25 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Modern Orthodox synagogue; part of the Fair Lawn eruv.",
+      "url": "https://www.ahavatachim.org",
+      "phone": "(201) 797-0502"
+    },
+    {
+      "name": "Congregation Darchei Noam",
+      "category": "Worship",
+      "lat": 40.929337,
+      "lng": -74.12795,
+      "address": "10-04 Alexander Ave, Fair Lawn, NJ 07410",
+      "description": "Orthodox synagogue (Radburn area); part of the Fair Lawn eruv.",
+      "url": "https://www.darcheinoam.com",
+      "phone": "(201) 773-4080"
+    },
+    {
+      "name": "Congregation Bris Avrohom",
+      "category": "Worship",
+      "lat": 40.941244,
+      "lng": -74.112894,
+      "address": "30-02 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Orthodox (Chabad-affiliated) congregation; part of the Fair Lawn eruv.",
+      "url": "https://www.jewishfairlawn.org",
+      "phone": "(201) 791-7200"
+    },
+    {
+      "name": "Sephardic Community of Fair Lawn",
+      "category": "Worship",
+      "lat": 40.941916,
+      "lng": -74.101447,
+      "address": "40-34 Terhune Pl, Fair Lawn, NJ 07410",
+      "description": "Orthodox Sephardic synagogue (also called Sephardic Center of Fair Lawn); part of the Fair Lawn eruv.",
+      "phone": "(201) 796-1525"
+    },
+    {
+      "name": "Anshei Lubavitch Outreach Center (Chabad of Fair Lawn)",
+      "category": "Worship",
+      "lat": 40.93392,
+      "lng": -74.11706,
+      "address": "10-10 Plaza Rd, Fair Lawn, NJ 07410",
+      "description": "Chabad-Lubavitch synagogue and outreach center (former Temple Avoda building); also runs a daycare/preschool; part of the Fair Lawn eruv.",
+      "url": "https://www.flchabad.com",
+      "phone": "(201) 794-3770"
+    },
+    {
+      "name": "Fair Lawn Jewish Center / Congregation B'nai Israel",
+      "category": "Worship",
+      "lat": 40.93025,
+      "lng": -74.128304,
+      "address": "10-10 Norma Ave, Fair Lawn, NJ 07410",
+      "description": "Conservative synagogue; nursery school on site.",
+      "url": "https://www.fljc.com",
+      "phone": "(201) 796-5040"
+    },
+    {
+      "name": "Temple Beth Sholom",
+      "category": "Worship",
+      "lat": 40.94401,
+      "lng": -74.103258,
+      "address": "40-25 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Traditional Conservative synagogue (founded 1957) at Fair Lawn Ave & Saddle River Rd; Alef Preschool in the building.",
+      "phone": "(201) 797-9321"
+    },
+    {
+      "name": "Glen Rock Jewish Center",
+      "category": "Worship",
+      "lat": 40.958279,
+      "lng": -74.119283,
+      "address": "682 Harristown Rd, Glen Rock, NJ 07452",
+      "description": "Conservative synagogue just over the Fair Lawn/Glen Rock line (~1.5 mi).",
+      "url": "https://www.grjc.org",
+      "phone": "(201) 652-6624"
+    },
+    {
+      "name": "Church of St. Anne",
+      "category": "Worship",
+      "lat": 40.922436,
+      "lng": -74.119914,
+      "address": "15-05 St. Anne St, Fair Lawn, NJ 07410",
+      "description": "Roman Catholic parish (Archdiocese of Newark); runs a food pantry 1st & 3rd Wednesdays in the rectory lower level.",
+      "phone": "(201) 791-1616"
+    },
+    {
+      "name": "St. Leon Armenian Church",
+      "category": "Worship",
+      "lat": 40.941695,
+      "lng": -74.099494,
+      "address": "12-61 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Armenian Apostolic (Orthodox) church; hosts an annual food festival and picnic.",
+      "url": "https://stleon.org",
+      "phone": "(201) 791-2862"
+    },
+    {
+      "name": "Fair Lawn Community Church",
+      "category": "Worship",
+      "lat": 40.935795,
+      "lng": -74.107106,
+      "address": "10-10 Maxwell Pl, Fair Lawn, NJ 07410",
+      "description": "Reformed Church in America congregation; the building is also home to a Taiwanese Reformed congregation.",
+      "url": "https://www.flccnj.org",
+      "phone": "(201) 796-1113"
+    },
+    {
+      "name": "Warren Point Presbyterian Church",
+      "category": "Worship",
+      "lat": 40.92143,
+      "lng": -74.11771,
+      "address": "Broadway & 17th St, Fair Lawn, NJ 07410",
+      "description": "Presbyterian Church (USA) congregation in the Warren Point section.",
+      "url": "https://pcusa.org/congregation/warren-point-church-fair-lawn-nj",
+      "phone": "(201) 796-3662"
+    },
+    {
+      "name": "Our Savior Lutheran Church",
+      "category": "Worship",
+      "lat": 40.922357,
+      "lng": -74.113467,
+      "address": "22-15 Broadway, Fair Lawn, NJ 07410",
+      "description": "Lutheran Church-Missouri Synod congregation; Sunday worship (check current times).",
+      "url": "https://locator.lcms.org/church/C/302517"
+    },
+    {
+      "name": "Episcopal Church of the Atonement",
+      "category": "Worship",
+      "lat": 40.924729,
+      "lng": -74.106363,
+      "address": "1-36 30th St, Fair Lawn, NJ 07410",
+      "description": "Episcopal church; Sunday Holy Communion at 9 am, monthly Taize service."
+    },
+    {
+      "name": "Fair Lawn Church of Christ",
+      "category": "Worship",
+      "lat": 40.929849,
+      "lng": -74.113916,
+      "address": "5-15 Plaza Rd, Fair Lawn, NJ 07410",
+      "description": "Church of Christ; Sunday Bible classes 10 am, worship 11 am, Wednesday Bible study 7:30 pm.",
+      "url": "https://fairlawnchurchofchrist.com"
+    },
+    {
+      "name": "Van Riper-Ellis Broadway Baptist Church",
+      "category": "Worship",
+      "lat": 40.926794,
+      "lng": -74.129652,
+      "address": "7-01 River Rd, Fair Lawn, NJ 07410",
+      "description": "Baptist church; operates Van Riper Ellis Christian School nearby; listed as a food resource.",
+      "phone": "(201) 791-8845"
+    },
+    {
+      "name": "Grace Orthodox Presbyterian Church",
+      "category": "Worship",
+      "lat": 40.92139,
+      "lng": -74.09889,
+      "address": "S. Broadway, Fair Lawn, NJ 07410",
+      "description": "Orthodox Presbyterian Church congregation near the Saddle Brook line."
+    },
+    {
+      "name": "Bethel Evangelical Free Church",
+      "category": "Worship",
+      "lat": 40.94568,
+      "lng": -74.145421,
+      "address": "38 Albert Ave, Fair Lawn, NJ 07410",
+      "description": "Evangelical Free Church congregation near the Hawthorne line."
+    },
+    {
+      "name": "Fair Lawn Bible Church",
+      "category": "Worship",
+      "lat": 40.934827,
+      "lng": -74.129173,
+      "address": "11-09 Hopper Ave, Fair Lawn, NJ 07410",
+      "description": "Independent Bible church.",
+      "url": "https://www.facebook.com/fairlawnbible"
+    },
+    {
+      "name": "Peace Korean Reformed Church",
+      "category": "Worship",
+      "lat": 40.943992,
+      "lng": -74.103321,
+      "address": "39-23 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Korean-language Reformed Church in America congregation.",
+      "phone": "(201) 796-2233"
+    },
+    {
+      "name": "New Jersey First Methodist Church",
+      "category": "Worship",
+      "lat": 40.9414,
+      "lng": -74.116159,
+      "address": "27-06 High St, Fair Lawn, NJ 07410",
+      "description": "Methodist congregation (also listed as New Song Church at this address)."
+    },
+    {
+      "name": "Jesus Sarang Church",
+      "category": "Worship",
+      "lat": 40.922694,
+      "lng": -74.105262,
+      "address": "0-95 30th St, Fair Lawn, NJ 07410",
+      "description": "Korean church (directory listing; verify service times)."
+    },
+    {
+      "name": "St. Athanasios Greek Orthodox Church",
+      "category": "Worship",
+      "lat": 40.928975,
+      "lng": -74.091069,
+      "address": "51 Paramus Rd, Paramus, NJ 07652",
+      "description": "Greek Orthodox parish just across the Saddle River in Paramus (~1.5 mi).",
+      "url": "https://stathanasiosnj.org",
+      "phone": "(201) 368-8881"
+    },
+    {
+      "name": "Russian Orthodox Church of Three Saints",
+      "category": "Worship",
+      "lat": 40.884925,
+      "lng": -74.097045,
+      "address": "Outwater Ln, Garfield, NJ 07026",
+      "description": "Russian Orthodox parish and Three Saints Cultural Center in Garfield (~3.7 mi) - nearest Russian Orthodox church to Fair Lawn."
+    },
+    {
+      "name": "Islamic Center of Passaic County",
+      "category": "Worship",
+      "lat": 40.917008,
+      "lng": -74.139702,
+      "address": "152 Derrom Ave, Paterson, NJ 07504",
+      "description": "Mosque and Islamic center, one of the largest in New Jersey (~1.9 mi, just across the Passaic River); Friday prayers.",
+      "url": "https://icpcnj.org"
+    },
+    {
+      "name": "AM/PM Urgent Care with Englewood Health - Fair Lawn",
+      "category": "Health",
+      "lat": 40.921883,
+      "lng": -74.114753,
+      "address": "21-20 Broadway, Fair Lawn, NJ 07410",
+      "description": "Walk-in urgent care open daily 8 am-midnight: illness/injury, X-ray, EKG, lab, flu/COVID/strep testing, physicals.",
+      "url": "https://www.ampmwalkinurgentcare.com/our-locations/fair-lawn-urgent-care/",
+      "phone": "(551) 444-6010"
+    },
+    {
+      "name": "CVS Pharmacy (24 hours) - Fair Lawn Ave",
+      "category": "Health",
+      "lat": 40.93945,
+      "lng": -74.11847,
+      "address": "24-12 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Pharmacy listed by CVS as open 24 hours; MinuteClinic on site (vaccines). Call to confirm overnight pharmacy hours.",
+      "url": "https://www.cvs.com/store-locator/fair-lawn-nj-pharmacies/24-12-fair-lawn-avenue-fair-lawn-nj-07410/storeid=251",
+      "phone": "(201) 797-7500"
+    },
+    {
+      "name": "CVS Pharmacy - River Rd",
+      "category": "Health",
+      "lat": 40.940231,
+      "lng": -74.142432,
+      "address": "18-35 River Rd, Fair Lawn, NJ 07410",
+      "description": "Pharmacy.",
+      "url": "https://www.cvs.com/store-locator/fair-lawn-nj-pharmacies/18-35-river-rd-fair-lawn-nj-07410/storeid=2093"
+    },
+    {
+      "name": "CVS Pharmacy - Broadway",
+      "category": "Health",
+      "lat": 40.923895,
+      "lng": -74.106793,
+      "address": "29-00 Broadway, Fair Lawn, NJ 07410",
+      "description": "Pharmacy on Route 4.",
+      "url": "https://www.cvs.com/store-locator/fairlawn-nj-pharmacies/29-00-broadway-rt-4-fairlawn-nj-07410/storeid=5427"
+    },
+    {
+      "name": "The Valley Hospital (Paramus)",
+      "category": "Health",
+      "lat": 40.964294,
+      "lng": -74.072738,
+      "address": "4 Valley Health Plaza, Paramus, NJ 07652",
+      "description": "Full-service hospital with 24/7 emergency department (moved from Ridgewood in April 2024). For GPS use 650 Winters Ave, Paramus.",
+      "url": "https://www.valleyhealth.com/the-valley-hospital",
+      "phone": "(201) 447-8000"
+    },
+    {
+      "name": "St. Joseph's University Medical Center",
+      "category": "Health",
+      "lat": 40.902601,
+      "lng": -74.166811,
+      "address": "703 Main St, Paterson, NJ 07503",
+      "description": "Major teaching hospital and trauma center with 24/7 emergency department and children's hospital.",
+      "url": "https://www.stjosephshealth.org/locations/st-josephs-university-medical-center",
+      "phone": "(973) 754-2000"
+    },
+    {
+      "name": "Hackensack University Medical Center",
+      "category": "Health",
+      "lat": 40.884233,
+      "lng": -74.057754,
+      "address": "30 Prospect Ave, Hackensack, NJ 07601",
+      "description": "Major academic medical center and trauma center with 24/7 emergency department and Joseph M. Sanzari Children's Hospital.",
+      "phone": "(551) 996-2000"
+    },
+    {
+      "name": "Paterson Community Health Center (Broadway)",
+      "category": "Health",
+      "lat": 40.918858,
+      "lng": -74.166589,
+      "address": "227 Broadway, Paterson, NJ 07501",
+      "description": "Federally qualified health center: primary care, dental, OB/GYN, pediatrics, mental health; sliding-scale fees for the uninsured.",
+      "phone": "(973) 278-2600"
+    },
+    {
+      "name": "Planned Parenthood - Hackensack Health Center",
+      "category": "Health",
+      "lat": 40.897292,
+      "lng": -74.040155,
+      "address": "575 Main St, Hackensack, NJ 07601",
+      "description": "Reproductive and sexual health care: birth control, STI testing, cancer screening.",
+      "phone": "(201) 489-1140"
+    },
+    {
+      "name": "AFC Urgent Care Paramus",
+      "category": "Health",
+      "lat": 40.967504,
+      "lng": -74.073545,
+      "address": "67 E Ridgewood Ave, Paramus, NJ 07652",
+      "description": "Walk-in urgent care, weekdays 8 am-8 pm, weekends 9 am-6 pm.",
+      "url": "https://www.afcurgentcare.com/paramus/",
+      "phone": "(201) 262-2010"
+    },
+    {
+      "name": "Fair Lawn Borough Hall - Human Services & Food Pantry",
+      "category": "Social services",
+      "lat": 40.935917,
+      "lng": -74.132723,
+      "address": "8-01 Fair Lawn Ave, Room 109, Fair Lawn, NJ 07410",
+      "description": "Borough Human Services: food pantry for Fair Lawn residents, grocery gift cards, help with past-due utilities, free mini-bus, referrals to county/state aid, pet licensing, vital records.",
+      "url": "https://www.fairlawn.org/food-pantry",
+      "phone": "(201) 794-5327"
+    },
+    {
+      "name": "Fair Lawn Senior Center",
+      "category": "Social services",
+      "lat": 40.937655,
+      "lng": -74.130806,
+      "address": "11-05 Gardiner Rd, Fair Lawn, NJ 07410",
+      "description": "Free-membership center for adults 60+: activities, weekday noon lunch (reserve 24 hrs ahead), flu clinics, referrals.",
+      "url": "https://www.fairlawn.org/senior-citizen",
+      "phone": "(201) 796-1191"
+    },
+    {
+      "name": "Center for Food Action - Saddle Brook",
+      "category": "Social services",
+      "lat": 40.907338,
+      "lng": -74.106715,
+      "address": "224 Midland Ave, Saddle Brook, NJ 07663",
+      "description": "Food pantry and emergency assistance site serving south/central Bergen County (~2 mi).",
+      "url": "https://cfanj.org/gethelp/",
+      "phone": "(201) 703-9857"
+    },
+    {
+      "name": "St. Joseph's WIC Program - Paterson",
+      "category": "Social services",
+      "lat": 40.899622,
+      "lng": -74.164197,
+      "address": "800 Main St, Paterson, NJ 07503",
+      "description": "WIC nutrition program (St. Joseph's runs WIC for Bergen and Passaic counties); call for nearest site/appointment.",
+      "phone": "(973) 754-4575"
+    },
+    {
+      "name": "Social Security Office - Paterson",
+      "category": "Government",
+      "lat": 40.914723,
+      "lng": -74.168498,
+      "address": "200 Federal Plaza, 1st Floor, Paterson, NJ 07505",
+      "description": "Social Security field office (cards, retirement/disability/SSI, Medicare). Weekdays 9 am-4 pm; national line 1-800-772-1213.",
+      "url": "https://www.ssa.gov/locator/"
+    },
+    {
+      "name": "Kiddie Academy of Fair Lawn",
+      "category": "Childcare",
+      "lat": 40.942584,
+      "lng": -74.122999,
+      "address": "16-00 Pollitt Dr, Fair Lawn, NJ 07410",
+      "description": "Daycare/preschool: infants through pre-K.",
+      "url": "https://kiddieacademy.com/academies/fair-lawn/",
+      "phone": "(201) 773-1616"
+    },
+    {
+      "name": "Lightbridge Academy of Fair Lawn",
+      "category": "Childcare",
+      "lat": 40.947618,
+      "lng": -74.138919,
+      "address": "22-50 Maple Ave, Fair Lawn, NJ 07410",
+      "description": "Daycare and preschool.",
+      "url": "https://lightbridgeacademy.com/fair-lawn-nj/",
+      "phone": "(475) 290-6344"
+    },
+    {
+      "name": "The Learning Experience - Fair Lawn",
+      "category": "Childcare",
+      "lat": 40.937519,
+      "lng": -74.12658,
+      "address": "15-22 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Daycare and preschool.",
+      "url": "https://thelearningexperience.com/centers/fair-lawn/",
+      "phone": "(888) 290-6366"
+    },
+    {
+      "name": "Evergreen Academy",
+      "category": "Childcare",
+      "lat": 40.933539,
+      "lng": -74.096551,
+      "address": "4-24 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Preschool/daycare for ages 18 months-6 years.",
+      "url": "https://www.egreenacademy.com",
+      "phone": "(551) 250-0606"
+    },
+    {
+      "name": "Anshei Lubavitch Daycare and Preschool",
+      "category": "Childcare",
+      "lat": 40.93392,
+      "lng": -74.11706,
+      "address": "10-10 Plaza Rd, Fair Lawn, NJ 07410",
+      "description": "Jewish (Chabad) daycare and preschool.",
+      "url": "https://www.flchabad.com/youth/preschool/",
+      "phone": "(201) 794-3770"
+    },
+    {
+      "name": "Kol Chaverim Daycare and Preschool",
+      "category": "Childcare",
+      "lat": 40.937071,
+      "lng": -74.0981,
+      "address": "8-12 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Jewish daycare and preschool.",
+      "url": "http://www.kolchaverim.com",
+      "phone": "(201) 509-8433"
+    },
+    {
+      "name": "Alef Preschool",
+      "category": "Childcare",
+      "lat": 40.94401,
+      "lng": -74.103258,
+      "address": "40-25 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Jewish preschool located at Temple Beth Sholom.",
+      "url": "https://www.alefschool.com",
+      "phone": "(201) 793-4800"
+    },
+    {
+      "name": "Gan Iris Nursery School",
+      "category": "Childcare",
+      "lat": 40.934433,
+      "lng": -74.116791,
+      "address": "11-16 Plaza Rd, Fair Lawn, NJ 07410",
+      "description": "Jewish nursery school.",
+      "url": "https://ganirisnursery.com",
+      "phone": "(201) 414-6998"
+    },
+    {
+      "name": "Fair Lawn Community School - Before & After Care",
+      "category": "Childcare",
+      "lat": 40.932686,
+      "lng": -74.125408,
+      "address": "c/o Fair Lawn High School, 14-00 Berdan Ave, Fair Lawn, NJ 07410",
+      "description": "District-run before-care (7:15-8:35 am) and after-care (to 6 pm) for Fair Lawn Public School students K-8; monthly tuition, limited space.",
+      "url": "https://fairlawnschools.org/page/contact-info",
+      "phone": "(201) 794-5450 ext. 2369"
+    },
+    {
+      "name": "Fair Lawn Dog Park (Memorial Park)",
+      "category": "Pets",
+      "lat": 40.92913,
+      "lng": -74.1404,
+      "address": "Memorial Park, Avenue of Heroes (Essex St entrance off Morlot Ave), Fair Lawn, NJ 07410",
+      "description": "Fenced off-leash park behind the street-hockey courts with separate large-dog (30+ lb) and small-dog areas; dawn to dusk. Free rabies clinics are held in the garage next to it each May and November.",
+      "url": "https://www.fairlawn.org/dog-cat-licenses"
+    },
+    {
+      "name": "Bergen New Bridge Medical Center",
+      "category": "Health",
+      "lat": 40.95546,
+      "lng": -74.06226,
+      "address": "230 E Ridgewood Ave, Paramus, NJ 07652",
+      "description": "County-affiliated hospital (Rutgers clinical affiliate) with 24/7 emergency department and behavioral health; home of the 24/7 Psychiatric Emergency Screening Program (Care Plus NJ, 201-262-4357)."
+    },
+    {
+      "name": "Valley Brook Veterinary Hospital",
+      "category": "Pets",
+      "lat": 40.93144,
+      "lng": -74.09565,
+      "address": "3-21 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Veterinary hospital (dogs and cats).",
+      "url": "https://valleybrookveterinaryhospital.com",
+      "phone": "(201) 796-5833"
+    },
+    {
+      "name": "Lincoln Avenue Cat & Dog Hospital",
+      "category": "Pets",
+      "lat": 40.947673,
+      "lng": -74.146603,
+      "address": "133 Lincoln Ave, Fair Lawn, NJ 07410",
+      "description": "Veterinary hospital for cats and dogs.",
+      "url": "https://www.lacatanddoghospital.com",
+      "phone": "(973) 427-0990"
+    },
+    {
+      "name": "Oradell Animal Hospital (Paramus)",
+      "category": "Pets",
+      "lat": 40.960994,
+      "lng": -74.071523,
+      "address": "580 Winters Ave, Paramus, NJ 07652",
+      "description": "24/7/365 emergency and specialty animal hospital; no appointment needed for emergencies.",
+      "url": "https://www.oradell.com",
+      "phone": "(201) 262-0010"
+    },
+    {
+      "name": "Fair Lawn Post Office (main)",
+      "category": "Post office",
+      "lat": 40.940464,
+      "lng": -74.118981,
+      "address": "14-24 Abbott Rd, Fair Lawn, NJ 07410",
+      "description": "Retail Mon-Fri 8:30 am-5 pm, Sat 8:30 am-1 pm. Passport acceptance by appointment (Mon-Fri 9 am-3 pm, Sat 10 am-12:45 pm; walk-ins Tue-Thu 10-11 am) and passport photos.",
+      "url": "https://tools.usps.com/locations/details/1362941",
+      "phone": "(201) 796-0873"
+    },
+    {
+      "name": "River Road Post Office",
+      "category": "Post office",
+      "lat": 40.932412,
+      "lng": -74.132744,
+      "address": "12-44 River Rd, Fair Lawn, NJ 07410",
+      "description": "Retail Mon-Fri 9 am-4:30 pm; closed weekends.",
+      "url": "https://tools.usps.com/locations/details/1379444",
+      "phone": "(201) 797-4267"
+    },
+    {
+      "name": "Warren Point Post Office",
+      "category": "Post office",
+      "lat": 40.924026,
+      "lng": -74.105564,
+      "address": "30-10 Broadway, Fair Lawn, NJ 07410",
+      "description": "Retail Mon-Fri 9 am-4:30 pm; closed weekends.",
+      "url": "https://tools.usps.com/locations/details/1386437",
+      "phone": "(201) 796-5378"
+    },
+    {
+      "name": "The UPS Store - River Rd",
+      "category": "Post office",
+      "lat": 40.93252,
+      "lng": -74.13218,
+      "address": "12-45 River Rd, Fair Lawn, NJ 07410",
+      "description": "Private shipping/mailbox store with notary public services.",
+      "url": "https://locations.theupsstore.com/nj/fair-lawn/12-45-river-rd",
+      "phone": "(201) 794-3935"
+    },
+    {
+      "name": "The UPS Store - Saddle River Rd",
+      "category": "Post office",
+      "lat": 40.935376,
+      "lng": -74.097153,
+      "address": "6-05 Saddle River Rd, Fair Lawn, NJ 07410",
+      "description": "Private shipping/mailbox store with notary public services.",
+      "url": "https://locations.theupsstore.com/nj/fair-lawn/6-05-saddle-river-rd/notary"
+    },
+    {
+      "name": "NJ MVC Lodi Licensing & Inspection Center",
+      "category": "Government",
+      "lat": 40.881505,
+      "lng": -74.076145,
+      "address": "8 Mill St (off Garibaldi Ave), Lodi, NJ 07644",
+      "description": "Nearest full MVC: licenses, registrations, road tests and inspections; most transactions by appointment.",
+      "url": "https://www.nj.gov/mvc/locations/facilitylocations.htm"
+    },
+    {
+      "name": "NJ MVC Paramus Inspection Station",
+      "category": "Government",
+      "lat": 40.930033,
+      "lng": -74.072997,
+      "address": "20 W Century Rd, Paramus, NJ 07652",
+      "description": "Vehicle inspection only (no licensing).",
+      "url": "https://www.nj.gov/mvc/locations/inspection.htm"
+    },
+    {
+      "name": "Congressman Josh Gottheimer - District Office",
+      "category": "Government",
+      "lat": 40.945378,
+      "lng": -74.132413,
+      "address": "21-00 Route 208 S, Suite 240, Fair Lawn, NJ 07410",
+      "description": "U.S. House NJ-5 district office; can help with federal agencies (passport expediting, Social Security, VA, IRS).",
+      "url": "https://gottheimer.house.gov/our-offices",
+      "phone": "(201) 389-1100"
+    },
+    {
+      "name": "Fair Lawn Borough Hall",
+      "category": "Government",
+      "lat": 40.935917,
+      "lng": -74.132723,
+      "address": "8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "description": "Municipal offices: Clerk, Health/Human Services (Room 109), Vital Records, Veterans Affairs liaison, tax and water payments.",
+      "url": "https://www.fairlawn.org",
+      "phone": "(201) 796-1700"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Emergency (police, fire, ambulance)",
+      "category": "Crisis",
+      "phone": "911",
+      "notes": "Fair Lawn Volunteer Ambulance Corps answers 911 medical calls in the borough. For an animal attack, also call 911."
+    },
+    {
+      "name": "988 Suicide & Crisis Lifeline",
+      "category": "Crisis",
+      "phone": "988",
+      "url": "https://988lifeline.org",
+      "hours": "24/7",
+      "notes": "Call or text 988 for mental-health, suicide or substance-use crisis support."
+    },
+    {
+      "name": "Bergen County Psychiatric Emergency Screening (Care Plus NJ at Bergen New Bridge)",
+      "category": "Crisis",
+      "phone": "(201) 262-4357",
+      "address": "230 E Ridgewood Ave, Paramus, NJ 07652",
+      "hours": "24/7",
+      "notes": "Bergen County's designated psychiatric emergency screening service (201-262-HELP). If someone is in immediate danger, call 911."
+    },
+    {
+      "name": "NJ MentalHealthCares",
+      "category": "Crisis",
+      "phone": "1-866-202-4357",
+      "hours": "Mon-Fri 8 am-8 pm",
+      "url": "https://www.njmentalhealthcares.org",
+      "notes": "Free, confidential NJ behavioral-health information and referral line (866-202-HELP); TTY 877-294-4356. Not a crisis line - call 988 or 911 in a crisis."
+    },
+    {
+      "name": "NJ Poison Control Center (NJPIES)",
+      "category": "Crisis",
+      "phone": "1-800-222-1222",
+      "url": "https://www.njpies.org",
+      "hours": "24/7",
+      "notes": "Free, confidential poison help; text 973-339-0702 or use live chat on njpies.org. Interpreters available."
+    },
+    {
+      "name": "Center for Hope & Safety (domestic violence)",
+      "category": "Crisis",
+      "phone": "(201) 944-9600",
+      "url": "https://www.hopeandsafety.org",
+      "address": "12 Overlook Ave, Rochelle Park, NJ 07662 (office)",
+      "hours": "24/7 hotline",
+      "notes": "Bergen County's domestic-violence agency: confidential hotline, emergency shelter, counseling and free legal help with restraining orders. Main office line (201) 498-9247."
+    },
+    {
+      "name": "NJ 211",
+      "category": "Crisis",
+      "phone": "211",
+      "url": "https://www.nj211.org",
+      "hours": "24/7",
+      "notes": "Statewide referral line for food, housing, utilities, health and other help."
+    },
+    {
+      "name": "Fair Lawn Police - non-emergency",
+      "category": "Crisis",
+      "phone": "(201) 796-1400",
+      "url": "https://www.fairlawnpd.com",
+      "notes": "Press 1 for dispatch. Also the number for animal-control calls in Fair Lawn."
+    },
+    {
+      "name": "The Valley Hospital (Paramus)",
+      "category": "Health",
+      "phone": "(201) 447-8000",
+      "url": "https://www.valleyhealth.com/the-valley-hospital",
+      "address": "4 Valley Health Plaza, Paramus, NJ 07652 (GPS: 650 Winters Ave)",
+      "hours": "Emergency department 24/7",
+      "notes": "About 3 miles from central Fair Lawn. Emergency care is no longer offered at the old Ridgewood campus."
+    },
+    {
+      "name": "Hackensack University Medical Center",
+      "category": "Health",
+      "phone": "(551) 996-2000",
+      "address": "30 Prospect Ave, Hackensack, NJ 07601",
+      "hours": "Emergency department 24/7",
+      "notes": "About 4.7 miles; academic medical center and trauma center with a children's hospital."
+    },
+    {
+      "name": "St. Joseph's University Medical Center (Paterson)",
+      "category": "Health",
+      "phone": "(973) 754-2000",
+      "url": "https://www.stjosephshealth.org/locations/st-josephs-university-medical-center",
+      "address": "703 Main St, Paterson, NJ 07503",
+      "hours": "24/7",
+      "notes": "About 3.4 miles; trauma center and children's hospital."
+    },
+    {
+      "name": "St. Joseph's Wayne Medical Center",
+      "category": "Health",
+      "phone": "(973) 942-6900",
+      "address": "224 Hamburg Tpke, Wayne, NJ 07470",
+      "notes": "About 4.7 miles west of central Fair Lawn."
+    },
+    {
+      "name": "Bergen New Bridge Medical Center",
+      "category": "Health",
+      "address": "230 E Ridgewood Ave, Paramus, NJ 07652",
+      "hours": "Emergency department 24/7",
+      "notes": "About 3.2 miles; county-affiliated hospital with major behavioral-health and addiction services (addiction access line 1-800-730-2762).",
+      "phone": "1-800-730-2762"
+    },
+    {
+      "name": "AM/PM Urgent Care with Englewood Health - Fair Lawn",
+      "category": "Health",
+      "phone": "(551) 444-6010",
+      "url": "https://www.ampmwalkinurgentcare.com/our-locations/fair-lawn-urgent-care/",
+      "address": "21-20 Broadway, Fair Lawn, NJ 07410",
+      "hours": "Daily 8 am-midnight",
+      "notes": "Walk-ins welcome; X-ray, EKG, on-site lab, physicals. Accepts most insurance; self-pay rates."
+    },
+    {
+      "name": "AFC Urgent Care Paramus",
+      "category": "Health",
+      "phone": "(201) 262-2010",
+      "url": "https://www.afcurgentcare.com/paramus/",
+      "address": "67 E Ridgewood Ave, Paramus, NJ 07652",
+      "hours": "Mon-Fri 8 am-8 pm; Sat-Sun 9 am-6 pm"
+    },
+    {
+      "name": "PM Pediatric Urgent Care Paramus",
+      "category": "Health",
+      "phone": "(201) 262-5437",
+      "address": "160 Route 17, Paramus, NJ 07652",
+      "notes": "Pediatric-only urgent care with evening hours; call to confirm hours."
+    },
+    {
+      "name": "CVS Pharmacy - 24-12 Fair Lawn Ave (24 hours)",
+      "category": "Health",
+      "phone": "(201) 797-7500",
+      "url": "https://www.cvs.com/store-locator/fair-lawn-nj-pharmacies/24-12-fair-lawn-avenue-fair-lawn-nj-07410/storeid=251",
+      "address": "24-12 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "hours": "Listed as open 24 hours (store and pharmacy)",
+      "notes": "Fair Lawn's 24-hour pharmacy; MinuteClinic inside for vaccines and minor illness. Call to confirm overnight pharmacist hours."
+    },
+    {
+      "name": "Northwest Bergen Regional Health Commission (Fair Lawn's health department)",
+      "category": "Health",
+      "phone": "(201) 445-7217",
+      "email": "info@nwbrhc.net",
+      "url": "https://www.nwbrhc.org",
+      "address": "20 W Prospect St, Waldwick, NJ 07463",
+      "hours": "Mon-Fri 8:30 am-4 pm",
+      "notes": "Contracted by the Borough for public-health nursing: adult immunization and Vaccines for Children clinics, child health conferences, blood-pressure screenings, communicable disease, animal-bite investigations, food inspections, health-education classes. After-hours health emergencies: (201) 885-3572."
+    },
+    {
+      "name": "Fair Lawn 2026 Flu Shot Clinic",
+      "category": "Health",
+      "url": "https://www.fairlawn.org/flu2026",
+      "address": "Fair Lawn Senior Center, 11-05 Gardiner Rd, Fair Lawn, NJ 07410",
+      "hours": "Held Monday, Oct 5, 2026, 9:30 am-12:30 pm (pre-registration required)",
+      "notes": "Run by the Fair Lawn Board of Health and NWBRHC. Medicare Part B accepted (bring card); otherwise $24.95 regular or $68.95 high-dose, cash only; Medicare Advantage not accepted. Watch fairlawn.org for future clinics."
+    },
+    {
+      "name": "Fair Lawn Health / Human Services office (Borough Hall)",
+      "category": "Health",
+      "phone": "(201) 794-5327",
+      "address": "8-01 Fair Lawn Ave, Room 109, Fair Lawn, NJ 07410",
+      "url": "https://www.fairlawn.org/health",
+      "notes": "Borough-level contact for health questions, pet licensing and rabies clinics; nursing services are provided by NWBRHC."
+    },
+    {
+      "name": "Bergen County Department of Health Services - free adult vaccine clinics",
+      "category": "Health",
+      "url": "https://bergencountynj.gov/bergen-county-department-of-health-services/vaccine-clinics/",
+      "address": "One Bergen County Plaza, Hackensack, NJ 07601",
+      "phone": "(201) 336-6000",
+      "notes": "The county has run free flu/COVID clinics for residents (by appointment, no insurance needed) at the County Administration Building; check the county site for the current season. County main line shown."
+    },
+    {
+      "name": "Paterson Community Health Center",
+      "category": "Health",
+      "phone": "(973) 278-2600",
+      "address": "227 Broadway, Paterson, NJ 07501",
+      "hours": "Mon-Fri 9 am-5 pm",
+      "notes": "Federally qualified health center with medical, dental, OB/GYN, pediatric and mental-health care; sliding-scale fees ($10-$33 by income) for the uninsured; walk-ins accepted. A good option for urgent dental problems without insurance."
+    },
+    {
+      "name": "Planned Parenthood - Hackensack",
+      "category": "Health",
+      "phone": "(201) 489-1140",
+      "address": "575 Main St, Hackensack, NJ 07601",
+      "url": "https://www.plannedparenthood.org",
+      "notes": "Birth control, STI testing/treatment, cancer screening, pregnancy services."
+    },
+    {
+      "name": "Emergency dental care",
+      "category": "Health",
+      "notes": "Call your own dentist first - most keep an after-hours line. Uninsured: Paterson Community Health Center (973-278-2600) offers sliding-scale dental care. NJ FamilyCare (Medicaid) covers adult dental. Go to a hospital ER (Valley, Hackensack UMC, St. Joseph's) for facial swelling, fever, trouble breathing or swallowing, or uncontrolled bleeding after trauma."
+    },
+    {
+      "name": "Fair Lawn Food Pantry (Human Services)",
+      "category": "Social services",
+      "phone": "(201) 794-5327",
+      "email": "foodpantry@fairlawn.org",
+      "url": "https://www.fairlawn.org/food-pantry",
+      "address": "8-01 Fair Lawn Ave, Room 109, Fair Lawn, NJ 07410",
+      "hours": "Borough Hall office hours; donations to Room 109 8:30 am-4 pm",
+      "notes": "For Fair Lawn residents only; apply with the Request Assistance form (English, Russian, Spanish) on the website. Provides food, grocery gift cards and help with past-due utilities; Thanksgiving baskets, holiday gift drive and back-to-school supplies. Facebook: facebook.com/FLFoodPantry."
+    },
+    {
+      "name": "Church of St. Anne Food Pantry",
+      "category": "Social services",
+      "phone": "(201) 791-1616",
+      "address": "15-05 St. Anne St, Fair Lawn, NJ 07410",
+      "hours": "1st and 3rd Wednesday of the month",
+      "notes": "Rectory lower level; food, personal and household items."
+    },
+    {
+      "name": "Center for Food Action - Saddle Brook",
+      "category": "Social services",
+      "phone": "(201) 703-9857",
+      "email": "cfasb@cfanj.org",
+      "url": "https://cfanj.org/gethelp/",
+      "address": "224 Midland Ave, Saddle Brook, NJ 07663",
+      "notes": "Food pantry plus emergency help (utilities, rent/mortgage counseling) for Bergen County residents."
+    },
+    {
+      "name": "Jewish Family & Children's Services of Northern NJ",
+      "category": "Social services",
+      "phone": "(201) 837-9090",
+      "url": "https://www.jfcsnnj.org",
+      "address": "1485 Teaneck Rd, Teaneck, NJ 07666",
+      "notes": "Corner Market kosher food pantry (by appointment), counseling, senior services; also runs Kosher Meals on Wheels."
+    },
+    {
+      "name": "Bergen County Board of Social Services",
+      "category": "Social services",
+      "phone": "(201) 368-4200",
+      "url": "https://www.bcbss.com",
+      "address": "218 Route 17 North, Rochelle Park, NJ 07662",
+      "hours": "Mon-Fri 8 am-4:30 pm (Tue until 8 pm)",
+      "notes": "SNAP (food stamps), Work First NJ cash aid, NJ FamilyCare/Medicaid, emergency assistance. Apply for SNAP online at oneapp.dhs.state.nj.us. Shelter/homeless prevention: (201) 368-4317."
+    },
+    {
+      "name": "WIC - St. Joseph's WIC Program (Bergen & Passaic)",
+      "category": "Social services",
+      "phone": "(973) 754-4575",
+      "email": "wic@sjhmc.org",
+      "address": "Bergen sites incl. 215 State St, Hackensack; Passaic site 800 Main St, Paterson",
+      "url": "https://www.nj.gov/health/fhs/wic/participants/find-wic/findlocal.shtml",
+      "notes": "Nutrition help for pregnant/postpartum people, infants and children under 5. Call for an appointment at the nearest site."
+    },
+    {
+      "name": "NJ SHARES (utility bill help)",
+      "category": "Social services",
+      "phone": "1-866-657-4273",
+      "notes": "Grants toward gas/electric bills for households in a temporary financial crisis."
+    },
+    {
+      "name": "NJ Energy Assistance Hotline (LIHEAP / USF)",
+      "category": "Social services",
+      "phone": "1-800-510-3102",
+      "url": "https://nj.gov/dca/dhcr/offices/Liheap-usf-agencylist.shtml",
+      "notes": "Heating and utility assistance. Bergen County applications are handled by Greater Bergen Community Action in Hackensack (201-488-5100); call for appointment hours."
+    },
+    {
+      "name": "Bergen County Community Transportation",
+      "category": "Social services",
+      "phone": "(201) 368-5955",
+      "email": "communitytransportation@co.bergen.nj.us",
+      "url": "https://bergencountynj.gov/bergen-county-department-of-public-works/community-transportation/",
+      "address": "178 Essex St, Lodi, NJ",
+      "notes": "Rides for Bergen seniors 60+, people with disabilities and veterans to medical appointments and more; book 2-3 weeks ahead (press 1 for dispatch). Ride Connect trip planning also via (201) 336-7400."
+    },
+    {
+      "name": "Fair Lawn Mini-Bus",
+      "category": "Social services",
+      "phone": "(201) 794-5327",
+      "url": "https://www.fairlawn.org/mini-bus",
+      "hours": "Mon-Fri 9 am-4 pm pick-ups; call by 3 pm the business day before",
+      "notes": "Free rides within Fair Lawn for residents 18+; reserve up to 2 weeks ahead and wait for a call-back to confirm. Other options: Access Link 800-955-2321, GoGoGrandparent 1-855-464-6872."
+    },
+    {
+      "name": "Bergen County Meals on Wheels",
+      "category": "Social services",
+      "phone": "(201) 336-7420",
+      "notes": "Home-delivered low-sodium/low-fat meals for homebound seniors and disabled residents."
+    },
+    {
+      "name": "Kosher Meals on Wheels (JFCS)",
+      "category": "Social services",
+      "phone": "(201) 796-5151",
+      "url": "https://www.jfcsnnj.org/kosher-meals-on-wheels"
+    },
+    {
+      "name": "Fair Lawn Senior Center",
+      "category": "Social services",
+      "phone": "(201) 796-1191",
+      "email": "srcenter@fairlawn.org",
+      "url": "https://www.fairlawn.org/senior-citizen",
+      "address": "11-05 Gardiner Rd (11th St & Gardiner Rd), Fair Lawn, NJ 07410",
+      "notes": "Free membership for 60+; weekday noon lunch ($1.25 suggested donation for 60+; reserve 24 hrs ahead by noon), classes, trips, monthly calendar."
+    },
+    {
+      "name": "Bergen County Division of Senior Services",
+      "category": "Social services",
+      "phone": "(201) 336-7400",
+      "notes": "Also toll-free 1-877-222-3737."
+    },
+    {
+      "name": "Fair Lawn Veterans Affairs Liaison",
+      "category": "Social services",
+      "phone": "(201) 794-5331",
+      "email": "veterans@fairlawn.org",
+      "url": "https://www.fairlawn.org/veterans",
+      "address": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "notes": "Point of contact for Fair Lawn veterans, service members and families; veteran banner program; flag-retirement drop box."
+    },
+    {
+      "name": "Bergen County Division of Veterans Services",
+      "category": "Social services",
+      "phone": "(201) 336-6325",
+      "url": "https://bergencountynj.gov/bergen-county-department-of-human-services/about-veterans-services/",
+      "address": "One Bergen County Plaza, 2nd Floor, Hackensack, NJ 07601"
+    },
+    {
+      "name": "NJ DMAVA Veterans Service Office - Hackensack",
+      "category": "Social services",
+      "phone": "(609) 671-3511",
+      "address": "125 State St, Suite 109, Hackensack, NJ 07601",
+      "hours": "Mon-Fri 8 am-4 pm (closed alternate Fridays)",
+      "url": "https://www.nj.gov/dva/veterans/services/vso/",
+      "notes": "Free help filing VA and state veteran benefit claims; toll-free 844-671-1019."
+    },
+    {
+      "name": "FLASE - Fair Lawn Association for Special Education (SEPAG)",
+      "category": "Social services",
+      "url": "https://fairlawnschools.org/page/flase-pto",
+      "notes": "Fair Lawn Public Schools' special-education parent group and state-mandated SEPAG (since 1999), for families of students ages 3-21 including out-of-district placements."
+    },
+    {
+      "name": "Fair Lawn for All Ages",
+      "category": "Social services",
+      "url": "https://fairlawnforallages.org/",
+      "notes": "Age-friendly community initiative (funded by the Henry & Marilyn Taub Foundation) supporting older residents."
+    },
+    {
+      "name": "Fair Lawn Community School (before & after care)",
+      "category": "Childcare",
+      "phone": "(201) 794-5450 ext. 2369",
+      "email": "flcs@fairlawnschools.org",
+      "url": "https://fairlawnschools.org/page/contact-info",
+      "address": "c/o Fair Lawn High School, 14-00 Berdan Ave, Fair Lawn, NJ 07410",
+      "hours": "Before-care 7:15-8:35 am; after-care until 6 pm on school days",
+      "notes": "For Fair Lawn Public School students K-8. 2025-26 monthly tuition was $215-$305 after-care and $165-$240 before-care plus $40 registration; registration opens in May and space is limited."
+    },
+    {
+      "name": "Kiddie Academy of Fair Lawn",
+      "category": "Childcare",
+      "phone": "(201) 773-1616",
+      "address": "16-00 Pollitt Dr, Fair Lawn, NJ 07410",
+      "url": "https://kiddieacademy.com/academies/fair-lawn/",
+      "notes": "Infants through pre-K."
+    },
+    {
+      "name": "Lightbridge Academy of Fair Lawn",
+      "category": "Childcare",
+      "phone": "(475) 290-6344",
+      "address": "22-50 Maple Ave, Fair Lawn, NJ 07410",
+      "url": "https://lightbridgeacademy.com/fair-lawn-nj/"
+    },
+    {
+      "name": "The Learning Experience - Fair Lawn",
+      "category": "Childcare",
+      "phone": "(888) 290-6366",
+      "address": "15-22 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "url": "https://thelearningexperience.com/centers/fair-lawn/"
+    },
+    {
+      "name": "Evergreen Academy",
+      "category": "Childcare",
+      "phone": "(551) 250-0606",
+      "address": "4-24 Saddle River Rd, Fair Lawn, NJ 07410",
+      "url": "https://www.egreenacademy.com",
+      "notes": "Ages 18 months-6 years."
+    },
+    {
+      "name": "Anshei Lubavitch Daycare and Preschool",
+      "category": "Childcare",
+      "phone": "(201) 794-3770",
+      "address": "10-10 Plaza Rd, Fair Lawn, NJ 07410",
+      "url": "https://www.flchabad.com/youth/preschool/"
+    },
+    {
+      "name": "Kol Chaverim Daycare and Preschool",
+      "category": "Childcare",
+      "phone": "(201) 509-8433",
+      "address": "8-12 Saddle River Rd, Fair Lawn, NJ 07410",
+      "url": "http://www.kolchaverim.com",
+      "notes": "Alternate number (917) 750-7679."
+    },
+    {
+      "name": "Alef Preschool",
+      "category": "Childcare",
+      "phone": "(201) 793-4800",
+      "address": "40-25 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "url": "https://www.alefschool.com",
+      "notes": "At Temple Beth Sholom."
+    },
+    {
+      "name": "Gan Iris Nursery School",
+      "category": "Childcare",
+      "phone": "(201) 414-6998",
+      "address": "11-16 Plaza Rd, Fair Lawn, NJ 07410",
+      "url": "https://ganirisnursery.com",
+      "notes": "Alternate number (201) 475-8880."
+    },
+    {
+      "name": "Leah Sokoloff Nursery School / Shalom Yeladim Early Childhood Center",
+      "category": "Childcare",
+      "phone": "(201) 778-6000",
+      "url": "https://www.shalomyeladim.com/fair-lawn-map",
+      "notes": "Jewish early-childhood program associated with Congregation Shomrei Torah (Shalom Yeladim merged with Leah Sokoloff in 2026)."
+    },
+    {
+      "name": "Fair Lawn Jewish Center Nursery School",
+      "category": "Childcare",
+      "address": "10-10 Norma Ave, Fair Lawn, NJ 07410",
+      "url": "https://www.fljc.com",
+      "notes": "Ages 2.5-6; contact through the Fair Lawn Jewish Center office (201) 796-5040.",
+      "phone": "(201) 796-5040"
+    },
+    {
+      "name": "Van Riper Ellis Christian School",
+      "category": "Childcare",
+      "phone": "(201) 791-7853",
+      "address": "7-20 Bellair Ave, Fair Lawn, NJ 07410",
+      "notes": "Christian school/preschool affiliated with Van Riper-Ellis Broadway Baptist Church (directory listing - confirm programs)."
+    },
+    {
+      "name": "Fair Lawn Eruv",
+      "category": "Worship",
+      "phone": "(201) 429-7066",
+      "email": "info@fairlawneruv.com",
+      "url": "https://www.fairlawneruv.com",
+      "notes": "Eruv status hotline (201) 429-7066; inspected every Friday; weekly status email via groups.io (link on the website); map at fairlawneruv.com/eruv-map.html. Other eruv questions: (201) 757-8365. Halachic questions: Rabbi Belizon (516) 382-7596 or local rabbis."
+    },
+    {
+      "name": "Jewish Federation of Northern New Jersey",
+      "category": "Worship",
+      "phone": "(201) 820-3900",
+      "url": "https://jfnnj.org",
+      "notes": "Publishes a synagogue directory for Bergen County by denomination."
+    },
+    {
+      "name": "Fair Lawn animal control",
+      "category": "Pets",
+      "phone": "(201) 796-1400",
+      "url": "https://www.fairlawn.org/index.asp?SEC=D8D1DADA-A45A-4DAC-B71E-0CC92DD17A2C",
+      "notes": "Call the Fair Lawn Police non-emergency line and press 1 for dispatch; for an animal attack call 911. Strays go to the Bergen County Animal Shelter; animal bites are investigated by NWBRHC (201-445-7217)."
+    },
+    {
+      "name": "Fair Lawn pet licensing (Human Services)",
+      "category": "Pets",
+      "phone": "(201) 794-5327",
+      "url": "https://www.fairlawn.org/dog-cat-licenses",
+      "address": "8-01 Fair Lawn Ave, Room 109, Fair Lawn, NJ 07410",
+      "notes": "Dogs and cats over 6 months must be licensed. Dogs: Jan 1-Dec 31; cats: Jun 1-May 31; $10 late fee. 1-year $12 fixed/$15 unaltered; 3-year $30/$40. Mail form + rabies proof + spay/neuter proof + check to 'Borough of Fair Lawn'."
+    },
+    {
+      "name": "Fair Lawn free rabies clinic",
+      "category": "Pets",
+      "phone": "(201) 794-5327",
+      "url": "https://www.fairlawn.org/dog-cat-licenses",
+      "address": "Memorial Park, Essex St entrance (off Morlot Ave) - garage next to the dog park and hockey field",
+      "hours": "Each May and November, usually the first week (dates announced)",
+      "notes": "Cats must be in carriers."
+    },
+    {
+      "name": "Bergen County Animal Shelter & Adoption Center",
+      "category": "Pets",
+      "phone": "(201) 229-4600",
+      "email": "shelter@bergencountynj.gov",
+      "url": "https://bergencountynj.gov/bergen-county-department-of-health-services/about-animal-shelter-adoption-center/",
+      "address": "100 United Ln, Teterboro, NJ 07608",
+      "notes": "Fair Lawn's contracted shelter (about 6 miles). County Animal Control 24/7: (201) 229-4616 or via county dispatch (201) 785-8505. Surrenders by appointment: (201) 229-4601. Free rabies clinics alternate Wednesdays 2-4 pm by appointment."
+    },
+    {
+      "name": "Oradell Animal Hospital - Paramus (24/7 emergency)",
+      "category": "Pets",
+      "phone": "(201) 262-0010",
+      "url": "https://www.oradell.com",
+      "address": "580 Winters Ave, Paramus, NJ 07652",
+      "hours": "Emergency 24/7/365"
+    },
+    {
+      "name": "BluePearl Pet Hospital - Paramus (24/7 emergency)",
+      "category": "Pets",
+      "phone": "(201) 527-6699",
+      "url": "https://bluepearlvet.com/paramus-nj/",
+      "address": "545 Route 17, Paramus, NJ 07652",
+      "hours": "24/7",
+      "notes": "Walk-in emergencies; calling ahead is recommended."
+    },
+    {
+      "name": "Valley Brook Veterinary Hospital",
+      "category": "Pets",
+      "phone": "(201) 796-5833",
+      "url": "https://valleybrookveterinaryhospital.com",
+      "address": "3-21 Saddle River Rd, Fair Lawn, NJ 07410"
+    },
+    {
+      "name": "Lincoln Avenue Cat & Dog Hospital",
+      "category": "Pets",
+      "phone": "(973) 427-0990",
+      "url": "https://www.lacatanddoghospital.com",
+      "address": "133 Lincoln Ave, Fair Lawn, NJ 07410"
+    },
+    {
+      "name": "Fair Lawn Post Office (main) - passports",
+      "category": "Post office",
+      "phone": "(201) 796-0873",
+      "url": "https://tools.usps.com/locations/details/1362941",
+      "address": "14-24 Abbott Rd, Fair Lawn, NJ 07410",
+      "hours": "Mon-Fri 8:30 am-5 pm; Sat 8:30 am-1 pm",
+      "notes": "Passport acceptance by appointment Mon-Fri 9 am-3 pm and Sat 10 am-12:45 pm; walk-ins Tue-Thu 10-11 am; passport photos Mon-Fri 9 am-3 pm."
+    },
+    {
+      "name": "River Road Post Office",
+      "category": "Post office",
+      "phone": "(201) 797-4267",
+      "url": "https://tools.usps.com/locations/details/1379444",
+      "address": "12-44 River Rd, Fair Lawn, NJ 07410",
+      "hours": "Mon-Fri 9 am-4:30 pm"
+    },
+    {
+      "name": "Warren Point Post Office",
+      "category": "Post office",
+      "phone": "(201) 796-5378",
+      "url": "https://tools.usps.com/locations/details/1386437",
+      "address": "30-10 Broadway, Fair Lawn, NJ 07410",
+      "hours": "Mon-Fri 9 am-4:30 pm"
+    },
+    {
+      "name": "Bergen County Clerk - Passport Counter",
+      "category": "Post office",
+      "phone": "(201) 336-7011",
+      "email": "passports@bergencountynj.gov",
+      "url": "https://www.bergencountyclerk.gov",
+      "address": "One Bergen County Plaza, Room 120, Hackensack, NJ 07601",
+      "hours": "Mon-Fri 8:30 am-4 pm",
+      "notes": "Passport acceptance; no cash for county fees since Jan 2, 2026. The Clerk also administers notary oaths."
+    },
+    {
+      "name": "NJ Motor Vehicle Commission",
+      "category": "Post office",
+      "url": "https://www.nj.gov/mvc/locations/facilitylocations.htm",
+      "notes": "Nearest licensing centers: Lodi, 8 Mill St (off Garibaldi Ave) - licensing, road tests, inspections; Wayne, 481 Route 46 West - licensing, road tests, inspections. Paramus, 20 W Century Rd - inspection only. Most transactions require an appointment; many renewals can be done online."
+    },
+    {
+      "name": "Social Security Administration",
+      "category": "Post office",
+      "phone": "1-800-772-1213",
+      "url": "https://www.ssa.gov",
+      "notes": "Nearest field offices: Paterson, 200 Federal Plaza, 1st Floor (07505) and Hackensack, Continental Plaza 2nd Floor, 401 Hackensack Ave (07601); weekdays 9 am-4 pm. Many services are available online."
+    },
+    {
+      "name": "Notary public",
+      "category": "Post office",
+      "phone": "(201) 794-3935",
+      "address": "The UPS Store, 12-45 River Rd, Fair Lawn, NJ 07410",
+      "url": "https://locations.theupsstore.com/nj/fair-lawn/12-45-river-rd",
+      "notes": "Notary service at both Fair Lawn UPS Stores (12-45 River Rd and 6-05 Saddle River Rd); many banks notarize free for customers."
+    },
+    {
+      "name": "Fair Lawn Vital Records (Registrar)",
+      "category": "Post office",
+      "url": "https://www.fairlawn.org/vital-records",
+      "address": "Health Dept., Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn, NJ 07410",
+      "notes": "Certified birth/death/marriage records for events in Fair Lawn ($10/copy). Marriage license appointments by email: mkissane@fairlawn.org.",
+      "email": "mkissane@fairlawn.org"
+    },
+    {
+      "name": "Congressman Josh Gottheimer (NJ-5) district office",
+      "category": "Post office",
+      "phone": "(201) 389-1100",
+      "url": "https://gottheimer.house.gov/our-offices",
+      "address": "21-00 Route 208 South, Suite 240, Fair Lawn, NJ 07410",
+      "notes": "Caseworkers help with federal agencies - urgent passports, Social Security, VA, IRS, immigration."
+    }
+  ],
+  "guides": [
+    {
+      "id": "getting-help-food-money-crisis",
+      "title": "Getting help: food, money & crisis support",
+      "category": "Health & help",
+      "body": "If anyone is in immediate danger, call 911. For a mental-health, suicide or substance-use crisis, call or text 988 (24/7). Bergen County's 24/7 psychiatric emergency screening line is 201-262-4357 (201-262-HELP). For domestic violence, the Center for Hope & Safety hotline is 201-944-9600, any time. Poison Control: 1-800-222-1222.\n\nFood\n- Fair Lawn Food Pantry (Borough Human Services, Borough Hall Room 109, 8-01 Fair Lawn Ave): for Fair Lawn residents; call 201-794-5327 or email foodpantry@fairlawn.org and complete the Request Assistance form (English, Russian or Spanish) on fairlawn.org. Also gives grocery gift cards and Thanksgiving baskets.\n- Church of St. Anne Food Pantry, 15-05 St. Anne St: 1st and 3rd Wednesdays; 201-791-1616.\n- Center for Food Action, 224 Midland Ave, Saddle Brook: 201-703-9857.\n- Jewish Family & Children's Services (kosher Corner Market pantry, Teaneck): 201-837-9090.\n- SNAP (food stamps), cash aid and NJ FamilyCare: Bergen County Board of Social Services, 218 Route 17 N, Rochelle Park, 201-368-4200 (apply online at oneapp.dhs.state.nj.us).\n- WIC for pregnant people, babies and kids under 5: St. Joseph's WIC, 973-754-4575.\n- Seniors: Fair Lawn Senior Center lunch weekdays at noon (201-796-1191); Bergen County Meals on Wheels 201-336-7420; Kosher Meals on Wheels 201-796-5151.\n\nBills and housing\n- The Borough's Human Services Trust can sometimes help with past-due utilities; its clerk also connects residents with mortgage help, discounted medical care and prescriptions, job training and other county/state programs (201-794-5327).\n- NJ SHARES utility grants: 1-866-657-4273. Energy assistance (LIHEAP/USF): 1-800-510-3102; Bergen applications through Greater Bergen Community Action, 201-488-5100.\n- Homeless prevention/shelter: Board of Social Services 201-368-4317. Anything else: dial 211.\n\nGetting around\n- Fair Lawn's free mini-bus runs weekdays within town for residents 18+ (book by 3 pm the business day before: 201-794-5327).\n- Bergen County Community Transportation gives rides to medical appointments for seniors, people with disabilities and veterans: 201-368-5955 (book 2-3 weeks ahead).\n\nVeterans and special needs\n- Fair Lawn Veterans Affairs liaison: 201-794-5331, veterans@fairlawn.org. County Veterans Services: 201-336-6325.\n- FLASE, the district's special-education parent group (SEPAG), supports families of students 3-21.",
+      "sources": [
+        "https://www.fairlawn.org/food-pantry",
+        "https://www.fairlawn.org/human-services",
+        "https://www.fairlawn.org/mini-bus",
+        "https://www.fairlawn.org/senior-citizen",
+        "https://www.fairlawn.org/veterans",
+        "https://cfanj.org/contact/",
+        "https://www.bcbss.com",
+        "https://nj.gov/dca/dhcr/offices/Liheap-usf-agencylist.shtml",
+        "https://www.nj.gov/health/fhs/wic/participants/find-wic/findlocal.shtml",
+        "https://www.bergenresourcenet.org/search/center-for-hope-safety/",
+        "https://fairlawnschools.org/page/flase-pto",
+        "https://988lifeline.org"
+      ]
+    },
+    {
+      "id": "health-care-near-fair-lawn",
+      "title": "Health care near Fair Lawn",
+      "category": "Health & help",
+      "body": "Fair Lawn has no hospital of its own, but four emergency departments are within about 5 miles. In an emergency call 911 - the Fair Lawn Volunteer Ambulance Corps responds.\n\nHospitals (24/7 emergency)\n- The Valley Hospital, 4 Valley Health Plaza, Paramus (GPS: 650 Winters Ave) - about 3 miles; 201-447-8000. Valley moved from Ridgewood in April 2024 and Ridgewood no longer has an ER.\n- Bergen New Bridge Medical Center, 230 E Ridgewood Ave, Paramus - about 3 miles; also the county's psychiatric emergency screening site.\n- St. Joseph's University Medical Center, 703 Main St, Paterson - about 3.4 miles; trauma center and children's hospital; 973-754-2000.\n- Hackensack University Medical Center, 30 Prospect Ave, Hackensack - about 4.7 miles; trauma center and children's hospital; 551-996-2000.\n- St. Joseph's Wayne Medical Center, 224 Hamburg Tpke, Wayne - about 4.7 miles.\n\nUrgent care and pharmacies\n- AM/PM Urgent Care with Englewood Health, 21-20 Broadway (Route 4): daily 8 am-midnight, walk-in; 551-444-6010.\n- AFC Urgent Care Paramus, 67 E Ridgewood Ave: 201-262-2010. PM Pediatric Urgent Care (kids), Route 17 Paramus: 201-262-5437.\n- 24-hour pharmacy: CVS, 24-12 Fair Lawn Ave (201-797-7500), with a MinuteClinic for shots and minor illness.\n\nPublic health and vaccines\n- Fair Lawn contracts with the Northwest Bergen Regional Health Commission (201-445-7217) for nursing services: adult and childhood immunization clinics, child health conferences, blood-pressure screenings and communicable-disease follow-up.\n- The 2026 borough flu clinic was Oct 5 at the Senior Center (pre-registration at fairlawn.org/flu2026; Medicare Part B accepted, otherwise $24.95/$68.95 cash). Bergen County has also offered free resident flu/COVID clinics in Hackensack - check bergencountynj.gov.\n\nLow-cost and specialty care\n- Paterson Community Health Center, 227 Broadway, Paterson (973-278-2600): medical, dental, OB/GYN and mental health with sliding-scale fees.\n- Planned Parenthood, 575 Main St, Hackensack: 201-489-1140.\n- Dental emergency: call your dentist's after-hours line first; uninsured patients can try Paterson Community Health Center. Go to an ER for facial swelling with fever, trouble swallowing or breathing, or a serious mouth injury.\n\nMental health\n- 988 (call/text, 24/7); Bergen psychiatric emergency screening 201-262-4357 (24/7); NJ MentalHealthCares referral line 1-866-202-4357 (weekdays 8 am-8 pm, not a crisis line).\n- Poison Control 1-800-222-1222 (text 973-339-0702).",
+      "sources": [
+        "https://www.valleyhealth.com/trending/valley-hospital-frequently-asked-questions-about-our-new-location",
+        "https://www.stjosephshealth.org/locations/st-josephs-university-medical-center",
+        "https://www.ampmwalkinurgentcare.com/our-locations/fair-lawn-urgent-care/",
+        "https://www.fairlawn.org/health",
+        "https://www.nwbrhc.org",
+        "https://www.fairlawn.org/senior-citizen",
+        "https://www.njpies.org",
+        "https://nj.gov/humanservices/dmhas/help/hotlines",
+        "https://www.afcurgentcare.com/paramus/",
+        "https://www.cvs.com/store-locator/fair-lawn-nj-pharmacies/24-12-fair-lawn-avenue-fair-lawn-nj-07410/storeid=251"
+      ]
+    },
+    {
+      "id": "houses-of-worship-and-eruv",
+      "title": "Houses of worship & the eruv",
+      "category": "Health & help",
+      "body": "Fair Lawn is one of Bergen County's major Jewish communities, with seven Orthodox congregations inside the eruv, two Conservative synagogues, and a wide range of churches.\n\nOrthodox synagogues (all maintain the Fair Lawn eruv)\n- Congregation Shomrei Torah, 19-10 Morlot Ave - 201-791-7910\n- Young Israel of Fair Lawn, 11-05 Saddle River Rd - 201-797-1800\n- Congregation Ahavat Achim, 18-25 Saddle River Rd - 201-797-0502\n- Congregation Darchei Noam, 10-04 Alexander Ave - 201-773-4080\n- Congregation Bris Avrohom, 30-02 Fair Lawn Ave - 201-791-7200\n- Sephardic Community of Fair Lawn, 40-34 Terhune Pl - 201-796-1525\n- Anshei Lubavitch (Chabad), 10-10 Plaza Rd - 201-794-3770\n\nConservative synagogues\n- Fair Lawn Jewish Center / Congregation B'nai Israel, 10-10 Norma Ave - 201-796-5040\n- Temple Beth Sholom, 40-25 Fair Lawn Ave - 201-797-9321\n- Nearby: Glen Rock Jewish Center, 682 Harristown Rd, Glen Rock - 201-652-6624. (Fair Lawn's Reform congregation, Temple Avoda, merged into Temple Avodat Shalom in River Edge.)\n\nThe Fair Lawn eruv\n- Covers about 4 square miles, including parts of Glen Rock, Saddle Brook and Elmwood Park; it was expanded in 2018.\n- It is inspected every Friday. Check status on fairlawneruv.com or the hotline 201-429-7066, and subscribe to the weekly eruv update email from the website. The map is at fairlawneruv.com/eruv-map.html.\n- Other eruv questions: 201-757-8365 or info@fairlawneruv.com. Halachic questions: Rabbi Belizon (516-382-7596) or your rabbi.\n\nChurches\n- Roman Catholic: Church of St. Anne, 15-05 St. Anne St (201-791-1616) - also runs a food pantry.\n- Armenian Apostolic: St. Leon Armenian Church, 12-61 Saddle River Rd (201-791-2862).\n- Greek Orthodox: St. Athanasios, 51 Paramus Rd, Paramus (201-368-8881).\n- Russian Orthodox: the nearest parish is the Church of Three Saints on Outwater Lane in Garfield.\n- Protestant: Fair Lawn Community Church (Reformed, 10-10 Maxwell Pl; also a Taiwanese Reformed congregation), Warren Point Presbyterian (Broadway & 17th St), Our Savior Lutheran (22-15 Broadway), Episcopal Church of the Atonement (1-36 30th St), Van Riper-Ellis Broadway Baptist (7-01 River Rd), Fair Lawn Church of Christ (5-15 Plaza Rd), Grace Orthodox Presbyterian (S. Broadway), Bethel Evangelical Free (38 Albert Ave), Fair Lawn Bible Church (11-09 Hopper Ave), New Jersey First Methodist (27-06 High St).\n- Korean-language: Peace Korean Reformed Church (39-23 Fair Lawn Ave) and Jesus Sarang Church (0-95 30th St).\n\nMosques\n- No mosque is located in Fair Lawn itself; the Islamic Center of Passaic County, 152 Derrom Ave, Paterson, is about 2 miles away just across the Passaic River.\n\nService times change - call or check each congregation's website before visiting.",
+      "sources": [
+        "https://www.fairlawneruv.com",
+        "https://www.eruv.org/eruv-directory/198/fair-lawn/",
+        "https://jfnnj.org/wp-content/uploads/2024/06/Synagogue-Directory-Organized-by-Denomination-New-Look-2024.pdf",
+        "https://jewishlink.news/fair-lawn-eruv-expands/",
+        "https://www.churchadvise.com/directory/NJ/Fair-Lawn",
+        "https://www.churchfinder.com/churches/nj/fair-lawn",
+        "https://stleon.org/contact/",
+        "https://www.rca.org/churches/fair-lawn-community-church/",
+        "https://en.wikipedia.org/wiki/Islamic_Center_of_Passaic_County",
+        "https://jewishstandard.timesofisrael.com/chabad-celebrates-its-new-home-in-fair-lawn/"
+      ]
+    },
+    {
+      "id": "pets-in-fair-lawn",
+      "title": "Pets in Fair Lawn",
+      "category": "Health & help",
+      "body": "Licensing\n- New Jersey requires dogs and cats over 6 months old to be licensed. In Fair Lawn, licensing is handled by Human Services at Borough Hall (Room 109, 8-01 Fair Lawn Ave; 201-794-5327).\n- Dog licenses run January 1-December 31; cat licenses run June 1-May 31. Renewals after the deadline cost an extra $10; newly acquired pets can register any time with no late fee.\n- Fees: 1-year $12 (spayed/neutered) or $15 (not fixed); 3-year $30 or $40. Your pet's rabies vaccination must remain valid through the license period.\n- Apply by mail with the form from fairlawn.org, proof of rabies vaccination, proof of spay/neuter if applicable, and a check payable to \"Borough of Fair Lawn\".\n\nFree rabies clinics\n- Fair Lawn holds free rabies clinics each May and November (usually the first week) in the garage next to the dog park and hockey field at Memorial Park, Essex St entrance off Morlot Ave. Cats must be in carriers.\n- The Bergen County Animal Shelter also runs free clinics on alternating Wednesdays, 2-4 pm, by appointment (201-229-4600).\n\nAnimal control and lost pets\n- For an animal attack, call 911. For other animal-control issues, call Fair Lawn Police non-emergency, 201-796-1400, and press 1.\n- Fair Lawn contracts with the Bergen County Animal Shelter & Adoption Center, 100 United Lane, Teterboro (201-229-4600). Report lost pets there; county Animal Control is reachable 24/7 at 201-229-4616. Surrenders are by appointment (201-229-4601).\n- Animal bites are investigated by the Northwest Bergen Regional Health Commission (201-445-7217).\n- Dogs may not run at large anywhere in the borough.\n\nDog park\n- The fenced Fair Lawn Dog Park is in Memorial Park behind the street-hockey courts, with separate areas for large dogs (over 30 lb) and small dogs. Open dawn to dusk; the borough can close it at any time.\n\nVeterinarians\n- In town: Valley Brook Veterinary Hospital, 3-21 Saddle River Rd (201-796-5833); Lincoln Avenue Cat & Dog Hospital, 133 Lincoln Ave (973-427-0990).\n- 24/7 emergencies in Paramus: Oradell Animal Hospital, 580 Winters Ave (201-262-0010) and BluePearl Pet Hospital, 545 Route 17 (201-527-6699).",
+      "sources": [
+        "https://www.fairlawn.org/dog-cat-licenses",
+        "https://www.fairlawn.org/index.asp?SEC=D8D1DADA-A45A-4DAC-B71E-0CC92DD17A2C",
+        "https://www.fairlawn.org/health",
+        "https://bergencountynj.gov/bergen-county-department-of-health-services/about-animal-shelter-adoption-center/",
+        "https://bergencountynj.gov/bergen-county-department-of-health-services/vaccine-clinics/",
+        "https://suburbs101.com/dog-parks-in-bergen-county-nj/",
+        "https://www.oradell.com/?p=141",
+        "https://bluepearlvet.com/paramus-nj/"
+      ]
+    },
+    {
+      "id": "errands-post-office-mvc-passports",
+      "title": "Errands: post office, MVC, passports",
+      "category": "Health & help",
+      "body": "Post offices in Fair Lawn\n- Main post office, 14-24 Abbott Rd (Radburn): Mon-Fri 8:30 am-5 pm, Sat 8:30 am-1 pm; 201-796-0873. This is the only Fair Lawn branch that accepts passport applications.\n- River Road branch, 12-44 River Rd: Mon-Fri 9 am-4:30 pm, closed weekends; 201-797-4267.\n- Warren Point branch, 30-10 Broadway: Mon-Fri 9 am-4:30 pm, closed weekends; 201-796-5378.\n- Nearby Saturday options include Glen Rock (73 Glen Ave) and Paramus (33 E Midland Ave).\n\nPassports\n- Fair Lawn main post office: by appointment Mon-Fri 9 am-3 pm and Sat 10 am-12:45 pm, with walk-in hours Tue-Thu 10-11 am; passport photos taken Mon-Fri 9 am-3 pm. Book at usps.com.\n- Other post offices with passport service nearby: Paramus (33 E Midland Ave), Ridgewood (143 E Ridgewood Ave), Oradell.\n- Bergen County Clerk passport counter, One Bergen County Plaza, Room 120, Hackensack: Mon-Fri 8:30 am-4 pm; 201-336-7011. No cash accepted for county fees since January 2026.\n- Urgent travel? Congressman Gottheimer's district office in Fair Lawn (21-00 Route 208 S, Suite 240; 201-389-1100) can help with expedited passport cases.\n\nMotor Vehicle Commission\n- Lodi, 8 Mill St (off Garibaldi Ave): nearest full-service center for licenses, registrations, road tests and inspections.\n- Wayne, 481 Route 46 West: licensing, road tests and inspections.\n- Paramus, 20 W Century Rd: vehicle inspections only.\n- Most in-person transactions need an appointment; many renewals and address changes can be done online at nj.gov/mvc.\n\nOther errands\n- Notary: The UPS Store, 12-45 River Rd (201-794-3935) and 6-05 Saddle River Rd; many banks notarize free for customers.\n- Social Security: call 1-800-772-1213 or use ssa.gov; in-person offices are at 200 Federal Plaza, Paterson and 401 Hackensack Ave, Hackensack (weekdays 9 am-4 pm).\n- Birth, death and marriage records for events in Fair Lawn: Registrar of Vital Statistics at Borough Hall ($10 per certified copy); marriage-license appointments by email to mkissane@fairlawn.org.",
+      "sources": [
+        "https://tools.usps.com/locations/details/1362941",
+        "https://tools.usps.com/locations/details/1379444",
+        "https://tools.usps.com/locations/details/1386437",
+        "https://www.nj.gov/mvc/locations/facilitylocations.htm",
+        "https://www.nj.gov/mvc/locations/inspection.htm",
+        "https://www.bergencountyclerk.gov/Services/67",
+        "https://gottheimer.house.gov/our-offices",
+        "https://www.fairlawn.org/vital-records",
+        "https://locations.theupsstore.com/nj/fair-lawn/12-45-river-rd/notary",
+        "https://www.ssa.gov"
+      ]
+    },
+    {
+      "id": "childcare-and-family-support",
+      "title": "Childcare, preschool & family support",
+      "category": "Health & help",
+      "body": "Daycare and preschool in Fair Lawn\n- Kiddie Academy, 16-00 Pollitt Dr - 201-773-1616 (infants to pre-K)\n- Lightbridge Academy, 22-50 Maple Ave - 475-290-6344\n- The Learning Experience, 15-22 Fair Lawn Ave - 888-290-6366\n- Evergreen Academy, 4-24 Saddle River Rd - 551-250-0606 (18 months-6 years)\n- Jewish programs: Anshei Lubavitch Daycare & Preschool (10-10 Plaza Rd, 201-794-3770), Kol Chaverim (8-12 Saddle River Rd, 201-509-8433), Alef Preschool at Temple Beth Sholom (201-793-4800), Gan Iris Nursery School (11-16 Plaza Rd, 201-414-6998), Leah Sokoloff/Shalom Yeladim (201-778-6000), Fair Lawn Jewish Center Nursery School (201-796-5040).\n\nBefore- and after-school care\n- Fair Lawn Community School runs before-care (7:15-8:35 am) and after-care (to 6 pm) for public-school students in K-8. Registration opens in May; 201-794-5450 ext. 2369, flcs@fairlawnschools.org.\n\nSpecial needs\n- FLASE (Fair Lawn Association for Special Education) is the district's special-education parent advisory group (SEPAG) for students 3-21.\n\nHelp for families\n- WIC (St. Joseph's): 973-754-4575. SNAP and NJ FamilyCare: Bergen County Board of Social Services, 201-368-4200. Back-to-school supplies and holiday gifts: Fair Lawn Human Services, 201-794-5327.",
+      "sources": [
+        "https://kiddieacademy.com/academies/fair-lawn/",
+        "https://lightbridgeacademy.com/fair-lawn-nj/",
+        "https://thelearningexperience.com/centers/fair-lawn/",
+        "https://www.egreenacademy.com",
+        "https://www.ahavatachim.org/fair-lawn/schools/",
+        "https://fairlawnschools.org/page/contact-info",
+        "https://fairlawnschools.org/page/flase-pto",
+        "https://www.fairlawn.org/human-services"
+      ]
+    }
+  ]
+}

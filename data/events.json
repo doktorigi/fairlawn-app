@@ -1,0 +1,905 @@
+{
+ "datedEvents": [
+  {
+   "title": "Haunted Halloween Party – Paramus Library",
+   "start": "2026-10-23T10:00",
+   "location": "Paramus Main Public Library, 116 E Century Rd, Paramus",
+   "description": "Halloween party at the Paramus library.",
+   "link": "https://www.paramusborough.gov/Calendar.aspx",
+   "category": "Nearby"
+  },
+  {
+   "title": "Haunted Library",
+   "start": "2026-10-23T17:30",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn (Children's Room)",
+   "description": "Halloween event for kids at the Fair Lawn library.",
+   "link": "https://bccls.libcal.com/event/16450922",
+   "category": "Library"
+  },
+  {
+   "title": "Zoo Boo (Bergen County Zoo)",
+   "start": "2026-10-23T18:00",
+   "end": "2026-10-23T21:00",
+   "location": "Bergen County Zoo, Van Saun County Park, 216 Forest Ave, Paramus",
+   "description": "Halloween night at the zoo, 6–9 PM, with the train and carousel. Tickets required. Rescheduled from Oct 16.",
+   "link": "https://www.friendsofbergencountyzoo.org/events",
+   "category": "Nearby"
+  },
+  {
+   "title": "Early voting – 2026 General Election",
+   "start": "2026-10-24",
+   "end": "2026-11-01",
+   "location": "Bergen County early voting sites (nearest: Bergen Community College Technology Bldg, 400 Paramus Rd, Paramus; also Garfield, Hackensack, Wood-Ridge and others)",
+   "description": "In-person early voting Oct 24–Nov 1. Mon–Sat 10 AM–8 PM, Sun 10 AM–6 PM. Any Bergen County voter may use any site; there is no early-voting site in Fair Lawn.",
+   "link": "https://bergencountynj.gov/election-officials/bergen-county-board-of-elections/early-voting-locations/",
+   "category": "Civic"
+  },
+  {
+   "title": "The Hello Girls: A New American Musical (Old Library Theatre)",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Old Library Theatre production. Also performed Sunday, Oct 25.",
+   "link": "https://fairlawn.org/theater",
+   "category": "Arts"
+  },
+  {
+   "title": "Elmwood Park Halloween Festival",
+   "start": "2026-10-24T13:00",
+   "end": "2026-10-24T22:00",
+   "location": "Elmwood Park (Recreation / Police Dept.)",
+   "description": "Runs 1–10 PM: dog costume contest (1 PM), police hayride (2–10), face painting, pumpkin painting, corn maze, kids' costume contest (4:30), magic show (5 PM) and a scare house for ages 13+ (6–10 PM).",
+   "link": "https://www.elmwoodparknj.us/notices-announcements/1009-halloween-festival-october-24-2026",
+   "category": "Nearby"
+  },
+  {
+   "title": "23rd Annual Genealogy Lock-in",
+   "start": "2026-10-24T16:00",
+   "location": "Ridgewood Public Library, 125 N Maple Ave, Ridgewood",
+   "description": "Annual after-hours genealogy research night, co-sponsored with the Genealogical Society of Bergen County.",
+   "link": "https://ridgewoodlibrary.assabetinteractive.com/calendar/23rd-annual-genealogy-lock-in-3/",
+   "category": "Nearby"
+  },
+  {
+   "title": "All For The Paws Animal Rescue 1st Annual Tricky Tray",
+   "start": "2026-10-24T17:00",
+   "location": "Knights of Columbus, 16-16 Maple Ave, Fair Lawn",
+   "description": "Tricky tray fundraiser for All For The Paws Animal Rescue.",
+   "link": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20261024/b006346f-1832-4173-bdb2-67b654874e87/all-for-the-paws-animal-rescue-1st-annual-tricky-tray",
+   "category": "Community"
+  },
+  {
+   "title": "Bill Ervolino Comedy Night",
+   "start": "2026-10-24T19:00",
+   "location": "St. Anne Church Hall, 15-05 St Anne St, Fair Lawn",
+   "description": "Comedy night with Bill Ervolino.",
+   "link": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20261024/e2da6b64-9803-49e1-b881-e9b273d7ac40/bill-ervolino-comedy-night",
+   "category": "Community"
+  },
+  {
+   "title": "Spooktacular 5K & Fun Run",
+   "start": "2026-10-25",
+   "location": "Radburn Park, 18-00 Radburn Rd, Fair Lawn",
+   "description": "USATF-certified Halloween 5K plus a 1-mile fun run inside Radburn Park. Costumes are encouraged, and there is a post-race DJ and prize ceremony.",
+   "link": "https://running.life/en/event/spooktacular-5k-fair-lawn",
+   "category": "Sports"
+  },
+  {
+   "title": "Elmwood Park \"Everything\" Flea & Collectible Market",
+   "start": "2026-10-25T09:00",
+   "location": "300 Market St, Elmwood Park",
+   "description": "Flea and collectibles market.",
+   "link": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20261025/dbce5786-ff91-49ae-b5e8-fb9331f1f178/elmwood-park-everything-flea-collectible-market",
+   "category": "Nearby"
+  },
+  {
+   "title": "Hawthorne Chamber Farmers' Market",
+   "start": "2026-10-25T10:00",
+   "location": "Louis Bay 2nd Library parking lot, 345 Lafayette Ave, Hawthorne",
+   "description": "Hawthorne Chamber of Commerce farmers' market.",
+   "link": "https://www.hawthornenj.org/Calendar.aspx",
+   "category": "Nearby"
+  },
+  {
+   "title": "Kids Poetry Event",
+   "start": "2026-10-25T11:00",
+   "end": "2026-10-25T13:00",
+   "location": "Fair Lawn (see Borough listing)",
+   "description": "Borough-listed kids' poetry event.",
+   "link": "https://fairlawn.org/index.asp?SEC=64E5C787-FA73-442C-8F3D-B86B99304310&DE=0F420CCB-00A5-4300-9FD3-BEE841979F24",
+   "category": "Town"
+  },
+  {
+   "title": "Garretson Forge & Farm Open House",
+   "start": "2026-10-25T13:00",
+   "end": "2026-10-25T16:00",
+   "location": "Garretson Forge & Farm, 4-02 River Rd, Fair Lawn",
+   "description": "Guided tours of the 18th-century homestead and gardens, 1–4 PM.",
+   "link": "https://garretsonfarm.org/events.php?eventtype=1",
+   "category": "Community"
+  },
+  {
+   "title": "Music at the Barn: Cider Barn Band (Bluegrass)",
+   "start": "2026-10-25T13:00",
+   "end": "2026-10-25T15:30",
+   "location": "Wortendyke Barn Museum, 13 Pascack Rd, Park Ridge",
+   "description": "Free bluegrass concert, 1–3:30 PM. Part of Bergen County's Music at the Barn series.",
+   "link": "https://bergencountynj.gov/events/music-at-the-barn-16th-annual-cider-barn-band-bluegrass/",
+   "category": "Nearby"
+  },
+  {
+   "title": "Concert: Richard Baratta Quintet",
+   "start": "2026-10-25T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn (Art Gallery)",
+   "description": "Sunday afternoon jazz concert at the library.",
+   "link": "https://bccls.libcal.com/event/16231755",
+   "category": "Library"
+  },
+  {
+   "title": "Zoning Board of Adjustment",
+   "start": "2026-10-26T19:00",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Court Room)",
+   "description": "Regular Zoning Board meeting.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Civic"
+  },
+  {
+   "title": "Borough Council Regular Meeting",
+   "start": "2026-10-27T19:30",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Council Chambers, 2nd floor)",
+   "description": "Revised date for the October regular meeting. Carried live on FLTV.",
+   "link": "https://fairlawn.org/meeting-schedule",
+   "category": "Civic"
+  },
+  {
+   "title": "Board of Education Meeting",
+   "start": "2026-10-29T19:00",
+   "location": "Thomas Edison School, Room 19 (Eugene M. Banta Public Meeting Room), 37-01 Fair Lawn Ave",
+   "description": "Policy Committee of the Whole at 7:00 PM; public session at 8:00 PM.",
+   "link": "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+   "category": "Civic"
+  },
+  {
+   "title": "The Addams Family (The Broadway Originals)",
+   "start": "2026-10-30",
+   "end": "2026-10-31",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "The Broadway Originals present The Addams Family, Oct 30–31.",
+   "link": "https://fairlawn.org/theater",
+   "category": "Arts"
+  },
+  {
+   "title": "Halloween Costume Parade",
+   "start": "2026-10-31T10:00",
+   "location": "Memorial Park (gather behind the Memorial Pool bathhouse; parade at 10:30)",
+   "description": "Borough Recreation costume parade around Memorial Park. Kids get a treat bag. In bad weather it moves to the Memorial Middle School gym.",
+   "link": "https://fairlawn.org/holiday-events",
+   "category": "Holiday"
+  },
+  {
+   "title": "3rd Annual Halloween Trunk or Treat (Paramus)",
+   "start": "2026-10-31T13:00",
+   "location": "New Apostolic Church of Paramus, 286 Paramus Rd, Paramus",
+   "description": "Community trunk-or-treat.",
+   "link": "https://patch.com/new-jersey/paramus/calendar/event/20261031/2a99590e-19ab-4ee7-8c6d-772a4b18196d/3rd-annual-halloween-trunk-or-treat",
+   "category": "Nearby"
+  },
+  {
+   "title": "Concert: Michael Rabinowitz",
+   "start": "2026-11-01T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Sunday afternoon concert at the library.",
+   "link": "https://bccls.libcal.com/event/17737429",
+   "category": "Library"
+  },
+  {
+   "title": "New Review, Inc. (Fair Lawn Russian Club)",
+   "start": "2026-11-01T18:30",
+   "end": "2026-11-01T19:30",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Performance presented by the Fair Lawn Russian Club.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=0B92E31F-02BB-4DE1-9EC2-EB9196650FAC",
+   "category": "Arts"
+  },
+  {
+   "title": "History & Culture of the Lenape",
+   "start": "2026-11-02T19:00",
+   "end": "2026-11-02T21:00",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Program on the history and culture of the Lenape.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=C14C75D6-2578-4C4B-8FB1-B84A9299C17E",
+   "category": "Arts"
+  },
+  {
+   "title": "Celebrate Diwali (Gr K-6)",
+   "start": "2026-11-02T19:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Diwali celebration for kids in grades K–6.",
+   "link": "https://bccls.libcal.com/event/17829283",
+   "category": "Library"
+  },
+  {
+   "title": "Election Day – General Election",
+   "start": "2026-11-03T06:00",
+   "end": "2026-11-03T20:00",
+   "location": "Your assigned polling place",
+   "description": "Polls are open 6 AM–8 PM. Fair Lawn schools are closed.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Civic"
+  },
+  {
+   "title": "Historic Preservation Program Night",
+   "start": "2026-11-04T19:00",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Program night hosted by the Historic Preservation Commission.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Town"
+  },
+  {
+   "title": "Marblejam – Hopes, Dreams, & Wishes VIII",
+   "start": "2026-11-05T18:00",
+   "end": "2026-11-05T19:00",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Marblejam performance.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=8CED787D-148A-40B8-B03F-5B4D789DB97B",
+   "category": "Arts"
+  },
+  {
+   "title": "Victoria Ballet School and Theater",
+   "start": "2026-11-06T19:00",
+   "end": "2026-11-06T21:00",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Ballet performance.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=03D9C484-BB20-4790-905E-1416A82F2068",
+   "category": "Arts"
+  },
+  {
+   "title": "Constantinople Armenian Relief Society",
+   "start": "2026-11-07",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Theater event presented by the Constantinople Armenian Relief Society.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=599C0366-21EC-4AE0-AA59-367627A8673F",
+   "category": "Arts"
+  },
+  {
+   "title": "Power Red Bulls Wheelchair Soccer Clinic",
+   "start": "2026-11-08T12:00",
+   "location": "Fair Lawn Community Center, 10-10 20th St",
+   "description": "Adaptive wheelchair soccer clinic.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Sports"
+  },
+  {
+   "title": "Garretson Forge & Farm Open House (last of the season)",
+   "start": "2026-11-08T13:00",
+   "end": "2026-11-08T16:00",
+   "location": "Garretson Forge & Farm, 4-02 River Rd, Fair Lawn",
+   "description": "The last open house of the year: guided tours of the homestead and gardens, 1–4 PM.",
+   "link": "https://garretsonfarm.org/events.php?eventtype=1",
+   "category": "Community"
+  },
+  {
+   "title": "Celebrate Diwali – Ridgewood Library",
+   "start": "2026-11-09T16:00",
+   "location": "Ridgewood Public Library, 125 N Maple Ave, Ridgewood",
+   "description": "Diwali celebration at the Ridgewood library.",
+   "link": "https://ridgewoodlibrary.assabetinteractive.com/calendar/celebrate-diwali-3/",
+   "category": "Nearby"
+  },
+  {
+   "title": "Free Rabies Vaccine Clinic (Elmwood Park)",
+   "start": "2026-11-10T17:00",
+   "end": "2026-11-10T19:00",
+   "location": "Firehouse #4, 464 Mola Blvd, Elmwood Park",
+   "description": "Free rabies shots for dogs and cats, 5–7 PM. All Bergen County residents are welcome. Cats must be in carriers and dogs leashed. Info: 201-796-1457 x8809.",
+   "link": "https://www.elmwoodparknj.us/notices-announcements/1011-free-rabies-clinic-2",
+   "category": "Nearby"
+  },
+  {
+   "title": "Borough Council Work Session",
+   "start": "2026-11-10T19:30",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Conference Room 201)",
+   "description": "Council work session.",
+   "link": "https://fairlawn.org/meeting-schedule",
+   "category": "Civic"
+  },
+  {
+   "title": "Veterans Day Ceremony",
+   "start": "2026-11-11T11:00",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn",
+   "description": "The Borough's Veterans Day ceremony. Borough offices are closed.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Holiday"
+  },
+  {
+   "title": "Hawthorne Veterans Day Program",
+   "start": "2026-11-11T11:00",
+   "location": "Hawthorne Borough Hall, 445 Lafayette Ave, Hawthorne",
+   "description": "Borough of Hawthorne Veterans Day program.",
+   "link": "https://www.hawthornenj.org/Calendar.aspx",
+   "category": "Nearby"
+  },
+  {
+   "title": "UNITE by St. Anne Stages",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "St. Anne Stages benefit production, Nov 13–15. Tickets at stannestages.com.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=FD589EF5-0D5A-45E8-A9EE-3E521DD41A43",
+   "category": "Arts"
+  },
+  {
+   "title": "Bergen CASA \"Stand UP for Foster Kids\" Comedy Night",
+   "start": "2026-11-13T19:00",
+   "location": "The Woman's Club of Ridgewood, 215 W Ridgewood Ave, Ridgewood",
+   "description": "Comedy-night fundraiser for Bergen CASA.",
+   "link": "https://patch.com/new-jersey/ridgewood/calendar/event/20261113/803e3f3f-8bd9-4067-ba25-b17726a3261d/stand-up-for-foster-kids-bergen-casas-comedy-night",
+   "category": "Nearby"
+  },
+  {
+   "title": "Household Hazardous Waste Collection (BCUA)",
+   "start": "2026-11-14T09:00",
+   "end": "2026-11-14T15:00",
+   "location": "BCUA, foot of Empire Blvd, Moonachie (enter by the back gate only)",
+   "description": "Free drop-off for Bergen County residents, 9 AM–3 PM, rain or shine. ID required; no commercial vehicles. This is the last county HHW day of 2026.",
+   "link": "https://www.midlandparknj.gov/1258/2026-BCUA-Recycling-Program-Events",
+   "category": "Civic"
+  },
+  {
+   "title": "Ambulance Corps First Aid Course",
+   "start": "2026-11-15T10:00",
+   "location": "Fair Lawn Volunteer Ambulance Corps",
+   "description": "First aid course. Register at fairlawnvac.com or 201-794-5341.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Community"
+  },
+  {
+   "title": "Radburn Holiday Boutique",
+   "start": "2026-11-15T12:00",
+   "end": "2026-11-15T16:00",
+   "location": "The Grange (gym), Radburn, Fair Lawn",
+   "description": "Volunteer-run holiday market with about 35 handcraft vendors, baked goods and gifts, 12–4 PM.",
+   "link": "https://www.radburn.org/event-6842900",
+   "category": "Community"
+  },
+  {
+   "title": "Board of Education Meeting",
+   "start": "2026-11-19T19:00",
+   "location": "Thomas Edison School, Room 19, 37-01 Fair Lawn Ave",
+   "description": "Education Committee of the Whole at 7:00 PM; public session at 8:00 PM.",
+   "link": "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+   "category": "Civic"
+  },
+  {
+   "title": "Bergen County Winter Wonderland opens",
+   "start": "2026-11-20",
+   "location": "Van Saun County Park, 216 Forest Ave, Paramus",
+   "description": "The county's holiday festival (ice rink, rides, vendors) returns Friday, Nov 20, 2026. The full schedule has not been posted yet.",
+   "link": "https://www.bergencountywinterwonderland.com/",
+   "category": "Nearby"
+  },
+  {
+   "title": "Access for All Dance",
+   "start": "2026-11-20T18:30",
+   "location": "Fair Lawn Community Center Gym, 10-10 20th St",
+   "description": "Inclusive community dance hosted by Access for All.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Community"
+  },
+  {
+   "title": "Ridgewood Gilbert & Sullivan Opera Company",
+   "start": "2026-11-21",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Gilbert & Sullivan performance.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=C260ACCA-7C99-49B9-87D4-7DF06D5DD198",
+   "category": "Arts"
+  },
+  {
+   "title": "Ambulance Corps CPR Course",
+   "start": "2026-11-21T10:00",
+   "location": "Fair Lawn Volunteer Ambulance Corps",
+   "description": "CPR course. Register at fairlawnvac.com or 201-794-5341.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Community"
+  },
+  {
+   "title": "Borough Council Regular Meeting",
+   "start": "2026-11-24T19:30",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Council Chambers)",
+   "description": "Regular council meeting. Carried live on FLTV.",
+   "link": "https://fairlawn.org/meeting-schedule",
+   "category": "Civic"
+  },
+  {
+   "title": "Thanksgiving – Borough offices & schools closed",
+   "start": "2026-11-26",
+   "end": "2026-11-27",
+   "location": "Fair Lawn",
+   "description": "Borough offices are closed and there is no Minibus Nov 26–27. Schools are closed for Thanksgiving recess.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Holiday"
+  },
+  {
+   "title": "Borough Council Work Session",
+   "start": "2026-12-01T19:30",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Conference Room 201)",
+   "description": "Council work session.",
+   "link": "https://fairlawn.org/meeting-schedule",
+   "category": "Civic"
+  },
+  {
+   "title": "Santa Phone Calls begin",
+   "start": "2026-12-04T18:00",
+   "end": "2026-12-18",
+   "location": "By phone (Fair Lawn children)",
+   "description": "Recreation's Santa phone calls run from Dec 4 to Dec 18. The 2026 Borough calendar lists 6–8 PM; the Borough's holiday page says weekday evenings, 4:30–8:30 PM. Sign up through Recreation.",
+   "link": "https://fairlawn.org/holiday-events",
+   "category": "Holiday"
+  },
+  {
+   "title": "Hawthorne Santa Parade & Borough Tree Lighting",
+   "start": "2026-12-04T18:00",
+   "location": "Hawthorne Borough Hall, 445 Lafayette Ave, Hawthorne",
+   "description": "Hawthorne Chamber of Commerce Santa parade and borough tree lighting.",
+   "link": "https://www.hawthornenj.org/Calendar.aspx",
+   "category": "Nearby"
+  },
+  {
+   "title": "North Jersey Concert Band",
+   "start": "2026-12-05",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Concert by the North Jersey Concert Band.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=6936B146-2342-4534-832B-110C3C53AC5F",
+   "category": "Arts"
+  },
+  {
+   "title": "Friends Holiday Arts & Crafts Boutique – Winter Wonderland",
+   "start": "2026-12-05T10:00",
+   "end": "2026-12-06",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Friends of the Library holiday crafts boutique. Continues Sunday, Dec 6 (from 1 PM).",
+   "link": "https://bccls.libcal.com/event/17450509",
+   "category": "Library"
+  },
+  {
+   "title": "RHSWSA x TEEEM WinterFest 2026",
+   "start": "2026-12-05T12:00",
+   "location": "531 Stevens Ave, Ridgewood",
+   "description": "WinterFest in Ridgewood.",
+   "link": "https://patch.com/new-jersey/ridgewood/calendar/event/20261205/f7f76a41-c6a3-4821-8f2e-a6fbd276e137/rhswsa-x-teeem-winterfest-2026",
+   "category": "Nearby"
+  },
+  {
+   "title": "Winter Wonderland & Holiday Parade of Lights",
+   "start": "2026-12-06T18:30",
+   "location": "Memorial Park (parade starts at Berdan Ave & River Rd)",
+   "description": "Lighted holiday parade down Berdan Ave into Memorial Park, with a skating rink, inflatables, hot chocolate, candy canes and kids' gift bags. Rain date is Sunday, Dec 13.",
+   "link": "https://fairlawn.org/holiday-events",
+   "category": "Holiday"
+  },
+  {
+   "title": "Monsters Inc. Jr. (Aspire Performing Arts Co.)",
+   "start": "2026-12-11",
+   "end": "2026-12-13",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Youth musical, Dec 11–13.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=461F7483-D2C3-4DEA-AA70-9BA07D2BE196",
+   "category": "Arts"
+  },
+  {
+   "title": "Borough Council Regular Meeting",
+   "start": "2026-12-15T19:30",
+   "location": "Borough Hall, 8-01 Fair Lawn Ave, Fair Lawn (Council Chambers)",
+   "description": "Regular council meeting. Carried live on FLTV.",
+   "link": "https://fairlawn.org/meeting-schedule",
+   "category": "Civic"
+  },
+  {
+   "title": "Board of Education Meeting",
+   "start": "2026-12-17T19:30",
+   "location": "Thomas Edison School, Room 19, 37-01 Fair Lawn Ave",
+   "description": "Regular monthly Board of Education meeting.",
+   "link": "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+   "category": "Civic"
+  },
+  {
+   "title": "Wreaths Across America",
+   "start": "2026-12-19",
+   "location": "Veterans Monument, Fair Lawn Municipal Building",
+   "description": "Annual wreath-laying to honor veterans.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Holiday"
+  },
+  {
+   "title": "Passion Flux Dance Company",
+   "start": "2026-12-19",
+   "location": "Fair Lawn Community Center Theater, 10-10 20th St, Fair Lawn",
+   "description": "Dance performance.",
+   "link": "https://fairlawn.org/index.asp?SEC=30A7A2A2-6BFE-4260-8165-882CA0E4C88B&DE=1862D6BA-AF9C-4D41-84BC-DE80F5B1528F",
+   "category": "Arts"
+  },
+  {
+   "title": "Concert: The Chanteurs – Joyful Melodies",
+   "start": "2026-12-20T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Holiday-season concert at the library.",
+   "link": "https://bccls.libcal.com/event/17754855",
+   "category": "Library"
+  },
+  {
+   "title": "Christmas – Borough offices & schools closed",
+   "start": "2026-12-24",
+   "end": "2026-12-25",
+   "location": "Fair Lawn",
+   "description": "Borough offices are closed Dec 24–25. School holiday recess runs Dec 24, 2026 to Jan 1, 2027.",
+   "link": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf",
+   "category": "Holiday"
+  },
+  {
+   "title": "1st Day 5K Run & 1 Mile Walk",
+   "start": "2027-01-01T11:00",
+   "location": "Memorial Middle School, 12-00 1st St, Fair Lawn",
+   "description": "Fair Lawn Sunrise Rotary's New Year's Day race. The 5K starts at 11:00 AM and the 1-mile walk at 11:10 AM. Chip-timed; a USATF Grand Prix event.",
+   "link": "https://runsignup.com/Race/NJ/FairLawn/1stDay5K",
+   "category": "Sports"
+  },
+  {
+   "title": "Board of Education Organization Meeting",
+   "start": "2027-01-06T19:30",
+   "location": "Thomas Edison School, Room 19, 37-01 Fair Lawn Ave",
+   "description": "Annual reorganization meeting of the Board of Education.",
+   "link": "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+   "category": "Civic"
+  },
+  {
+   "title": "St. Leo's School Open House",
+   "start": "2027-01-25T11:30",
+   "location": "St. Leo's School, 300 Market St, Elmwood Park",
+   "description": "Open house at the parochial school.",
+   "link": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20270125/aba6fe3d-6918-4069-82a6-c074927ce1e1/st-leos-school-open-house",
+   "category": "Nearby"
+  },
+  {
+   "title": "Concert: Patrick Kerssen Trio",
+   "start": "2027-01-31T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Sunday afternoon concert at the library.",
+   "link": "https://bccls.libcal.com/event/17739929",
+   "category": "Library"
+  },
+  {
+   "title": "Concert: Forever Young",
+   "start": "2027-02-21T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Sunday afternoon concert at the library.",
+   "link": "https://bccls.libcal.com/event/17757206",
+   "category": "Library"
+  },
+  {
+   "title": "Documentary: Surviving Skokie",
+   "start": "2027-04-11T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Documentary screening.",
+   "link": "https://bccls.libcal.com/event/17472744",
+   "category": "Library"
+  },
+  {
+   "title": "From Mozart to Modern: Volume II",
+   "start": "2027-04-22T19:30",
+   "location": "New Concepts For Living, 765 NJ-17, Paramus",
+   "description": "Classical concert.",
+   "link": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20270422/f45976bf-0961-47e1-9702-35e57018668a/from-mozart-to-modern-volume-ii",
+   "category": "Nearby"
+  },
+  {
+   "title": "Concert: Stone Hearth",
+   "start": "2027-05-23T14:00",
+   "location": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave, Fair Lawn",
+   "description": "Sunday afternoon concert at the library.",
+   "link": "https://bccls.libcal.com/event/17791166",
+   "category": "Library"
+  }
+ ],
+ "events": [
+  {
+   "name": "Fire Company Open Houses",
+   "when": "October, on Sundays during Fire Prevention Month (Co. #1–#4 on consecutive Sundays)",
+   "where": "Fair Lawn's four firehouses (George St, Radburn Rd, NJ-208, Plaza Rd & Rosalie St)",
+   "description": "Each volunteer fire company opens its firehouse for families: truck tours and fire-safety demos.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Spooktacular 5K & Fun Run",
+   "when": "Late October (Sunday)",
+   "where": "Radburn Park, 18-00 Radburn Rd",
+   "description": "USATF-certified Halloween 5K plus a 1-mile kids' fun run, with costumes, a DJ and prizes.",
+   "url": "https://running.life/en/event/spooktacular-5k-fair-lawn"
+  },
+  {
+   "name": "Veterans Day Ceremony",
+   "when": "November 11, 11:00 AM",
+   "where": "Fair Lawn Borough Hall, 8-01 Fair Lawn Ave",
+   "description": "The Borough's annual Veterans Day observance.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Radburn Holiday Boutique",
+   "when": "Mid-November (Sunday)",
+   "where": "The Grange, Radburn",
+   "description": "Juried market with about 35 handcraft vendors, plus a bake sale and food.",
+   "url": "https://www.radburn.org/2026-Holiday-Boutique"
+  },
+  {
+   "name": "Edith Wigod Thanksgiving Food Drive",
+   "when": "October–November",
+   "where": "Fair Lawn Food Pantry",
+   "description": "Annual pantry drive for non-perishables, gift cards and donations. A spring drive runs in April.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Interfaith Community Thanksgiving Service",
+   "when": "November (Sunday before Thanksgiving)",
+   "where": "Memorial Middle School Auditorium (2023)",
+   "description": "Joint service of St. Anne, Fair Lawn Jewish Center/B'nai Israel and Temple Beth Sholom that honors first responders.",
+   "url": "https://stannefairlawnnj.org/events/interfaith-community-thanksgiving-service"
+  },
+  {
+   "name": "Cosmos Club Tree Lighting",
+   "when": "Early December (2025: Thursday, Dec 4, 7 PM)",
+   "where": "Cosmos Club, 33-02 Morlot Ave",
+   "description": "Tree lighting with treats, Santa photos and a toy drive for the Church of St. Anne.",
+   "url": "https://patch.com/new-jersey/fairlawn-saddlebrook/calendar/event/20251204/cf88c828-9b8c-4ba3-b582-bfe64e377f3c/tree-lighting-ceremony-cosmos-club-of-fair-lawn-inc"
+  },
+  {
+   "name": "Friends of the Library Holiday Arts & Crafts Boutique",
+   "when": "First weekend of December",
+   "where": "Maurice M. Pine Free Public Library",
+   "description": "Friends of the Library holiday craft and gift sale.",
+   "url": "https://bccls.libcal.com/event/17450509"
+  },
+  {
+   "name": "Wreaths Across America",
+   "when": "Mid-December (Saturday)",
+   "where": "Veterans Monument, Fair Lawn Municipal Building",
+   "description": "Wreath-laying to honor veterans.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "1st Day 5K Run & 1 Mile Walk",
+   "when": "January 1, 11:00 AM",
+   "where": "Memorial Middle School, 12-00 1st St",
+   "description": "Fair Lawn Sunrise Rotary's New Year's Day race.",
+   "url": "https://runsignup.com/Race/NJ/FairLawn/1stDay5K"
+  },
+  {
+   "name": "Law Enforcement Appreciation Celebration",
+   "when": "Early January (2026: Friday, Jan 9, 6 PM)",
+   "where": "Fair Lawn High School",
+   "description": "Free community celebration of local law enforcement. All are welcome.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Power Red Bulls Wheelchair Soccer Clinics",
+   "when": "Monthly, Sundays at noon",
+   "where": "Fair Lawn Community Center",
+   "description": "Adaptive wheelchair soccer clinics.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Access for All Dances",
+   "when": "Several times a year (e.g., February, May, October, November), Fridays 6:30 PM",
+   "where": "Fair Lawn Community Center Gym",
+   "description": "Inclusive dances for residents with disabilities, hosted by the Access for All committee.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Arboretum Day / Green Team events",
+   "when": "May (Arbor Day) and late September (tree planting)",
+   "where": "Fair Lawn Arboretum and various parks",
+   "description": "Green Team tree plantings and native-plant programs.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Veterans Ceremony at Fair Lawn Memorial Cemetery",
+   "when": "Sunday of Memorial Day weekend (late May), 2:00 PM",
+   "where": "Fair Lawn Memorial Cemetery",
+   "description": "Veterans ceremony held the day before the Memorial Day parade.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Radburn Street Fair",
+   "when": "Early June (Sunday), 11 AM–4 PM",
+   "where": "Memorial Park / Radburn",
+   "description": "Chamber of Commerce spring street fair.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "PRIDE Block Party",
+   "when": "Mid-June",
+   "where": "Fair Lawn",
+   "description": "Community Pride celebration.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Juneteenth & Women Veterans Day observances",
+   "when": "Mid-June",
+   "where": "Fair Lawn Community Center",
+   "description": "Borough Juneteenth celebration and Women Veterans Day recognition.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "St. Leon Armenian Church Picnic",
+   "when": "Early June (Sunday), noon–4 PM",
+   "where": "St. Leon Armenian Church, Fair Lawn",
+   "description": "Free, rain-or-shine picnic with Armenian food, music, dancing and kids' activities.",
+   "url": "https://armenianchurch.us/?p=17839"
+  },
+  {
+   "name": "National Night Out & Family Night",
+   "when": "Early August",
+   "where": "Memorial Park",
+   "description": "Police and community family night.",
+   "url": "https://fairlawn.org/vertical/sites/%7B7D98021D-6ADF-4B0C-833F-6C8FD4187A7A%7D/uploads/2026_Calendar_(Downloadable).pdf"
+  },
+  {
+   "name": "Garretson Forge & Farm Fall Harvest Festival",
+   "when": "October (Sunday)",
+   "where": "Garretson Forge & Farm, 4-02 River Rd",
+   "description": "Day-long living-history festival of Civil War-era Dutch farm life.",
+   "url": "https://garretsonfarm.org/"
+  },
+  {
+   "name": "Bergen County Winter Wonderland",
+   "when": "Late November to early January",
+   "where": "Van Saun County Park, Paramus",
+   "description": "County holiday festival with an ice rink, rides, a crafts village and lighting ceremonies.",
+   "url": "https://www.bergencountywinterwonderland.com/"
+  },
+  {
+   "name": "Let it GLOW! Holiday Lantern Spectacular",
+   "when": "Early November to mid-January (Thu–Sun evenings)",
+   "where": "Bergen County Zoo, Van Saun County Park, Paramus",
+   "description": "Display of more than 30 large hand-painted lanterns. Separate admission from Winter Wonderland.",
+   "url": "https://www.friendsofbergencountyzoo.org/events"
+  },
+  {
+   "name": "Zoo Boo",
+   "when": "Mid/late October (Friday evening)",
+   "where": "Bergen County Zoo, Paramus",
+   "description": "Halloween night at the zoo with the train and carousel.",
+   "url": "https://www.friendsofbergencountyzoo.org/events"
+  },
+  {
+   "name": "Ridgewood Genealogy Lock-in",
+   "when": "Late October (Saturday evening)",
+   "where": "Ridgewood Public Library",
+   "description": "Annual after-hours genealogy research night.",
+   "url": "https://ridgewoodlibrary.assabetinteractive.com/calendar/23rd-annual-genealogy-lock-in-3/"
+  },
+  {
+   "name": "Ridgewood Downtown for the Holidays / Tree Lighting",
+   "when": "Early December (Friday evening)",
+   "where": "East Ridgewood Ave & Memorial Park, Ridgewood",
+   "description": "Chamber of Commerce kickoff to holiday shopping: tree lighting, Santa, trackless train and s'mores.",
+   "url": "https://patch.com/new-jersey/ridgewood/ridgewood-christmas-tree-lighting-dec-1"
+  },
+  {
+   "name": "Glen Rock Pops Holiday Concert",
+   "when": "Mid-December (Sunday, 3 PM)",
+   "where": "Glen Rock High School, 600 Harristown Rd, Glen Rock",
+   "description": "Community pops orchestra holiday concert.",
+   "url": "https://patch.com/new-jersey/glen-rock-nj/calendar/event/20251214/e5733d74-e1fc-429c-b63b-26b6685f7ba0/pops-50th-anniversary-holiday-concert"
+  },
+  {
+   "name": "Hawthorne Santa Parade & Tree Lighting",
+   "when": "Early December (Friday evening)",
+   "where": "Lafayette Ave / Borough Hall, Hawthorne",
+   "description": "Chamber of Commerce Santa parade and borough tree lighting.",
+   "url": "https://www.hawthornenj.org/Calendar.aspx"
+  },
+  {
+   "name": "Elmwood Park Halloween Festival",
+   "when": "Late October (Saturday)",
+   "where": "Elmwood Park",
+   "description": "Afternoon-to-night festival with a hayride, costume contests, a magic show and a scare house.",
+   "url": "https://www.elmwoodparknj.us/notices-announcements/1009-halloween-festival-october-24-2026"
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Bergen County events (county government)",
+   "url": "https://bergencountynj.gov/events/feed/",
+   "type": "rss",
+   "category": "Nearby",
+   "verified": true
+  },
+  {
+   "name": "AllEvents.in – Fair Lawn",
+   "url": "https://allevents.in/fair%20lawn/RSS",
+   "type": "rss",
+   "category": "Events",
+   "verified": true
+  },
+  {
+   "name": "North Jersey Road Runners (Meetup)",
+   "url": "https://www.meetup.com/running-257/events/ical/",
+   "type": "ical",
+   "category": "Nearby",
+   "verified": true
+  }
+ ],
+ "failedFeeds": [
+  {
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10326",
+   "reason": "Valid iCal for Ridgewood Public Library in LibCal, but it has 0 events. Ridgewood uses Assabet Interactive instead (see feeds)."
+  },
+  {
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=9792",
+   "reason": "Valid 'BCCLS Library Events' iCal with 0 events."
+  },
+  {
+   "url": "https://www.glenrocknj.net/index.php?option=com_dpcalendar&task=ical.download&id=217",
+   "reason": "Glen Rock DPCalendar 'Community Events' iCal is valid but has no upcoming events. Glen Rock's main calendar (id=188) holds only meetings and trash pickups."
+  },
+  {
+   "url": "https://www.ridgewoodnj.net/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar",
+   "reason": "Valid, but 'Ridgewood Events' lists only Village Hall holiday closures. The Recreation feed (catID=27) is empty, and the RSS (ModID=58) has 0 items."
+  },
+  {
+   "url": "https://saddlebrooknj.us/events/?ical=1",
+   "reason": "Valid Events Calendar iCal, but upcoming items are only Saddle Brook council, planning and zoning meetings."
+  },
+  {
+   "url": "https://www.fairlawnmainstreet.com/events/?ical=1",
+   "reason": "Returns an empty HTML body. The Tribe REST API (/wp-json/tribe/events/v1/events) shows total=0 and /events/feed/ has 0 items."
+  },
+  {
+   "url": "https://www.fairlawnchamber.org/events/?ical=1",
+   "reason": "HTTP 403. The Tribe REST API shows total=0 upcoming and /events/feed/ has 0 items."
+  },
+  {
+   "url": "https://www.ahavatachim.org/events/?ical=1",
+   "reason": "Valid iCal but 0 upcoming events (past holidays only). /events/feed/ RSS works but is mostly internal shiurim/classes."
+  },
+  {
+   "url": "https://www.brisavrohom.org/feed/rss2",
+   "reason": "Valid RSS with 0 items."
+  },
+  {
+   "url": "https://www.radburn.org/Calendars",
+   "reason": "Wild Apricot calendar requires member login. No public events list or iCal (/events returns 404)."
+  },
+  {
+   "url": "https://garretsonfarm.org/events.php?eventtype=1",
+   "reason": "HTML only. No RSS or iCal offered."
+  },
+  {
+   "url": "https://register.communitypass.net/fairlawnborough",
+   "reason": "Community Pass registration portal is HTML only, with no feed."
+  },
+  {
+   "url": "https://www.eventbrite.com/d/nj--fair-lawn/events/rss/",
+   "reason": "Eventbrite location pages return HTML. There is no public RSS/iCal."
+  },
+  {
+   "url": "https://patch.com/feeds/aol/new-jersey/fairlawn-saddlebrook/calendar",
+   "reason": "Valid RSS with 0 items. Patch calendars have no working feed."
+  },
+  {
+   "url": "https://bergencountynj.gov/?mec-ical-feed=1",
+   "reason": "Returns HTML. Use the /events/feed/ RSS instead."
+  },
+  {
+   "url": "https://www.flchabad.com/",
+   "reason": "HTTP 403 to scripted fetch, and no feed was found. jewishfairlawn.org (Bris Avrohom) also offers no RSS/iCal link."
+  },
+  {
+   "url": "https://www.fairlawnschools.org/page/annual-list-of-board-meetings",
+   "reason": "Not a feed (BOE dates were extracted manually into datedEvents)."
+  },
+  {
+   "url": "https://www.meetup.com/rockland-social-sandbox/events/ical/",
+   "reason": "Valid iCal, but a regional singles/social group based mostly in Rockland. Not useful for Fair Lawn."
+  }
+ ]
+}

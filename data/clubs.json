@@ -1,0 +1,891 @@
+{
+ "clubs": [
+  {
+   "name": "Rotary Club of Fair Lawn",
+   "category": "Service & civic",
+   "description": "Fair Lawn's original Rotary club (serving since 1948). Weekly lunch meetings with speakers, community service projects and fundraising; runs the Rotary Foundation of Fair Lawn (501(c)(3)) and supports the Opportunity Center and Fair Lawn Food Pantry.",
+   "ages": "Adults who live or work in Fair Lawn or nearby",
+   "meets": "Thursdays, 12:15 p.m. (lunch); board meets on Zoom first Tuesday of the month, 6 p.m.",
+   "where": "Club site lists Davia Restaurant, 6-09 Fair Lawn Ave (confirm venue with club)",
+   "join": "Attend a Thursday meeting as a guest and contact the club; membership open to people who live or work in Fair Lawn and surrounding communities.",
+   "url": "https://www.clubrunner.ca/fairlawn",
+   "email": "fairlawnrotarians@gmail.com",
+   "phone": "(973) 879-9554",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Sunrise Rotary",
+   "category": "Service & civic",
+   "description": "Breakfast Rotary club chartered in 1991 (District 7490). Runs the annual 1st Day 5K on January 1, drum circles with Music Mends Minds, $250 community micro-grants for residents 18+, and international water projects.",
+   "ages": "Adults",
+   "meets": "Tuesdays 7:30 a.m.; last Tuesday of the month is a 6:00 p.m. dinner meeting",
+   "where": "Fair Lawn Community Center, 10-10 20th Street (dinner meetings at Juany's Cafe & Grill, 12-56 River Rd)",
+   "join": "Visit a Tuesday meeting or email the club. Mailing address P.O. Box 112, Fair Lawn, NJ 07410.",
+   "url": "https://flsunriserotary.org/",
+   "email": "fairlawnsunriserotary@gmail.com",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Lions Club",
+   "category": "Service & civic",
+   "description": "Lions service club that founded the Fair Lawn Opportunity Center and historically supported the Ambulance Corps, Fire Department, Scouts and sight-related charities. Linked from the borough's list of organizations, but no current meeting information could be confirmed.",
+   "ages": "Adults",
+   "join": "Contact through the Lions club page; verify current status.",
+   "url": "http://lionwap.org/eclub/sites/FairLawnNJ/",
+   "active": "unverified"
+  },
+  {
+   "name": "Knights of Columbus, St. Ann's Council #2853",
+   "category": "Service & civic",
+   "description": "Catholic fraternal service organization (charity, church, youth, community and patriotic programs) connected with St. Anne's parish.",
+   "ages": "Catholic men 18+ (Knights of Columbus rules)",
+   "meets": "Monthly; third-party listings disagree (first vs. third Monday) - confirm with the council",
+   "where": "16-16 Maple Ave, Fair Lawn (per directory listing)",
+   "join": "Contact the council or St. Anne's parish office.",
+   "url": "https://www.burbio.com/states/New-Jersey/Fair-Lawn/st-ann-s-knights-of-columbus-council-2853",
+   "phone": "(201) 797-9785",
+   "active": "unverified"
+  },
+  {
+   "name": "American Legion Post 171 (Harry Coppendyke Post)",
+   "category": "Service & civic",
+   "description": "American Legion veterans post serving Fair Lawn; listed by the borough among local organizations. Its website was 'under construction' when checked in October 2026.",
+   "ages": "Eligible U.S. military veterans; auxiliary for family",
+   "where": "17-08 River Rd, Fair Lawn (per nonprofit registry)",
+   "join": "Contact the post; veterans can also reach the borough Office of Veteran Affairs (veterans@fairlawn.org, 201-794-5340).",
+   "url": "https://alpost171.org/",
+   "active": "likely"
+  },
+  {
+   "name": "Jewish War Veterans Lt. James I. Platt Post 651",
+   "category": "Service & civic",
+   "description": "Fair Lawn post of the Jewish War Veterans of the USA; its vice commander was grand marshal of a Fair Lawn Memorial Day parade. No current schedule found.",
+   "ages": "Jewish veterans; associate membership for others",
+   "join": "Contact through JWV national (jwv.org) or the borough Office of Veteran Affairs.",
+   "url": "https://jewishstandard.timesofisrael.com/jwv-vice-commander-is-fair-lawn-parade-grand-marshal/",
+   "active": "unverified"
+  },
+  {
+   "name": "Fair Lawn Veterans Council",
+   "category": "Service & civic",
+   "description": "Umbrella group of Fair Lawn veterans organizations that works with the borough's Veteran Affairs Liaison; holds the annual U.S. flag retirement ceremony (flags can be left in the drop box at Borough Hall, Parmelee Ave entrance).",
+   "ages": "Veterans and supporters",
+   "join": "Contact the Office of Veteran Affairs.",
+   "url": "https://www.fairlawn.org/veterans",
+   "email": "veterans@fairlawn.org",
+   "phone": "201-794-5340",
+   "active": "likely"
+  },
+  {
+   "name": "Knights of Pythias - Benjamin N. Cardozo Lodge #163/157",
+   "category": "Service & civic",
+   "description": "Fair Lawn lodge of the non-sectarian Knights of Pythias fraternal order; social calendar includes dine-arounds, Memorial Day parade, family picnic and the Radburn Street Fair.",
+   "ages": "Adults",
+   "meets": "1st and 3rd Wednesdays, 8:15 p.m.",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Membership contact listed on the lodge site (call Morris).",
+   "url": "http://www.cardozospeaks.org/",
+   "email": "amp507629@gmail.com",
+   "phone": "201-791-2966",
+   "active": "likely"
+  },
+  {
+   "name": "League of Women Voters of Fair Lawn",
+   "category": "Service & civic",
+   "description": "Nonpartisan local League (open to all genders) for voter education, candidate forums and civic advocacy; one of five local Leagues under the League of Women Voters of Bergen County Inter-League Organization.",
+   "ages": "Adults (students may join)",
+   "join": "Join via the LWV of Bergen County / LWV New Jersey membership pages.",
+   "url": "https://lwvbergen.org/",
+   "active": "likely"
+  },
+  {
+   "name": "The Radburn Association",
+   "category": "Service & civic",
+   "description": "Private association that runs Radburn's commons: parks, two pools, tennis, archery plaza, playgrounds, Grange community center and programs. Facilities are for Radburn residents (parks open to the public); residents elect a volunteer Board of Trustees. Hosts events such as the Holiday Boutique.",
+   "ages": "Radburn residents of all ages",
+   "where": "Radburn neighborhood (Grange community center and parks)",
+   "join": "Automatic for Radburn property owners/residents (quarterly assessments); register on the website for programs.",
+   "url": "https://radburn.org/",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Chamber of Commerce",
+   "category": "Service & civic",
+   "description": "Business association founded in 1954; networking events, member directory, business education programs (e.g., 2026 workshops at the library) and the Fair Lawn street fair.",
+   "ages": "Business owners and professionals",
+   "where": "12-45 River Road, Fair Lawn (office, per directory listing)",
+   "join": "Apply online (Become a Member); annual dues vary by membership level.",
+   "url": "https://www.fairlawnchamber.org/",
+   "email": "info@fairlawnchamber.org",
+   "phone": "201-796-7050",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Main Street",
+   "category": "Service & civic",
+   "description": "Nonprofit downtown-revitalization group connecting business owners, residents and trustees; runs promotions and community events (2026 included a World Cup pregame party and community film night).",
+   "ages": "All",
+   "join": "Volunteer or partner via the website.",
+   "url": "https://www.fairlawnmainstreet.com/",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Environmental Commission",
+   "category": "Service & civic",
+   "description": "Borough volunteer commission (since 1982) that protects natural resources, maintains the Environmental Resource Inventory, and educates residents on environmental issues.",
+   "ages": "Adult residents (appointed)",
+   "meets": "Monthly at 7:30 p.m. (2026: Jan 7, Feb 4, Mar 4, Apr 8, May 6, Jun 3, Jul 1, Aug 5, Sep 2, Oct 7, Nov 4, Dec 2)",
+   "where": "Room 201, Municipal Building, 8-01 Fair Lawn Ave",
+   "join": "Meetings are public. To serve, submit the borough Volunteer Leadership Form to the Municipal Clerk.",
+   "url": "https://www.fairlawn.org/environmental",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Green Team Advisory Committee",
+   "category": "Service & civic",
+   "description": "Volunteer committee working toward Sustainable Jersey certification: green fairs, green challenges, community energy planning and sustainability education.",
+   "ages": "Adult residents",
+   "join": "Submit the Volunteer Leadership Form to the Municipal Clerk.",
+   "url": "https://www.fairlawn.org/gtac",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Shade Tree Advisory Committee",
+   "category": "Service & civic",
+   "description": "Tree-knowledgeable volunteers who maintain the borough Tree Ordinance and steward the 15-acre Fair Lawn Arboretum along the Jordan Brook (bird watching, themed beds). Donations accepted to the Tree Trust.",
+   "ages": "Adult residents",
+   "meets": "Monthly",
+   "join": "Submit the Volunteer Leadership Form to the Municipal Clerk.",
+   "url": "https://www.fairlawn.org/stac",
+   "active": "likely"
+  },
+  {
+   "name": "Historic Preservation Commission & Cadmus House Museum",
+   "category": "Service & civic",
+   "description": "Borough commission that safeguards Fair Lawn's historic sites; the Cadmus House on Pollitt Drive (next to Radburn station) is the official borough museum with artifacts from Lenape arrowheads to WWII uniforms. No separate 'Fair Lawn Historical Society' website was found.",
+   "ages": "All (volunteers: adults)",
+   "meets": "Museum open the third Sunday of Mar, Apr, May, Jun, Sep, Oct, Dec and on Memorial Day; tours by request",
+   "where": "Cadmus House, 14-01 Pollitt Drive",
+   "join": "Call to arrange a tour or volunteer; commission appointments via the Volunteer Leadership Form.",
+   "url": "https://www.fairlawn.org/cadmus-house",
+   "phone": "(201) 796-7692",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Senior Citizen Advisory Committee",
+   "category": "Seniors",
+   "description": "Borough committee that addresses issues facing seniors and makes recommendations to the Council.",
+   "ages": "Adults; focus on 60+",
+   "meets": "Mondays, 5:00 p.m. (as scheduled)",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Meetings are public; to serve, submit the Volunteer Leadership Form to the Municipal Clerk.",
+   "url": "https://www.fairlawn.org/scac",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Amateur Radio Club (W2NPT)",
+   "category": "Hobby & interest",
+   "description": "One of New Jersey's largest ham radio clubs (70+ years). Weekly gatherings with five operating positions, nets, special-interest groups, contests, special-event stations, license training and monthly VE testing; supports borough RACES/ARES emergency communications.",
+   "ages": "All; licensed or not",
+   "meets": "Every Friday 6-9 p.m.; business meeting on the first Friday of the month",
+   "where": "Fair Lawn Community Center, 10-10 20th Street (Recreation Center)",
+   "join": "Visit on a Friday night; membership open regardless of license status.",
+   "url": "https://fairlawnarc.org/",
+   "email": "W2NPT@arrl.net",
+   "phone": "(201) 965-6274",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Toastmasters",
+   "category": "Hobby & interest",
+   "description": "Public speaking and leadership club (chartered 2019) with themed meetings, prepared speeches, table topics and evaluations.",
+   "ages": "Adults; open to all",
+   "meets": "1st and 3rd Thursdays, 7:00 p.m. (e.g., Nov 5 and Nov 19, 2026)",
+   "where": "Fair Lawn Community Center, 10-10 20th Street",
+   "join": "Attend as a guest; Toastmasters International dues apply for members.",
+   "url": "https://fairlawn.toastmastersclubs.org/",
+   "phone": "+1 609-375-7632",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Library Chess Club",
+   "category": "Hobby & interest",
+   "description": "Weekly drop-in chess for adults at the Fair Lawn library; children may join with adult supervision.",
+   "ages": "Adults; kids with an adult",
+   "meets": "Wednesdays, 7:00 p.m.",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave - Level B",
+   "join": "Drop in, free.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Readers Roundtable (adult fiction book club)",
+   "category": "Hobby & interest",
+   "description": "The library's adult fiction book club, with both in-person evening sessions and Zoom sessions (fall 2026 title: The Heaven & Earth Grocery Store). Copies at the circulation desk; eBook on Libby.",
+   "ages": "Adults",
+   "meets": "About monthly; in-person evening session plus an afternoon Zoom session - see library calendar",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave (Level B Room) and Zoom",
+   "join": "Free; contact Justin Portelli to RSVP or get the Zoom link.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "email": "justin.portelli@fairlawn.bccls.org",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Not-So-Young-Adult Book Club",
+   "category": "Hobby & interest",
+   "description": "Library book club where adults discuss YA novels; new people always welcome.",
+   "ages": "Adults",
+   "meets": "Monthly, Tuesday evenings (~6:50 p.m.)",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave - Reference Room",
+   "join": "No registration; email to get reminders.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "email": "elizabeth.portelli@fairlawn.bccls.org",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Librarian's Choice Book Club (Zoom)",
+   "category": "Hobby & interest",
+   "description": "Online library book discussion led by library staff.",
+   "ages": "Adults",
+   "meets": "Monthly, Wednesday evenings 7:30 p.m. (Zoom)",
+   "where": "Online via Zoom",
+   "join": "Register through the library calendar.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Adult Board Game Club",
+   "category": "Hobby & interest",
+   "description": "Library-run board game group: weekly virtual game night (party and strategy games) plus periodic in-person Adult Board Game Days on Saturdays.",
+   "ages": "Adults",
+   "meets": "Wednesdays 7:00 p.m. on Zoom; in-person game days on select Saturdays",
+   "where": "Zoom / Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave Level B",
+   "join": "Email the library (Justin) for an invitation.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "email": "justin.portelli@fairlawn.bccls.org",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Senior Center Book Discussion Group",
+   "category": "Seniors",
+   "description": "Volunteer-led book discussion at the Senior Center (October 2026 title: 'Don't Forget to Write' by Sara Goodman Confino).",
+   "ages": "60+",
+   "meets": "Saturdays, 11 a.m.-12:30 p.m. (monthly; e.g., Oct 10, 2026)",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Advance registration required; free for Senior Center members.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "email": "srcenter@fairlawn.org",
+   "phone": "(201) 796-1191",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Senior Center Card & Game Groups (Bridge, Mah Jongg, Canasta, Scrabble)",
+   "category": "Seniors",
+   "description": "Self-run game groups at the Senior Center: supervised Bridge for experienced players, Mah Jongg (watch, learn and play), Canasta and Scrabble circles.",
+   "ages": "60+",
+   "meets": "As of the borough's 2025 listing: Bridge Tue 10 a.m.-12 p.m.; Canasta Mon 12 p.m.; Mah Jongg Thu 12 p.m.; Scrabble Thu 10 a.m. (check the monthly calendar)",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Free with Senior Center membership (no dues).",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Senior Center Needlework Groups (Crochet Club & TINK knitters)",
+   "category": "Seniors",
+   "description": "Volunteer-led crochet ('The Happy Hookers') and knitting/crochet (TINK) circles for sharing projects and skills.",
+   "ages": "60+",
+   "meets": "As of the 2025 listing: Crochet Saturdays 1 p.m.; TINK 3rd Wednesday 1-3 p.m.",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Free with Senior Center membership.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Community Garden",
+   "category": "Hobby & interest",
+   "description": "Member-run organic community garden with individual growing plots, shared projects and sustainable-gardening education.",
+   "ages": "All ages (plot holders: adults/families)",
+   "join": "Member-only; email the garden board to request a plot.",
+   "url": "https://www.fairlawn.org/community-garden",
+   "email": "sampsongardenboard@googlegroups.com",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Garden Committee",
+   "category": "Hobby & interest",
+   "description": "Volunteer gardeners (since 1995) who plant and maintain borough gardens: the library grounds, Vanderbeck Arboretum & Bird Sanctuary, WTC Memorial Garden, Peace Park and more. Experienced and beginner gardeners welcome; no formal meetings.",
+   "ages": "Adults",
+   "meets": "No formal meetings; garden on your own schedule, mornings/evenings, year-round weather permitting",
+   "join": "Email the Borough Clerk's office; bring your own tools.",
+   "url": "https://www.fairlawn.org/garden-committee",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Table Tennis Club",
+   "category": "Sports & fitness",
+   "description": "Long-running drop-in table tennis group at the Recreation Center; new members welcome.",
+   "ages": "Adults",
+   "meets": "Sundays 5-10 p.m.; Tuesdays and Thursdays 9 a.m.-12 p.m.",
+   "where": "Fair Lawn Community Center, 10-10 20th Street (Recreation Center)",
+   "join": "Bring your own paddle; contact Recreation & Parks.",
+   "url": "https://www.fairlawn.org/rec-programs",
+   "phone": "201-796-6746",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Old Library Theatre",
+   "category": "Arts & music",
+   "description": "Nonprofit community theater founded in Fair Lawn in 1967; produces plays and musicals (2026 season includes Julius Caesar and The Hello Girls) and holds open auditions.",
+   "ages": "Teens and adults (performers, crew, volunteers); all ages audience",
+   "where": "Fair Lawn Community Center, 10-10 20th Street (theater)",
+   "join": "Watch for audition notices on the site; volunteer or join the mailing list. Mailing address 12-45 River Road #103.",
+   "url": "https://www.oldlibrarytheatre.com/",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Radburn Players",
+   "category": "Arts & music",
+   "description": "Community theater founded in 1930 in Radburn, described as one of New Jersey's oldest continually operating theater groups (musicals, dramas, comedies). No 2025-2026 production listing was found.",
+   "ages": "Teens and adults",
+   "join": "Check for audition announcements.",
+   "active": "unverified"
+  },
+  {
+   "name": "Fair Lawn Arts & Culture Committee",
+   "category": "Arts & music",
+   "description": "Borough volunteer committee (merging the former Arts Council and Community Relations Advisory Committee) that runs Art in the Park at Berdan Grove Park, public art and inclusive cultural events.",
+   "ages": "Adults (volunteers), all ages (events)",
+   "meets": "2nd Monday, 7:30-9 p.m. (Zoom Dec-Mar; in person Apr-Nov)",
+   "where": "Fair Lawn Community Center, 10-10 20th Street - Card Room",
+   "join": "Email for meeting info; members volunteer at 3+ events a year. Donations to the Fair Lawn Art Trust.",
+   "url": "https://www.fairlawn.org/art",
+   "email": "art@fairlawn.org",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Friends of Music (FOM)",
+   "category": "Schools & parents",
+   "description": "Parent/booster organization supporting Fair Lawn Public Schools music programs and district music events.",
+   "ages": "Families of music students and supporters",
+   "join": "Become a member via the CheddarUp link on the FOM page; Facebook group 'flfom'.",
+   "url": "https://flhs.fairlawnschools.org/o/flhs/page/fom",
+   "email": "fairlawnfriendsofmusic@gmail.com",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Russian Club",
+   "category": "Cultural",
+   "description": "Long-running Russian-language cultural club presenting concerts, theater evenings and touring artists (e.g., actress Elena Solovey on Nov 1, 2026) and a daily TV program on Fair Lawn TV (ch. 77 Optimum / 37 FiOS, 9 p.m.).",
+   "ages": "All; Russian-speaking community",
+   "where": "Fair Lawn Community Center, 10-10 20th Street (most events)",
+   "join": "Buy event tickets online or at local Russian stores; contact for info.",
+   "url": "http://www.fairlawnrussianclub.org/",
+   "email": "fairlawnrussianclub@gmail.com",
+   "phone": "201-835-7708",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Hadassah - Fair Lawn Chapter",
+   "category": "Cultural",
+   "description": "Fair Lawn chapter of Hadassah (Northern New Jersey region), historically one of the largest in NJ; holds general meetings, speaker and author events, open to the public.",
+   "ages": "Adults",
+   "where": "Fair Lawn Jewish Center, 10-10 Norma Ave (typical venue)",
+   "join": "Join through Hadassah's national membership page or the Northern New Jersey region.",
+   "url": "https://www.hadassah.org/northernnewjersey",
+   "active": "likely"
+  },
+  {
+   "name": "CBS/FLJC Sisterhood and Men's Progress Club",
+   "category": "Cultural",
+   "description": "Affiliate groups of Congregation B'nai Sholom / Fair Lawn Jewish Center (Conservative) running social, educational and chesed programs; the congregation also hosts adult education and a Social Action committee.",
+   "ages": "Adults",
+   "where": "10-10 Norma Avenue, Fair Lawn",
+   "join": "Contact the congregation office.",
+   "url": "https://www.fljc.com/",
+   "phone": "201-796-5040",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Anshei Lubavitch (Chabad of Fair Lawn)",
+   "category": "Cultural",
+   "description": "Chabad outreach center offering adult education, youth programs, holiday events, preschool and day camp for the Jewish community.",
+   "ages": "All ages",
+   "join": "Join the mailing list on the website.",
+   "url": "https://www.flchabad.com/",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Library ESL Conversation Group & ESL Classes",
+   "category": "Cultural",
+   "description": "Free English practice for newcomers: an informal ESL Conversation Group (all levels) plus ESL for Beginners and Intermediate ESL classes. The library also runs Spanish classes.",
+   "ages": "Adults",
+   "meets": "Conversation group Mondays ~10:30 a.m.; Beginner/Intermediate classes Thursday mornings (see calendar)",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave - Level B Room",
+   "join": "Free; check the calendar for registration.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn All-Sports",
+   "category": "Sports & fitness",
+   "description": "Volunteer-run nonprofit offering recreational and travel youth sports: soccer (largest program), baseball, softball, basketball, girls' and boys' lacrosse, volleyball, wrestling, track, kickball and the STARS program for children with special needs.",
+   "ages": "Youth (roughly PreK-8th grade; varies by sport)",
+   "where": "Fair Lawn fields and schools; address 10-10 20th St",
+   "join": "Register online by sport; travel teams hold tryouts.",
+   "url": "https://www.fairlawnallsports.com/",
+   "email": "fairlawnallsports@gmail.com",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Football Association (Junior Cutters)",
+   "category": "Sports & fitness",
+   "description": "Youth tackle football program feeding the Fair Lawn Cutters; its 2017 team won a Pro Football Hall of Fame national youth title. Website content appears dated.",
+   "ages": "Youth",
+   "join": "Check the website/Facebook for registration.",
+   "url": "https://www.fairlawnfootball.org/",
+   "active": "unverified"
+  },
+  {
+   "name": "Fair Lawn Swim Team - The Riptide",
+   "category": "Sports & fitness",
+   "description": "Summer recreational swim team competing in a community league against Ridgewood, Radburn and Wyckoff; no tryouts.",
+   "ages": "Children (Memorial Pool members)",
+   "meets": "Summer; practices Mon-Thu 9-11 a.m. by age/ability (2026 registration was June 8)",
+   "where": "Memorial Pool",
+   "join": "Register at the June parent orientation; pool membership required.",
+   "url": "https://www.fairlawn.org/swim-team",
+   "phone": "201-796-6746",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn FC Soccer Meetup",
+   "category": "Sports & fitness",
+   "description": "Adult pickup soccer group (400+ members) organizing 5v5 to 11v11 games around Fair Lawn and nearby turf fields; all skill levels, women welcome.",
+   "ages": "Adults",
+   "meets": "Several games a week (e.g., Monday nights on turf); see Meetup",
+   "where": "Local fields (some in neighboring towns, e.g., Paterson)",
+   "join": "Join on Meetup and RSVP; small per-game fee covers field costs.",
+   "url": "https://www.meetup.com/flnjsoccer/",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn B'nai Brith Softball League",
+   "category": "Sports & fitness",
+   "description": "Competitive adult softball league running 25+ years with two skill divisions, umpired seven-inning games.",
+   "ages": "Adults",
+   "meets": "Sunday mornings, April-August",
+   "join": "Contact the league commissioner (see article).",
+   "url": "https://jewishlink.news/bnai-brith-softball-league-at-bat/",
+   "active": "unverified"
+  },
+  {
+   "name": "FLHS Parents Committee for Athletics (PCA)",
+   "category": "Schools & parents",
+   "description": "All-volunteer 501(c)(3) booster group supporting Fair Lawn High School athletic programs ('Cutter Nation'); program reps fundraise for each team.",
+   "ages": "Parents/guardians of FLHS athletes and supporters",
+   "meets": "Meeting dates for 2026-2027 posted on the PCA page; meetings have been held in the high school cafeteria at 7 p.m.",
+   "where": "Fair Lawn High School",
+   "join": "No dues - all are welcome; email the PCA.",
+   "url": "https://flhs.fairlawnschools.org/o/flhs/page/parent-committee-for-athletics",
+   "email": "pcaflhs@gmail.com",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Senior Center",
+   "category": "Seniors",
+   "description": "Hub for adults 60+: weekday lunch (suggested donation $1.25), lectures, exercise classes, crafts, games, trips, health screenings and monthly calendar of events.",
+   "ages": "60+ (family/friends welcome at lunch)",
+   "meets": "Mon-Fri 8 a.m.-4 p.m.; Sat 10:30 a.m.-3:30 p.m.; Sun 12-3 p.m.",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "No dues; fill out the Senior Center application (resident or non-resident form) and ask for an Ambassador tour.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "email": "srcenter@fairlawn.org",
+   "phone": "(201) 796-1191",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Friendship Club (senior social club)",
+   "category": "Seniors",
+   "description": "One of four autonomous senior social clubs subsidized by Fair Lawn Recreation & Parks, with their own officers, meetings and trips.",
+   "ages": "60+ (members may belong to only one of the four clubs)",
+   "meets": "2nd and 4th Tuesdays",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Contact via the Senior Center; mail: Fair Lawn Senior Center, Attn: Friendship Club, 11-05 Gardiner Road.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Livewires Club (senior social club)",
+   "category": "Seniors",
+   "description": "One of four autonomous senior social clubs subsidized by Fair Lawn Recreation & Parks, with their own officers, meetings and trips.",
+   "ages": "60+ (members may belong to only one of the four clubs)",
+   "meets": "1st and 3rd Wednesdays",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Contact via the Senior Center; mail: Fair Lawn Senior Center, Attn: Livewires Club, 11-05 Gardiner Road.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Friday Social Club (senior social club)",
+   "category": "Seniors",
+   "description": "One of four autonomous senior social clubs subsidized by Fair Lawn Recreation & Parks, with their own officers, meetings and trips.",
+   "ages": "60+ (members may belong to only one of the four clubs)",
+   "meets": "1st and 3rd Fridays",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Contact via the Senior Center; mail: Fair Lawn Senior Center, Attn: Friday Social Club, 11-05 Gardiner Road.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Happy Seniors Club (senior social club)",
+   "category": "Seniors",
+   "description": "One of four autonomous senior social clubs subsidized by Fair Lawn Recreation & Parks, with their own officers, meetings and trips.",
+   "ages": "60+ (members may belong to only one of the four clubs)",
+   "meets": "2nd and 4th Fridays",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Contact via the Senior Center; mail: Fair Lawn Senior Center, Attn: Happy Seniors Club, 11-05 Gardiner Road.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "likely"
+  },
+  {
+   "name": "Scouts BSA Troop 53 Fair Lawn",
+   "category": "Scouts & youth",
+   "description": "Fair Lawn's historic Scouts BSA troop (since 1931): camping, outings, merit badges, Eagle projects, Memorial Day parade and river cleanups. Chartered by the Radburn Association.",
+   "ages": "Youth about 11-17",
+   "where": "Grange Hall, Radburn (per 2021 report - confirm with the troop)",
+   "join": "Use the inquiry form on troop53.org or email the troop.",
+   "url": "https://troop53.org/",
+   "email": "troop53fl@gmail.com",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Cub Scout Pack 53 (Fair Lawn/Radburn)",
+   "category": "Scouts & youth",
+   "description": "Community-based Cub Scout pack open to children from any Fair Lawn school; monthly pack meetings plus den meetings. Online info dates from 2016-17.",
+   "ages": "Kindergarten-5th grade",
+   "meets": "Monthly pack meeting 7 p.m. (location shared after joining)",
+   "join": "Contact through the pack page or Troop 53; verify current status.",
+   "url": "http://www.scoutlander.com/publicsite/unithome.aspx?UID=41443",
+   "active": "unverified"
+  },
+  {
+   "name": "Cub Scout Pack 613",
+   "category": "Scouts & youth",
+   "description": "Orthodox Jewish Cub Scout pack founded in 2010, drawing from Fair Lawn, Teaneck and Bergenfield.",
+   "ages": "Elementary-age children",
+   "where": "Congregation Ahavat Achim, Fair Lawn",
+   "join": "Contact the pack (website was not reachable in October 2026).",
+   "url": "https://jewishlink.news/scouts-of-bergen-county/",
+   "active": "unverified"
+  },
+  {
+   "name": "Girl Scouts of Northern New Jersey (Fair Lawn troops)",
+   "category": "Scouts & youth",
+   "description": "Regional Girl Scout council that serves Fair Lawn troops; use the council's troop finder to locate a local troop or volunteer as a leader. A Fair Lawn service unit contact could not be confirmed.",
+   "ages": "Girls K-12; adult volunteers",
+   "join": "Register/find a troop at gsnnj.org.",
+   "url": "https://www.gsnnj.org/",
+   "active": "likely"
+  },
+  {
+   "name": "RoboRaptors (FIRST robotics team)",
+   "category": "Scouts & youth",
+   "description": "Youth FIRST robotics team that runs STEM outreach at the Fair Lawn library (e.g., 'Robotics w/the RoboRaptors' on Nov 21, 2026 for grades 5-12).",
+   "ages": "Grades 5-12 (outreach)",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave",
+   "join": "Register for library sessions; ask the team there about joining.",
+   "url": "https://bccls.libcal.com/event/17678690",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Library Teen Advisory Board & Kids' Clubs",
+   "category": "Scouts & youth",
+   "description": "Teens help shape library programs on the Teen Advisory Board; younger kids can join Lego Club (K-6), Dungeons & Dragons groups (gr 3-6), Bookworm Club (gr 5-6), Readers Rock (gr 3-4) and Chapter Club (gr 1-2).",
+   "ages": "Grades 1-12",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave",
+   "join": "Free; some programs need registration.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Police Explorers & Citizens Police Academy",
+   "category": "Scouts & youth",
+   "description": "Police Explorers program for young people interested in law enforcement, a one-week summer Junior Citizens Police Academy (ages 11-14) and a 12-week adult Citizens Police Academy.",
+   "ages": "Explorers 14-21; Jr. Academy 11-14; Academy 18+",
+   "join": "Call the Community Policing Unit.",
+   "url": "https://www.fairlawn.org/volunteer",
+   "phone": "201-794-5365",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Volunteer Ambulance Corps (FLVAC)",
+   "category": "Volunteer",
+   "description": "All-volunteer 501(c)(3) EMS squad answering Fair Lawn 9-1-1 calls for over 75 years; also teaches public CPR/First Aid classes and covers community events. Cadet (16-18), riding, affiliate and non-riding auxiliary memberships.",
+   "ages": "16+ (non-residents 18+ welcome if in town for shifts)",
+   "meets": "Business meetings every other Wednesday 7:30 p.m.; shifts ~12 hrs biweekly + weekend rotations",
+   "where": "1 Coopers Way, Fair Lawn",
+   "join": "Download the membership application from the website and email it; new riding members attend EMT school within a year.",
+   "url": "https://www.fairlawnvac.org/joinus",
+   "email": "membership@fairlawnvac.org",
+   "phone": "201-797-5321",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Fire Department (volunteer companies)",
+   "category": "Volunteer",
+   "description": "All-volunteer fire department with four companies/firehouses (George St, Route 208, Plaza Rd & Rosalie St, Radburn Rd & High St).",
+   "ages": "Junior firefighters 16+; firefighters 18+ who live or work in Fair Lawn",
+   "join": "Call to be connected to the firehouse in your neighborhood. (Parents may not apply on a child's behalf.)",
+   "url": "https://www.fairlawn.org/volunteer",
+   "phone": "201-794-5389",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Rescue Squad",
+   "category": "Volunteer",
+   "description": "Volunteer division of the Office of Emergency Management providing vehicle extrication, water, confined-space and hazmat rescue; weekly practical drills.",
+   "ages": "Rescue Youth Squad 16-17; Rescue Squad 18+",
+   "join": "Call the Rescue Squad.",
+   "url": "https://www.facebook.com/FairLawnRescueSquad/",
+   "phone": "201-794-5388",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn CERT (Community Emergency Response Team)",
+   "category": "Volunteer",
+   "description": "40+ trained resident volunteers who support neighbors when disasters overwhelm or delay professional responders; free training through Emergency Management.",
+   "ages": "Adults",
+   "join": "Call Emergency Management.",
+   "url": "https://www.fairlawn.org/volunteer",
+   "phone": "201-794-5390",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn RACES (Radio Amateur Civil Emergency Service)",
+   "category": "Volunteer",
+   "description": "Licensed ham radio operators providing emergency communications for the borough, closely tied to the Fair Lawn Amateur Radio Club.",
+   "ages": "Licensed amateur radio operators",
+   "join": "Contact Emergency Management or the Fair Lawn ARC.",
+   "url": "https://www.fairlawn.org/emergency-management",
+   "phone": "201-794-5390",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn Food Pantry & Human Services Volunteers",
+   "category": "Volunteer",
+   "description": "Borough-run, donation-funded food pantry. Volunteers organize the pantry (lifting, 14+), pick up/deliver food (NJ license), and help with the November Holiday Food Basket and December gift wrapping (18+). Donations accepted in Room 109, Borough Hall.",
+   "ages": "14+ (some roles 18+)",
+   "meets": "Mon-Fri 9 a.m.-3 p.m.",
+   "where": "Borough Hall, 8-01 Fair Lawn Ave, Room 109",
+   "join": "Email or call Human Services (volunteers must contact directly, not via parents).",
+   "url": "https://www.fairlawn.org/food-pantry",
+   "email": "foodpantry@fairlawn.org",
+   "phone": "201-794-5327",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Friends of the Maurice M. Pine Library",
+   "category": "Volunteer",
+   "description": "Nonprofit fundraising group for the Fair Lawn library: book sales, clothing drives, holiday arts & crafts boutique and merchandise; proceeds fund library programs.",
+   "ages": "All; open to everyone",
+   "meets": "Periodic evening meetings at the library (e.g., Oct 14, 2026, 7:30 p.m.)",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave",
+   "join": "Attend a meeting or volunteer at a book sale.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "phone": "(201) 796-3400",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Library Shelving Volunteers",
+   "category": "Volunteer",
+   "description": "Volunteers help shelve materials in the Children's Room after an orientation (Fall 2026 orientations held in September).",
+   "ages": "Teens and adults",
+   "where": "Maurice M. Pine Free Public Library, 10-01 Fair Lawn Ave - Children's Room",
+   "join": "Register for an orientation via the library calendar.",
+   "url": "https://bccls.libcal.com/calendar/fairlawn/?cid=10281&t=m&d=0000-00-00&cal=10281&inc=0",
+   "phone": "(201) 796-3400",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Fair Lawn Senior Center Volunteers",
+   "category": "Volunteer",
+   "description": "Volunteers serve the daily lunch, lead activities, call bingo (weekends), staff reception, decorate, chaperone trips and act as trained Ambassadors.",
+   "ages": "High school students to adults",
+   "where": "Fair Lawn Senior Center, 11-05 Gardiner Road",
+   "join": "Call the Senior Center director.",
+   "url": "https://www.fairlawn.org/senior-citizen",
+   "phone": "(201) 796-1191",
+   "active": "verified 2026"
+  },
+  {
+   "name": "Garretson Forge & Farm",
+   "category": "Volunteer",
+   "description": "Revolutionary-era homestead and museum on the National Register; volunteers work alongside Master Gardeners in organic heritage gardens, help with tours, events and archives. Membership supports the site.",
+   "ages": "All (volunteers: teens/adults)",
+   "meets": "Garden volunteer days Thursdays 10 a.m.-2 p.m. (mid-March to early November) and Open House Sundays 1-4 p.m.",
+   "where": "4-02 River Road, Fair Lawn",
+   "join": "Volunteer and membership forms on the website.",
+   "url": "https://garretsonfarm.org/",
+   "email": "info@garretsonfarm.org",
+   "active": "verified 2026"
+  },
+  {
+   "name": "The Opportunity Center",
+   "category": "Volunteer",
+   "description": "Year-round day program for adults with physical and developmental challenges (founded by the Fair Lawn Lions). Volunteers help clients with crafts, cooking, exercise and recreation or share a talent such as music or dance.",
+   "ages": "Adults (teens with arrangement)",
+   "where": "13-19 Fair Lawn Avenue",
+   "join": "Contact the center via its Volunteer page.",
+   "url": "http://theopportunitycenter.org/volunteer/",
+   "phone": "201-791-4040",
+   "active": "likely"
+  },
+  {
+   "name": "Bergen County Meals on Wheels",
+   "category": "Volunteer",
+   "description": "County Division of Senior Services program delivering meals to homebound seniors, including Fair Lawn; recipients and volunteer drivers are coordinated by the county.",
+   "ages": "Adults (drivers)",
+   "join": "Contact Bergen County Division of Senior Services.",
+   "url": "https://www.co.bergen.nj.us/division-of-senior-services",
+   "phone": "201-336-7400",
+   "active": "likely"
+  },
+  {
+   "name": "Fair Lawn PTA Council (and school PTAs/PTOs)",
+   "category": "Schools & parents",
+   "description": "District-wide council of the PTA/PTO presidents (or reps) from every Fair Lawn public school, plus PCA, FLASE and Friends of Music. Each school (elementary schools, Memorial and Thomas Jefferson middle schools, FLHS) has its own PTA/PTO - join through your child's school.",
+   "ages": "Parents/guardians and staff",
+   "meets": "Monthly, typically the 4th Tuesday during the school year (2025-26: Oct 28, Nov 25, Jan 27, Feb 24, Mar 24, Apr 28, May 26)",
+   "join": "Join your school's PTA/PTO (dues set by each unit); email the Council for info.",
+   "url": "https://www.fairlawnschools.org/page/pta-council",
+   "email": "ptacouncilfl@gmail.com",
+   "active": "likely"
+  },
+  {
+   "name": "FLASE (Fair Lawn Association of Special Education)",
+   "category": "Schools & parents",
+   "description": "Fair Lawn's Special Education Parent Advisory Group (SEPAG): input to administrators on special services, parent education and a Bergen/Passaic resource guide.",
+   "ages": "Families of students with disabilities",
+   "join": "Join via the FLASE membership link; email for info.",
+   "url": "https://www.fairlawnschools.org/page/flase-pto",
+   "email": "flasepto@gmail.com",
+   "active": "likely"
+  }
+ ],
+ "guides": [
+  {
+   "id": "volunteering-in-fair-lawn",
+   "title": "Volunteering in Fair Lawn",
+   "category": "Community",
+   "body": "Fair Lawn runs on volunteers: the ambulance corps, fire companies and rescue squad are all-volunteer, and most borough boards are staffed by residents. Here is where to start, by how much time you have.\n\nEmergency services (big commitment, big impact):\n- Fair Lawn Volunteer Ambulance Corps: ages 16+, EMT training provided within your first year; non-riding auxiliary roles too. Call 201-797-5321 or apply at fairlawnvac.org.\n- Fire Department: junior firefighters 16+, firefighters 18+ who live or work in town. Call 201-794-5389 to reach your neighborhood firehouse.\n- Rescue Squad: youth squad 16-17, full members 18+. Call 201-794-5388.\n- CERT and RACES (ham radio emergency comms): call Emergency Management at 201-794-5390.\n\nHelping neighbors:\n- Food Pantry (Human Services, Borough Hall Room 109): sorting (14+), food pickup/delivery, November holiday baskets and December gift wrapping (18+). foodpantry@fairlawn.org, 201-794-5327.\n- Senior Center: serve lunch, lead an activity, call weekend bingo, become an Ambassador. 201-796-1191.\n- The Opportunity Center (adults with disabilities): help with crafts, cooking and recreation, or share a talent.\n\nOutdoors and history:\n- Garretson Forge & Farm: Thursday garden volunteer days (10 a.m.-2 p.m.) and Open House Sundays.\n- Garden Committee: plant and weed borough gardens on your own schedule.\n- Environmental Commission, Green Team, Shade Tree and Arts & Culture committees: fill out the borough's Volunteer Leadership Form via the Municipal Clerk.\n\nLibrary and youth:\n- Friends of the Library run book sales and drives; the library also trains shelving volunteers.\n- Scouting units, school PTAs/PTOs, Fair Lawn All-Sports and the FLHS Parents Committee for Athletics always need adult volunteers and coaches.\n\nNote: the borough says parents calling on behalf of their children will not be considered - teens should reach out themselves.",
+   "sources": [
+    "https://www.fairlawn.org/volunteer",
+    "https://www.fairlawn.org/ambulance",
+    "https://www.fairlawnvac.org/joinus",
+    "https://www.fairlawn.org/food-pantry",
+    "https://www.fairlawn.org/senior-citizen",
+    "https://garretsonfarm.org/",
+    "http://theopportunitycenter.org/volunteer/",
+    "https://www.fairlawn.org/boards"
+   ]
+  },
+  {
+   "id": "finding-your-people",
+   "title": "Finding your people: clubs for newcomers",
+   "category": "Community",
+   "body": "New to Fair Lawn? The quickest way in is a group that meets every week and welcomes drop-ins.\n\nFree and drop-in at the library (Maurice M. Pine Library, 10-01 Fair Lawn Ave):\n- Chess Club, Wednesdays 7 p.m.\n- Readers Roundtable, Not-So-Young-Adult and Librarian's Choice book clubs.\n- Adult Board Game Club (Wednesdays on Zoom) and Saturday in-person game days.\n- ESL Conversation Group and ESL classes - great for newcomers practicing English.\n\nWeekly clubs at the Community Center (10-10 20th St):\n- Fair Lawn Amateur Radio Club, Fridays 6-9 p.m. - no license needed to join.\n- Toastmasters, 1st and 3rd Thursdays at 7 p.m.\n- Fair Lawn Sunrise Rotary, Tuesdays 7:30 a.m.; the Rotary Club of Fair Lawn meets Thursdays at lunch.\n- Table Tennis Club, Sunday evenings and weekday mornings; rec department also runs adult pickleball, badminton, volleyball and pickup basketball.\n\nArts and culture:\n- Old Library Theatre holds open auditions and needs crew.\n- Fair Lawn Arts & Culture Committee (2nd Mondays) plans Art in the Park.\n- Fair Lawn Russian Club brings Russian-language theater and concerts to the Community Center.\n- Faith-based communities such as CBS/Fair Lawn Jewish Center, Chabad and the Fair Lawn Hadassah chapter run social and learning programs.\n\nFamilies:\n- Join your school's PTA/PTO; Fair Lawn All-Sports for youth sports; Scouts BSA Troop 53 and local Cub Scout packs; Girl Scouts via gsnnj.org.\n\nAdults 60+:\n- The Senior Center (11-05 Gardiner Rd) has no dues; four senior social clubs, bridge, mah jongg, a book group and daily lunch.\n\nTip: many groups announce events on the library calendar and the borough calendar - check them monthly.",
+   "sources": [
+    "https://bccls.libcal.com/calendar/fairlawn/?cid=10281",
+    "https://www.arrl.org/Groups/view/fairlawn-arc",
+    "https://fairlawn.toastmastersclubs.org/",
+    "https://flsunriserotary.org/",
+    "https://www.clubrunner.ca/fairlawn",
+    "https://www.fairlawn.org/rec-programs",
+    "https://www.oldlibrarytheatre.com/",
+    "https://www.fairlawn.org/art",
+    "http://www.fairlawnrussianclub.org/",
+    "https://www.fairlawn.org/senior-citizen"
+   ]
+  },
+  {
+   "id": "scouting-in-fair-lawn",
+   "title": "Scouting in Fair Lawn",
+   "category": "Community",
+   "body": "Scouting has deep roots in Fair Lawn - Troop 53 has served the town since 1931.\n\n- Scouts BSA Troop 53 (about ages 11-17): camping, merit badges, Eagle projects and service such as the Memorial Day parade and river cleanups. Contact troop53fl@gmail.com or the form at troop53.org.\n- Cub Scouts (K-5th grade): Pack 53 (Radburn/community-based) and Pack 613 (meets at Congregation Ahavat Achim) have operated in town; confirm current contacts with Troop 53 or the Scouting America unit finder at beascout.scouting.org.\n- Girl Scouts: Fair Lawn troops belong to Girl Scouts of Northern New Jersey - use the troop finder at gsnnj.org, or volunteer to start a troop.\n- Related youth options: Police Explorers (14-21), FLVAC cadets (16-18), the Rescue Youth Squad (16-17) and the RoboRaptors FIRST robotics outreach at the library.",
+   "sources": [
+    "https://troop53.org/",
+    "http://www.scoutlander.com/publicsite/unithome.aspx?UID=41443",
+    "https://jewishlink.news/scouts-of-bergen-county/",
+    "https://www.gsnnj.org/",
+    "https://www.fairlawn.org/volunteer"
+   ]
+  },
+  {
+   "id": "seniors-clubs",
+   "title": "Clubs and social life for seniors",
+   "category": "Community",
+   "body": "The Fair Lawn Senior Center (11-05 Gardiner Road, 201-796-1191, srcenter@fairlawn.org) is free to join for adults 60+ - just fill out an application.\n\n- Four senior social clubs, each with its own officers and trips: Friendship Club (2nd/4th Tuesdays), Livewires (1st/3rd Wednesdays), Friday Social Club (1st/3rd Fridays) and Happy Seniors (2nd/4th Fridays). You may belong to one club at a time.\n- Games: Bridge, Mah Jongg, Canasta, Scrabble.\n- Crafts: crochet and knitting circles, seasonal craft workshops.\n- Learning: monthly lectures, a book discussion group, health screenings and Medicare (SHIP) sessions.\n- Lunch: weekdays at noon, $1.25 suggested donation for 60+; reserve 24 hours ahead.\n- Fraternal groups such as the Knights of Pythias Cardozo Lodge also meet at the Senior Center.\n\nSchedules change monthly - pick up the calendar or see the monthly overview on the borough website.",
+   "sources": [
+    "https://www.fairlawn.org/senior-citizen",
+    "http://www.cardozospeaks.org/"
+   ]
+  }
+ ],
+ "feeds": [
+  {
+   "name": "Maurice M. Pine Library (Fair Lawn) events - iCal",
+   "url": "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10281",
+   "type": "ical",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "url": "https://bccls.libcal.com/rss.php?cid=10281&m=month",
+   "type": "rss",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Sunrise Rotary - club meetings",
+   "url": "https://calendar.google.com/calendar/ical/662e9a8801341b89b8f10cb48a1a910296701816f0ec981d71fe8ce91e9d8034%40group.calendar.google.com/public/basic.ics",
+   "type": "ical",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Sunrise Rotary - public events",
+   "url": "https://calendar.google.com/calendar/ical/29f413be56039aca691ceb4c6854bdbe069d406baf76a43b051e2d0b5271f337%40group.calendar.google.com/public/basic.ics",
+   "type": "ical",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Sunrise Rotary - community (non-club) events",
+   "url": "https://calendar.google.com/calendar/ical/cd9c2516f69dc62ae38041007ddf2f29c53a647b4ad9009130a1523c0280aff1%40group.calendar.google.com/public/basic.ics",
+   "type": "ical",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Fair Lawn Main Street news",
+   "url": "https://www.fairlawnmainstreet.com/feed/",
+   "type": "rss",
+   "category": "Clubs",
+   "verified": true
+  },
+  {
+   "name": "Old Library Theatre blog",
+   "url": "https://www.oldlibrarytheatre.com/blog-feed.xml",
+   "type": "rss",
+   "category": "Clubs",
+   "verified": true
+  }
+ ]
+}

@@ -55,3 +55,18 @@ main:focus { outline: none; }
 #map { flex: 1; }
 .leaflet-popup-content { font-size: .9rem; }
 .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+.card { position: relative; }
+.star { position: absolute; top: 8px; right: 8px; border: 0; background: none; font-size: 1.3rem; color: var(--muted); cursor: pointer; padding: 4px 8px; }
+.star.on { color: var(--accent); }
+.card h3 { padding-right: 32px; }
+.input { width: 100%; margin: 8px 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; font: inherit; background: var(--bg); color: var(--ink); }
+#street-hits .btn { margin: 4px 4px 0 0; }
+.alert { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 14%, var(--card)); }
+a.card.pickup { display: block; text-decoration: none; color: var(--ink); }
+.wx { display: flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.wx-now { display: flex; align-items: center; gap: 8px; }
+.wx-now span:first-child { font-size: 2rem; }
+.wx-now b { font-size: 1.8rem; }
+.wx-days { display: flex; gap: 14px; text-align: center; font-size: .9rem; }
+details.card summary { cursor: pointer; list-style-position: outside; }
+details.card p { margin: 8px 0 4px; }
