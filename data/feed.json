@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:21:15+00:00",
+ "updated": "2026-11-04T06:17:14+00:00",
  "news": [
   {
    "title": "Bergen250 Presents: Bergen County Revolutionary War Roundtable: Pillage, Plunder, and Arson in 1780 in Bergen County: Material Culture of the Inhabitants",
@@ -8,6 +8,14 @@
    "summary": "Location: First Floor Multipurpose Room, One Bergen County Plaza, Hackensack, NJ Time: 7:00pm Description: On March 23 and again on April 16 of 1780 British and Hessian forces invaded Bergen County. They wrecked damage, stole valuable goods, and burned and destroyed several…",
    "source": "Bergen County events (county government)",
    "category": "Nearby"
+  },
+  {
+   "title": "Holiday Hospital Cards (Gr K-6)",
+   "link": "https://bccls.libcal.com/event/17927153",
+   "date": "2026-12-04T00:00:00+00:00",
+   "summary": "Date: Friday, December 4, 2026 Time: 3:30pm - 4:30pm Location: Fair Lawn - Meeting Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Holiday Hospital Cards Friday, December 4 from 3:30-4:30pm Grades K-6 Registration Required. Fair Lawn Residents Only. Kids are invited…",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
   },
   {
    "title": "Baby Time (Under 2 w/adult)",
@@ -138,14 +146,6 @@
    "category": "Clubs"
   },
   {
-   "title": "CANCELLED Book Buddies",
-   "link": "https://bccls.libcal.com/event/17619590",
-   "date": "2026-11-25T00:00:00+00:00",
-   "summary": "Date: Wednesday, November 25, 2026 Time: 10:15am - 10:45am Location: Fair Lawn - Meeting Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Book Buddies Ages 2 & 3* with an adult partner 30 minutes of simple stories, songs, and fingerplays *3 year old's choose which…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
    "title": "2027 History Grant Program Applications Due",
    "link": "https://bergencountynj.gov/events/2027-history-grant-program-applications-due/",
    "date": "2026-11-20T00:00:00-05:00",
@@ -162,11 +162,35 @@
    "category": "Nearby"
   },
   {
+   "title": "*Updated Election Results: Fair Lawn Board of Education Unofficial Vote Tallies - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnVLd19jNjdEMVlHRWtkdF9ncDl6YXg4NGtJTXFlTnI4ZjhKLUV4NFdwWGRvc3FCTGh2OG5MTlJHdTlzLU9HVWtfQTlGZzc0MEdUNzF5Q0dHX0Zia1ZtRm8xRmtFTzRFZWF0dHRNbm1qVzRwZFU1VUFOY29aSEt3Slg0T0JGQ2dxNWo2dmkwR3V0bGZrcUVrN05BZDV0c2JrY2t4MUlyS0ExUERKVEV3d2poRUxlbnJCcVlFTHNBdGN5aTBoTDZJcmdUR29HNm5zdFlLdUx1Zk01YVM2VE9MZHJ6OGh1bFhIZzFfRFVqQkk?oc=5",
+   "date": "2026-11-04T05:29:22+00:00",
+   "summary": "*Updated Election Results: Fair Lawn Board of Education Unofficial Vote Tallies TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
+   "title": "ELECTION: Fair Lawn Board of Education Unofficial Results - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3NJMEZ1ZG9LcVdzUzBqeThSTlg4X21SOFpxelR2NmlvaU5wZmF6TEJsRHUzZjFNcUlVUU5abGdGR0RQMXVwSjB6dmREd0JIanNzVVFESTdIalJVZkxRLVd1Yl9FVUdseExkeUxFczBULTVBTDVUUUlJVUstVUlsMk5zTDVDemZYam1MM1ZzWU1xWndpSU1HVGxhV2xGSkZ2NzRmMHNzWkozVk5YaFhTYk1iRl9xSnRBNmx5UXc2dHdNSnBkVll1UnhHRjBnUUxMYWdVbw?oc=5",
+   "date": "2026-11-04T03:47:30+00:00",
+   "summary": "ELECTION: Fair Lawn Board of Education Unofficial Results TAPinto",
+   "source": "Google News: \"Fair Lawn\" NJ",
+   "category": "Local news"
+  },
+  {
+   "title": "Fair Lawn girls soccer wins on the road to beat West Orange in N1G4’s first round - NJ.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORDhMclh5bXNBMExUUWQ2SkdnMG1BbktycjBzcXhZWFZTaWxBemtPZ0NnRGdpZnV5UWs2WHQ1bnJsRlNIVTNXU21SYU83NVFHTFhLSVQwVEs4S1B4aXE2X1JrQ1Bqc2w4MEpSLUJHenFyaWl2SDlMWWltMWpDSWRTbDBHVjBHOUd0QUpySDM4ZTVEUHlyLXJicUhfNVAtVU41cVM5RmNpMDA4c0VTNEF5dlZZSWtvYmVZc1BDWHludTBmWnV1X1ZCcQ?oc=5",
+   "date": "2026-11-04T00:16:00+00:00",
+   "summary": "Fair Lawn girls soccer wins on the road to beat West Orange in N1G4’s first round NJ.com",
+   "source": "Google News: \"Fair Lawn\" NJ",
+   "category": "Local news"
+  },
+  {
    "title": "Pennsylvania woman fatally struck by vehicle on Route 4 in Fair Lawn - Bergen Record",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejZjelA3ZmhRdHRBd0ZHT21FSTBQRWt6b3kzMXBoWmtjRHBWX1JPMHBFUDlCMnFSVmhIaTIwOEhwSFgtMzNTcFVmMUluc0lpSUtsSmRHMkpLbzdMQ2VIcUxzRkhucHprQzc2TG5WdFdsSUZheHp1NWdycnpSZzVKZTdpUWluU0RFV19XN09JRU8wZVRodGdhRWR5bDl4ejY1OFEyT2I3X01FVFYtbEJmNjFkbHZFbFVnUy1uR3NoZ29fanc5Mk10NW5mRUdIX2c?oc=5",
    "date": "2026-11-03T17:33:00+00:00",
    "summary": "Pennsylvania woman fatally struck by vehicle on Route 4 in Fair Lawn Bergen Record",
-   "source": "Google News: NorthJersey.com / Bergen Record Fair Lawn (site filter)",
+   "source": "Google News: \"Fair Lawn\" NJ",
    "category": "Local news"
   },
   {
@@ -270,7 +294,7 @@
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnpwUHN2SFZncUJaOG5PMDh1Zjd0LUZIdW0zOERLMl9PcUN3Q2pGSDBYVzJXUk9acFF4M29JSEpSaVo1bkM2dmRBTi0yTzkxb3R5WmUwWXBxa1JCT2FiVFNCMThIRDVIY3hsdmdmMUNYSjdJcWZDalNFMEszQjRacDJBZ3ZPcVNqaGxsS2hDNEdsR1o3NktCRE9Ja2tOcG5TVjBJZWxXX1BTd3V5U2V4YnU5ckc5RnZt?oc=5",
    "date": "2026-11-02T19:35:36+00:00",
    "summary": "PHOTO RELEASE: “Josh on the Job” — Gottheimer Visits River Road Hot Bagels in Fair Lawn House.gov",
-   "source": "Google News: \"Fair Lawn\" NJ",
+   "source": "Google News: Fair Lawn past 7 days",
    "category": "Local news"
   },
   {
@@ -394,30 +418,6 @@
    "category": "Local news"
   },
   {
-   "title": "Cliffside Park boys soccer blanks Fair Lawn in Big North showdown - NJ.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDVKWnpfOFJ6alhBRXlkcC1iVm8yQkNJeWhMN2t0S2lmcDZxbmo0bjBmTEp4WUhPMUNvRzRXeFNkQXFwTk45bVFVbnQxNmxKYjY4c2Jqc1VKN2pLQ3pQejRkTm9hMURJUEl1Vl9RbnQtdmU2Qk5TUFJyWDA1ZWprT2ExdGdRNk1EdC1XWXRkYkMzbDljMlFmWmRvQjdyRGwtc3VyZ05vX1NRUWNOT0ZCSUF5eWc?oc=5",
-   "date": "2026-10-29T23:38:00+00:00",
-   "summary": "Cliffside Park boys soccer blanks Fair Lawn in Big North showdown NJ.com",
-   "source": "Google News: Fair Lawn past 7 days",
-   "category": "Local news"
-  },
-  {
-   "title": "Harold Mindess Obituary (2026) - Fair Lawn, NJ - Louis Suburban Chapel - Fair Lawn - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVnBKcXcwNWVKd19FMU5XbHBOUXN5WEJVLWJmYmY0bTBwbXE3MlJidXFKQU1MdUVzcHB3UkRIQV90TXhaYnVTMERaNmY1OUZiY1RpNEl3QjFHak1CcVlUdlYyZ2FtbmMtZ3JyT2NLUmp5VENEaWNNRXJxNGRwR2R4NFk0MA?oc=5",
-   "date": "2026-10-29T21:43:38+00:00",
-   "summary": "Harold Mindess Obituary (2026) - Fair Lawn, NJ - Louis Suburban Chapel - Fair Lawn Legacy | Obituary",
-   "source": "Google News: Fair Lawn past 7 days",
-   "category": "Local news"
-  },
-  {
-   "title": "Leonard I. \"Lenny\" Kessler Obituary (2026) - Delray Beach, FL - Louis Suburban Chapel - Fair Lawn - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUoydmc0N2JfWi1BWEc2SkliNkx1TkE2Z3NnUk9sOUdOdjRnTVo0LU52NmdTTTktSHVYWWpjT3RmaElPWjdWN3J0WTRhMmVNeTRES3B2WUMzVU15UWxvbzRWM0FMaVpzTDR4QjNXanZHRmV2MmNuWTRLZWdGTThEYzdmOGY?oc=5",
-   "date": "2026-10-29T21:43:38+00:00",
-   "summary": "Leonard I. \"Lenny\" Kessler Obituary (2026) - Delray Beach, FL - Louis Suburban Chapel - Fair Lawn Legacy | Obituary",
-   "source": "Google News: Fair Lawn past 7 days",
-   "category": "Local news"
-  },
-  {
    "title": "Fair Lawn General Election Polling Locations: Where To Vote - Patch",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTl4TFBXM1J3SHBhV2VvOF9DY2UxMkkydl9XRDdROUx1bm5kN0NSVzk5SDcySlEwVTJMWkZYeE1MaFMxSEt0bHBiQXV0N1lWV2tVVDc3N21mOFVaa2l0cGF6LTNvQ3JKOEF1cmxsc3V1RzZ1RDdSN1RVdGVxcnJYYVo3UE85NWZrdHNVdVhOZlE2cXhLTGV1eGgzVnkzWjVsU001UkhUMzfSAb4BQVVfeXFMUFZOdy1Wc3Z2N21LMC1rWEF6XzFkcmJRU0ROTld3Si1OWUgxY0VzbmpOc3FtXzdOSnI0MkRZQzlWTHFTTTZUY28zYkZXUzdFQ1FQS3hjSDhpYXhkdmZDQzMyZFBYVFRXbWpvNjRta1dIaVJVd2N2Q3hSNXJSXzFITHdiQjlNOE1EOV84VjhXcGdTZ1ZraVhnYWZGWHZlaGplNjdSMTQ2SUVXdWpOTjViX3lUMFRpM2tYZ3E4RnJMUQ?oc=5",
    "date": "2026-10-29T14:50:48+00:00",
@@ -451,19 +451,19 @@
   },
   {
    "title": "Fair Lawn Planning Board Approves Hindu Temple; Here's Status of Other Houses of Worship - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYUpaZjlMTGt6TXlwR2lLX0trU0haRUVvYlBuY3JncVdBZS1MQjRqWmZPVHhqTGI4MElHZzVtMGtQN1RkQl9sd2NCMTdvMzRVTXZ0S2pNZHV6ZGNmb182NlRoNmtSb2tmUFVLZHI5dE1DTHFWWGdQWEdsSmRmdE5WWVk5ZFpueDNQMEZFN21vTE9BenBRQ193WUV2RjNlYm40UXBNei1zTnRxZGlQeEctSmg1LXAzamhnOVhFNEtWWWN1RlJOVXU5Q1Y5LU5PdTdTSXhrY1V4RVM4cVpuU0ZwRnVtUURKcGxqa3EydnlNckpaYThqZFZxRU15NGF1U00?oc=5",
-   "date": "2026-10-28T18:25:19+00:00",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb25kYlUtX05ndHNRWUI1N0JrYlYtMHh1cWVEbWRWUUZrVGg0TGpHekhFTXRTcWlCSkFvX0R5ZEdabVQ5c2RwdnlMVWNDNmhXS242Um1hTkI0Z1IwNEplRjZiRmZxRm1VWjNORWdXalR6blA1eXpkajU4Tm5NT0Zua3VfOFJCV0xPTktXcnlUeDZ6YTdnb2xDMm80eUZ0bzkwTnJGc3AtTVZWZko5WGdsWjlSbmo0cTBOUXRmTGZkYzNXUHFzT25hRl9fS1hmQnkwb1dWbnFkV01aY21EdGFLZTdtUHNlaW0tczNuV2VCU21COWdPMjVvMm1ZNHhSMWdINWVXYy1kN2J4LWkxTml0N1hndzc?oc=5",
+   "date": "2026-10-28T18:25:57+00:00",
    "summary": "Fair Lawn Planning Board Approves Hindu Temple; Here's Status of Other Houses of Worship TAPinto",
-   "source": "Google News: \"Fair Lawn\" NJ",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
   {
-   "title": "Fair Lawn Council Meeting, October 27, 2026",
-   "link": "https://www.youtube.com/watch?v=HdKZLQt-xkI",
-   "date": "2026-10-28T12:57:28+00:00",
-   "summary": "",
-   "source": "Fair Lawn Borough YouTube (council meetings & events)",
-   "category": "Town news"
+   "title": "Fair Lawn Football Videos - MaxPreps",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNk4yM2FpUkNWMXZzU0h4U081Sk9LZUUxRC1ocWJVbDZmN1V1NDdNbTJqaC00Q2QwZ04xekhSdHFScldLY0M1bnBYRkNWR0t3UUNrd2xxUngwTm9yUEl6Y3JMU1NHb0xGanp3VU5LeFhQYUlzN0NYMkppMkUyNERmOVRhb18?oc=5",
+   "date": "2026-10-28T07:00:00+00:00",
+   "summary": "Fair Lawn Football Videos MaxPreps",
+   "source": "Google News: \"Fair Lawn\" NJ",
+   "category": "Local news"
   },
   {
    "title": "5th Annual Fair Lawn Small Business Scavenger Hunt Draws 1,315 Submissions - TAPinto",
@@ -514,6 +514,14 @@
    "category": "Local news"
   },
   {
+   "title": "Fair Lawn Halloween Costume Parade Set: What Families Should Know - Patch",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORFZtNmZUNGVTTzZNcHF5NF9ZRTJPMWNfVFNRVVBITC1FaXdCaEZ5YXhvNWkwMC1YVHZFN2NtbnlWNzJuMHozcDZ2cDZRUmdiWnU1SkQ1NmQ2Q0VvZ3RSQk41bGQ5YnNSWWpiVnpGdUJDQmFnMmxtOVNzbWFWdnlTNks3M2t2elBlQWxHenlVYUVQU3ByQmRxT2h5N1ZWNVZ4T3FOSXc3M0wtRzg5M3lUeUR4SWs?oc=5",
+   "date": "2026-10-22T07:00:00+00:00",
+   "summary": "Fair Lawn Halloween Costume Parade Set: What Families Should Know Patch",
+   "source": "Google News: Fair Lawn events & community",
+   "category": "Community"
+  },
+  {
    "title": "Fair Lawn pickleball club to stay open amid parent company bankruptcy - Bergen Record",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTC1uUGFvYWRxdko5ZzE2MGFtNjdmcFhQTW94Y0xzR1hJYzJuUTdxZjFEbW1GVEJJOW5DVmdKZlNpdmZESTVMT1ZsZGtoNDc4TWI3bmpTQTBKVHVWRnpWMjFEMl9kX2VBY1J1Y0NYVDFjYkhEMVB2b00yOXd1VGVTLUpURFk3NllpWUI4U01YQ3ZmSzJHTGFpdlhYNGg1NlJVOWJSTXVCc2pkVmpnN2tvSjFRTGY2elBsaUwyLThmX3RrVXM?oc=5",
    "date": "2026-10-21T09:42:00+00:00",
@@ -554,14 +562,6 @@
    "category": "Business"
   },
   {
-   "title": "Irving William \"Bill\" Graubard Obituary (2026) - Fair Lawn, NJ - Louis Suburban Chapel - Fair Lawn - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEl0empYT2xzYWozd2tZa2ktNzVzdFRQa2NGdXZPZVltVVU1MzQ4MXAtOVF5djZwTHRGaXo4Q25mSkF3cnd1YlBBZF9DTFF6dGJVRXQyYmJHeTI0UmNlX0FRVld1Umt2QTEwR1dHRGl1eDczOXdDTWhnZlMxVzY0NzdVSUQ?oc=5",
-   "date": "2026-10-19T07:00:00+00:00",
-   "summary": "Irving William \"Bill\" Graubard Obituary (2026) - Fair Lawn, NJ - Louis Suburban Chapel - Fair Lawn Legacy | Obituary",
-   "source": "Google News: Fair Lawn business (past year)",
-   "category": "Business"
-  },
-  {
    "title": "Elect Marcy T. Reiz for Fair Lawn Board of Education - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUEtUcEx1VkhpLVdLRFMxZmdIM3NMd0tZT0pQVkZ4NWZWYko3WnYtekFKVy1oOW4xVzM1OWJrcVhScUQwaklTMnc3ZWwtb3h0S2VpaUEtZGVJUFVXdEJBbmxFbGg1eFVtLWJEdW5Ob3Z2YkczNzg4TmJUeWozMUoydElxNF9lREZFRXpocndCRnowOUtvUUpNVXVna3ZkYk5tYWJGNXZLbzk4OGR3T0tzX0tfSk8tTzhBWERzRDBWejR1WThjbVlsNkZvR0lzUQ?oc=5",
    "date": "2026-10-16T07:00:00+00:00",
@@ -576,14 +576,6 @@
    "summary": "Fair Lawn ShopRite Site Gets New Life As Hindu Temple Plans Win Approval DailyVoice.com",
    "source": "Google News: Daily Voice Fair Lawn (site filter)",
    "category": "Local news"
-  },
-  {
-   "title": "Fair Lawn pickleball facility remains open as parent company The Picklr files for Chapter 11 bankruptcy - News12 | New Jersey",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdmdQUFhkUExBRHBGNTByVzREdEVNWWhXRlBvTXZHaHYyZ1pCcWg5b2dEVllOMU43bHVLcDM2YTJNUm42S0FMdnB4ZjhFTEdxN25hUWtmUXREU2RlMDdPbFd2Q3hOVzBMaUQ5cmZ0dGZQYjh0ZjVSbDE5Tm5aektoelRLVUlaMXc5Q2FuX3Uya0o4UVVYcmNNZkZ6cUFPbG53eHVoZDNqMU5NWU5Qcmh1THN5UEhCZVJBN1dFbG13eXM4QllnVHBGb0U0REtCN1BZWlVtTVJsb21Jc0FoS3ptV1MwMEk3Y25Xd3hiVWVPRzdfRnBRZmVxNk13?oc=5",
-   "date": "2026-10-13T07:00:00+00:00",
-   "summary": "Fair Lawn pickleball facility remains open as parent company The Picklr files for Chapter 11 bankruptcy News12 | New Jersey",
-   "source": "Google News: Fair Lawn business (past year)",
-   "category": "Business"
   },
   {
    "title": "Fair Lawn Main Street: Community Highlights and Business Updates",
@@ -630,7 +622,7 @@
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY292Zm1rQnptaWRLVlo3bUt4bVB5R1R0Y2huakdqOTZwODhuWWlQZW9FU0FxcVpiS3VZVEcwa0ZxTnRZQjhjSGxyZHRvMFNpYkNMNTFCN0w5QllRVzZpUzREVi1Eejc1ejBiaUpMTzhiZGlrSGVaUVNGTWpDd0xzZlh6M1VYMk5YX0dzT1lPRzh2dFRqZ0lCXzg4ODhkV2tyS2EtUm5TTHlTYkhSMFhkdWVPcDV4cC1LYXE2M3c1NWZuQmdQUXVsMnpESU9XSXFFLTJYYUwzZGJ0UzR3WWNJbjV4YkpMOUlNQjNDd0NqTWh0ano1OHNjSg?oc=5",
    "date": "2026-10-05T07:00:00+00:00",
    "summary": "Fair Lawn Board of Education Trustee Abruptly Resigns, Leaving Year Before Term Ends TAPinto",
-   "source": "Google News: \"Fair Lawn\" NJ",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
   {
@@ -674,20 +666,20 @@
    "category": "Community"
   },
   {
-   "title": "Fair Lawn Council Meeting, September 29, 2026",
-   "link": "https://www.youtube.com/watch?v=cow8b8DhNfU",
-   "date": "2026-09-30T14:50:33+00:00",
-   "summary": "",
-   "source": "Fair Lawn Borough YouTube (council meetings & events)",
-   "category": "Town news"
-  },
-  {
    "title": "Come see \"The Hello Girls\" !",
    "link": "https://www.oldlibrarytheatre.com/post/come-see-the-hello-girls",
    "date": "2026-09-26T18:58:51+00:00",
    "summary": "The Hello Girls presents the true story of America’s pioneering women soldiers—bilingual telephone operators who bravely served on the front lines during World War I. This fast-paced, actor-driven, and harmonious musical celebrates their courage, service, and unbreakable…",
    "source": "Old Library Theatre blog",
    "category": "Clubs"
+  },
+  {
+   "title": "No Leaves in Fair Lawn Streets: Here's Where to Get Your Free Bags - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHNjcjR6aXlWMU1wcDJ0a0VfYkFzUG5ITHI0OVFkWjZUb0JwVllfUnZzVUt4ekZ4SkRJSVNFTFZ0UUtQLV9jTjFOVTNzT1p1dDZmT2pyQVNObUdVRnFQay1RWGlUR2prcXJDNHR0MkFGeTg0eDVHYXhCc3FybjJJRmtrN0dfNy1keURTblZiOE4zRkFJRmFnd1ZYZUpPWkQ1TTJHa2R6Rl9JR3lVLWd6OEo0RFBKSFBrVi1rN0stYjBTaUk4akhqVmt1QTFiVVYxaTVEYUlORTFFMWs?oc=5",
+   "date": "2026-09-26T10:24:42+00:00",
+   "summary": "No Leaves in Fair Lawn Streets: Here's Where to Get Your Free Bags TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
   },
   {
    "title": "Weather Bulletin - September 25, 2026",
@@ -746,6 +738,22 @@
    "category": "Local news"
   },
   {
+   "title": "Andrea Pass: Breathing Fresh Ideas Into Fair Lawn's Business Pillar - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNUU0ZWt6cEdybTNkaGlyQ19DOUp2c3lRdjB1WkgyRkhGMDdYRXlxb2ZmZFFZeTUydzM3cmlDZy0zODVuc1hvckdYT1libGVwNmZvazJRMXJzc25JWDUyWldwal9GUDB3TnUzV0dlc1k1aW5BTzdlVzgyOGpsaEhQMGU3ZmtkbHVvTFVDLWwtSFZPQXpxUjh5aGY4c21PNlNBeUF1bzRMSVJ0RlRUR3hJalp3eE1zVl9WaVhlcjMyREJjWHVhUXVBblJuNXUtcnQ5WGREdlhkN0twdUl4aERyckg3SG01aUFLV1ljX0ZOQ0c?oc=5",
+   "date": "2026-09-21T07:00:00+00:00",
+   "summary": "Andrea Pass: Breathing Fresh Ideas Into Fair Lawn's Business Pillar TAPinto",
+   "source": "Google News: Fair Lawn events & community",
+   "category": "Community"
+  },
+  {
+   "title": "Weather Forecast and Conditions for Radburn, Fair Lawn, New Jersey - The Weather Channel | Weather.com - The Weather Channel",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aSl9pWXBXOTJUVVdQVXpwdDYxdlpmdnVCWU9Fb2ZOOEhtZ3huYzg5TFZQTGxkNC1kV2lybmkzMm5jc3JHMWRPekFlZXh2UTd3ZXAyaFBXSGY5cUI5M3o3YmdXaTgtM0JpZ2c?oc=5",
+   "date": "2026-09-20T06:31:44+00:00",
+   "summary": "Weather Forecast and Conditions for Radburn, Fair Lawn, New Jersey - The Weather Channel | Weather.com The Weather Channel",
+   "source": "Google News: Fair Lawn events & community",
+   "category": "Community"
+  },
+  {
    "title": "Taco Bell Drive-Thru Approved for River Road, Fair Lawn - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmVNdDZlemZqcURCdTdaUW5TT1FENUk1b2ZWZVlxTFJEd3NTOWhKeWd3Nk84UV9yZnNsMm9ZcFdLb1VVSDFLWWhpakxaS2ptdjVQRklkSjVOM2ZtU2FLNjZfVm9jcUdnd21PRC05bzZ6S2ZITTFuaU1yMkxnNUs0eVFaclRuZ1RtMmZnRHZWblFwaGMxSTFSVlBFRnROaUNzT01QOUNnM2pMaDQ3Y1FrWkpjRVplMUJLWnpDajNZUFAwWU5lMGtxbWJqNzB4cEdDZTBGbDVpRUFGMEl3SFZmZQ?oc=5",
    "date": "2026-09-18T09:29:19+00:00",
@@ -778,50 +786,26 @@
    "category": "Local news"
   },
   {
-   "title": "September 11th Remembrance Ceremony - 25th Anniversary",
-   "link": "https://www.youtube.com/watch?v=L31PR4kqElo",
-   "date": "2026-09-16T20:06:25+00:00",
-   "summary": "",
-   "source": "Fair Lawn Borough YouTube (council meetings & events)",
-   "category": "Town news"
+   "title": "Fair Lawn High School Athletic Hall of Fame Announces Class of 2026 - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcGRpM2N5dE1saVEybUxqNjUtS0J3UUhsdHJ1S0pYVVhqb2lUMXdjS1huNnRudmFpdDBINHpqV01DbGJZeFJFTzdUdDMxa2Q0NHJFM3VOcXRrZmFxNFpJZl9sNmd5TG84MVp2bmNGYzBCM05oTDFXYzRMVVdmX0JSbGNEZm8yNmFVdXMwZEE2V2lqQ0Y1WVlLZUFQS2cxY3dYM3RZVFc3Q1J2eVU1V0Flbm9oNXU2S2tnM1QyWjFnNk9JSmRCZDZjQVUxbERzOFJkRHE5NkdQRTdtT1poTmNF?oc=5",
+   "date": "2026-09-16T23:49:18+00:00",
+   "summary": "Fair Lawn High School Athletic Hall of Fame Announces Class of 2026 TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
+   "title": "Fair Lawn Institutes Mandatory Water Restrictions - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekxhZVlLVHZEUVdLTXlOa1RjNkg5OWx5b3lpenR3WWhFRW1oemNzSVo3aU1YNkxjc1BFU2lXVmEzbVphNlRvSVJQM1cxcGM1RU5JOXVSMjZuR0I3UHRfLVhWSUtHcURucVVDNkNGbjA3R0lLSmlPaHhneEVWcXJsRmVOajQwYV9JOGhoVElUbG80Ti1SdUZrNDBEOG1LdnVpdmFxX0NUTVFacEtJN2N1VlV2YUo0TGl1MmdrejVhS0MzSVUtcm9yZFlwVzM?oc=5",
+   "date": "2026-09-16T08:07:52+00:00",
+   "summary": "Fair Lawn Institutes Mandatory Water Restrictions TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
   },
   {
    "title": "Fair Lawn: Large Water Main Break at Berdan Avenue! - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWlTalhrZjJZdlJiVjVGNHlydmVoUjFQLS1JZXlndExCanFPYk9yamdoR2p2Y2VUdm5zNHFaQ0hrdi1XaVMxRy1TcTI3aXFnQTAydTQ2QU1QWW5VbnlnbDNHWXRhRUdpdFItT0RjSndDRlBlSWJYbDh6ZEJ4R1hhOFJCaVMzRkZYQnNBc002R2M5X1o3ZjZsZnQ3UjFfSGJ6S2FPeF9qd0lZSks2SWItUVc5S2JZbC1ZNU1ISnFOZGIyQW5qbi1mOFF0MFI?oc=5",
    "date": "2026-09-16T07:08:40+00:00",
    "summary": "Fair Lawn: Large Water Main Break at Berdan Avenue! TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "New Sunday Hours for Fair Lawn Recycling Center Begin This Fall - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjdGLVFhQVF0cHpjczNGV2dIUG5QUzNlMnFNQlBRMlJ0WnpaaTBoT3BoMFZSMXVWTnl0LUtVb2g2NlEycXdNQmpxV0pSMzRsdTRldnNEQjAwTk5lWld1Q21Vb1hIZ0EtMWhxR1Jod2dLQmFLWFllZzM2LUg4eWw1bExTWTk0TE1wSFNETVdBc1cyREZIWm8tc1dCRTYxSGNHa0V1VlQ5bEI5MzczZHdZMWFLeTlDcEJxYzh1UzBtV1hyRkFZTG5Sd0ZrekNGYS1IN2tvS0FfVWg?oc=5",
-   "date": "2026-09-16T07:00:00+00:00",
-   "summary": "New Sunday Hours for Fair Lawn Recycling Center Begin This Fall TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Fair Lawn & Glen Rock, NJ News - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lN1M2WkdUejFrdzBOV1FQcFNnT2szXzF6MlRteld3c0RWeFNYeVhKb1RiR0hvdXZIZHRKd250cXJxQkRSZGtEVlJWSWhPVmVoMFgtZXhPX1doTFQ3ODB5LWZwVW1sOE9lV2I0Q1dqby1Gd3FadzhSQw?oc=5",
-   "date": "2026-09-15T22:45:34+00:00",
-   "summary": "Fair Lawn & Glen Rock, NJ News TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Plaza Greene: The Beginning of a New Era at Plaza Road and Fair Lawn Avenue - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcm02cE1QNjFhVW45OU9ram16NklrTGtRaWkzMGwtQkVfQktnSEl3UVBkQTI1N0dWMFpzNE9uWWZQTGd4SEVJWnhwWW9uT2tzVl9lNERaT0wtZG84ekE0OTRHYUlJZTZLTG1nVWljd1Frc3dDUnpieXBzT2VTaVV5U2pRU3hXTjFncmVOcWhQSlU4aGliSURuSVFOZkFySWZmQnVPMUpzVjhOTmRXNTM1MEViUFo1ZUlWZWFQRDJPYVZhRWFJT2JwUjNETnlLcThaMDBuYVZnOWRwNGpET2lONHNfNTN6c29LZmRJbWI4TEZqTGl5ZG1ObW83dw?oc=5",
-   "date": "2026-09-15T20:53:54+00:00",
-   "summary": "Plaza Greene: The Beginning of a New Era at Plaza Road and Fair Lawn Avenue TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
-   "category": "Local news"
-  },
-  {
-   "title": "Sports Car Plows Through Fair Lawn Homeowner's Fence, Driver OK - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUEU5d0M5MWJJb09OeEQ4cjgyNnpTRE13blpFVU9DTHNxYmgyTVVRZUVPUi1BbXl5V1p6SS1pM0FtNlZ2Yk55Y0M2SEtlSk95NGpyOUc2dHR6UVpfZlJRTTh1YzNOTWItNC1hdDVGUl80S0F5ck92c0dMLW1tbUNvUXV4bV92UW5ZdnJjUGQ3UktqYTBQcmVUb3AxMDFMRVdlV1JzLWF0NXYxOTU1eWI3Y1NWYS1tdUtlQllTVnlvcXU1c0NJaTVDQ0tHejhRQ3Z6M0FtM1BYaFVoeHR4M3NaRWg0N0FhaFlQ?oc=5",
-   "date": "2026-09-15T20:37:38+00:00",
-   "summary": "Sports Car Plows Through Fair Lawn Homeowner's Fence, Driver OK TAPinto",
    "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
@@ -855,6 +839,14 @@
    "date": "2026-09-14T17:09:37+00:00",
    "summary": "Hey folks! My girlfriend was offered a great job at a start up in Manhattan that's too good to refuse so she is currently relocating up to the Fair Lawn, NJ area. Originally we're from Memphis, TN. I used to own a restaurant down here that was featured on DDD, for the last…",
    "source": "Reddit r/newjersey search: Fair Lawn",
+   "category": "Community"
+  },
+  {
+   "title": "Fair Lawn 9/11 Remembrance Ceremony Set For Friday - Patch",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3haRHM5SHZ3MmlXUkZpNEx5OWh0WTMwUFZwc01Wa0hab2Q3UWRPekNodXhOazd6aWhvRElGT2J2aHBUM1VmWWQxVmMxQmlTNjdjQ0I2RVB2WmRuQjdZTW9INWYzUWl0YnNTWWdRenJaUWF4cWZCdktNWW1SNHhRTkpMYUNCeUtZTzRoU21BNmZweWxOLV9QSmxCR1c?oc=5",
+   "date": "2026-09-08T07:00:00+00:00",
+   "summary": "Fair Lawn 9/11 Remembrance Ceremony Set For Friday Patch",
+   "source": "Google News: Fair Lawn events & community",
    "category": "Community"
   },
   {
@@ -963,146 +955,6 @@
   }
  ],
  "events": [
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "NO SCHOOL - ELECTION DAY",
-   "source": "Thomas Edison School (Preschool) - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Election Day- School Closed for Students- Staff Professional Development Day",
-   "source": "Fair Lawn Public Schools - District Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "No School for Students",
-   "source": "Memorial Middle School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Election Day - Schools Closed for Students Only - Professional Development Day (Staff Only - Full Day)",
-   "source": "John A. Forrest Elementary - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "Schools Closed for Students Professional Development Day for Staff",
-   "location": "",
-   "title": "Election Day",
-   "source": "Fair Lawn Public Schools - District Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Election Day - Schools Closed for Students Only",
-   "source": "Thomas Jefferson Middle School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Election Day - PD for Staff no Students",
-   "source": "Memorial Middle School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Professional Development Day for Staff",
-   "source": "Memorial Middle School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Professional Development Day",
-   "source": "Fair Lawn High School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03",
-   "summary": "",
-   "location": "",
-   "title": "Election Day - Schools Closed for Students",
-   "source": "Fair Lawn High School - Events",
-   "category": "Schools"
-  },
-  {
-   "start": "2026-11-03T00:00:00+00:00",
-   "title": "Celebrate Diwali (Gr K-6)",
-   "summary": "Monday, Nov 2 7:00-7:45pm Grades K-6 Registration Required. Fair Lawn Residents Only. Celebrate the festival of lights with games, a colorful craft, & other fun!",
-   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
-   "link": "https://bccls.libcal.com/event/17829283",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
-   "category": "Clubs"
-  },
-  {
-   "start": "2026-11-03T12:30:00+00:00",
-   "location": "Fair Lawn Community Center",
-   "title": "Committee Meetings",
-   "source": "Fair Lawn Sunrise Rotary - club meetings",
-   "category": "Clubs"
-  },
-  {
-   "start": "2026-11-03T15:15:00+00:00",
-   "title": "CANCELLED-Book Buddies (Ages 2-3 w/adult)",
-   "summary": "Book Buddies Ages 2 & 3* with an adult partner 30 minutes of simple stories, songs, and fingerplays *3 year old's choose which program based on maturity. One program per child. Fair Lawn Residents Only. Registration Required.",
-   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
-   "link": "https://bccls.libcal.com/event/17619557",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
-   "category": "Clubs"
-  },
-  {
-   "start": "2026-11-03T17:30:00",
-   "title": "4 Mile Run in Rutherford - meet at Rutherford Train Station",
-   "summary": "The North Jersey Road Runners This will be a 4 mile run or so through the streets of Rutherford. If you want a completely flat run, this run's not for you as there are gradual uphills and downhills throughout the run. You are strongly encouraged to wear reflective gear. We run…",
-   "link": "https://www.meetup.com/running-257/events/316983510/",
-   "source": "North Jersey Road Runners (Meetup)",
-   "category": "Nearby"
-  },
-  {
-   "start": "2026-11-03T19:00:00+00:00",
-   "title": "CANCELLED-Baby Time (Under 2 w/adult)",
-   "summary": "Baby Time Under 2 with an adult partner 15 minutes of circle story time, 30 minutes of open play One program per child. Fair Lawn Residents Only. Registration Required.",
-   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
-   "link": "https://bccls.libcal.com/event/17619540",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
-   "category": "Clubs"
-  },
-  {
-   "start": "2026-11-03T20:00:00+00:00",
-   "title": "CANCELLED: Brain Lab (Gr 4-8)",
-   "summary": "Tuesday, Nov 3 3:00-3:45pm Grades 4-8 Registration Required. Fair Lawn Residents Only Boost your brain by learning about the body’s central command center & how it affects your nerves!",
-   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
-   "link": "https://bccls.libcal.com/event/17829291",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
-   "category": "Clubs"
-  },
-  {
-   "start": "2026-11-03T21:00:00+00:00",
-   "title": "CANCELLED-Story Explorers (Ages 3-6)",
-   "summary": "Story Explorers Ages 3*-6 for independent listeners 30 minutes of advanced stories, rhymes & fingerplays. *3 year old's choose which program based on maturity. One program per child. Fair Lawn Residents Only. Registration Required.",
-   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
-   "link": "https://bccls.libcal.com/event/17619629",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
-   "category": "Clubs"
-  },
   {
    "start": "2026-11-04",
    "summary": "",
@@ -1576,6 +1428,24 @@
    "category": "Schools"
   },
   {
+   "start": "2026-11-10T19:00:00+00:00",
+   "title": "Baby Time (Under 2 w/adult)",
+   "summary": "Baby Time Under 2 with an adult partner 15 minutes of circle story time, 30 minutes of open play One program per child. Fair Lawn Residents Only. Registration Required.",
+   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
+   "link": "https://bccls.libcal.com/event/17619541",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
+   "category": "Clubs"
+  },
+  {
+   "start": "2026-11-10T21:00:00+00:00",
+   "title": "Story Explorers (Ages 3-6)",
+   "summary": "Story Explorers Ages 3*-6 for independent listeners 30 minutes of advanced stories, rhymes & fingerplays. *3 year old's choose which program based on maturity. One program per child. Fair Lawn Residents Only. Registration Required.",
+   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
+   "link": "https://bccls.libcal.com/event/17619630",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
+   "category": "Clubs"
+  },
+  {
    "start": "2026-11-11",
    "summary": "",
    "location": "",
@@ -1606,6 +1476,14 @@
    "title": "Career Connections Trip",
    "source": "Fair Lawn High School - Events",
    "category": "Schools"
+  },
+  {
+   "start": "2026-11-11",
+   "title": "CLOSED: Veterans Day",
+   "summary": "",
+   "link": "https://bccls.libcal.com/event/15451283",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
+   "category": "Clubs"
   },
   {
    "start": "2026-11-11T07:30:00",
@@ -1646,6 +1524,15 @@
    "title": "Apparel Sale Distribution",
    "source": "Fair Lawn High School - Events",
    "category": "Schools"
+  },
+  {
+   "start": "2026-11-11T15:15:00+00:00",
+   "title": "CANCELLED-Book Buddies (Ages 2-3 w/adult)",
+   "summary": "Book Buddies Ages 2 & 3* with an adult partner 30 minutes of simple stories, songs, and fingerplays *3 year old's choose which program based on maturity. One program per child. Fair Lawn Residents Only. Registration Required.",
+   "location": "Fair Lawn - Meeting Room, Fair Lawn's Maurice M. Pine Library",
+   "link": "https://bccls.libcal.com/event/17619588",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - iCal",
+   "category": "Clubs"
   },
   {
    "start": "2026-11-11T20:00:00",
@@ -1795,6 +1682,22 @@
    "summary": "",
    "location": "",
    "title": "Senior Class ID Holder Sale",
+   "source": "Fair Lawn High School - Events",
+   "category": "Schools"
+  },
+  {
+   "start": "2026-11-13T07:55:00",
+   "summary": "",
+   "location": "",
+   "title": "Veterans Meet & Greet Program",
+   "source": "Fair Lawn High School - Events",
+   "category": "Schools"
+  },
+  {
+   "start": "2026-11-13T08:00:00",
+   "summary": "",
+   "location": "",
+   "title": "Math League: AMC",
    "source": "Fair Lawn High School - Events",
    "category": "Schools"
   },
@@ -2181,6 +2084,22 @@
    "category": "Schools"
   },
   {
+   "start": "2026-11-26T17:30:00",
+   "title": "5K Run in Ridgewood - meet outside Sweet Kitchen",
+   "summary": "The North Jersey Road Runners This route is a 5K that goes through the streets of Ridgewood and Midland Park. We meet outside of Sweet Kitchen and then we'll run a route through the streets of Ridgewood. We meet outside of Sweet Kitchen just across from the big clock in…",
+   "link": "https://www.meetup.com/running-257/events/slhgbvyjcpbjc/",
+   "source": "North Jersey Road Runners (Meetup)",
+   "category": "Nearby"
+  },
+  {
+   "start": "2026-11-27",
+   "summary": "",
+   "location": "",
+   "title": "Spirit Day",
+   "source": "Lyncrest Elementary - Events",
+   "category": "Schools"
+  },
+  {
    "start": "2026-11-27",
    "summary": "Schools Closed",
    "location": "",
@@ -2282,6 +2201,22 @@
    "category": "Schools"
   },
   {
+   "start": "2026-12-11",
+   "summary": "",
+   "location": "",
+   "title": "Spirit Day",
+   "source": "Fair Lawn Public Schools - District Events",
+   "category": "Schools"
+  },
+  {
+   "start": "2026-12-11T18:00:00",
+   "summary": "",
+   "location": "",
+   "title": "Cutter Classic Pre-Season Showdown",
+   "source": "Fair Lawn Public Schools - District Events",
+   "category": "Schools"
+  },
+  {
    "start": "2026-12-14T15:00:00",
    "summary": "",
    "location": "",
@@ -2305,6 +2240,14 @@
    "category": "Clubs"
   },
   {
+   "start": "2026-12-16T09:15:00",
+   "summary": "",
+   "location": "",
+   "title": "Bridges Trip to Five Below",
+   "source": "Memorial Middle School - Events",
+   "category": "Schools"
+  },
+  {
    "start": "2026-12-17",
    "summary": "Kindergarten 9am 1st Grade 9:45am 2nd Grade 10:30am 3rd Grade 1:00pm 4th Grade 1:45pm",
    "location": "",
@@ -2313,11 +2256,27 @@
    "category": "Schools"
   },
   {
+   "start": "2026-12-17T19:30:00",
+   "summary": "",
+   "location": "",
+   "title": "Monthly BOE Meeting",
+   "source": "Memorial Middle School - Events",
+   "category": "Schools"
+  },
+  {
    "start": "2026-12-18",
    "summary": "Parents K-2 @ 9:15 a.m. Parents 3 & 4 @ 10:30 a.m.",
    "location": "",
    "title": "Radburn Holiday Show!",
    "source": "Radburn Elementary - Events",
+   "category": "Schools"
+  },
+  {
+   "start": "2026-12-21T15:00:00",
+   "summary": "",
+   "location": "",
+   "title": "Wellness",
+   "source": "Memorial Middle School - Events",
    "category": "Schools"
   },
   {
@@ -2612,5 +2571,11 @@
    "category": "Clubs"
   }
  ],
- "errors": []
+ "errors": [
+  {
+   "source": "Fair Lawn Borough YouTube (council meetings & events)",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfp8MHfB2C74mucJNPSO2MA",
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  }
+ ]
 }
