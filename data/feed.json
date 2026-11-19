@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-19T02:32:53+00:00",
+ "updated": "2026-11-19T11:36:30+00:00",
  "news": [
+  {
+   "title": "Robotics w/the RoboRaptors",
+   "link": "https://bccls.libcal.com/event/17678690",
+   "date": "2026-12-19T00:00:00+00:00",
+   "summary": "Date: Saturday, December 19, 2026 Time: 10:30am - 11:30am Presenter: RoboRaptors Location: Fair Lawn - Reference Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Come Roar with the Robo Raptors and learn what FIRST ROBOTICS is all about. We are going to share our…",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
+  },
+  {
+   "title": "Spanish Advanced",
+   "link": "https://bccls.libcal.com/event/17607492",
+   "date": "2026-12-19T00:00:00+00:00",
+   "summary": "Date: Saturday, December 19, 2026 Time: 12:00pm - 1:30pm Presenter: Socrates Location: Fair Lawn - Reference Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Join Socrates and learn to read, write, and speak Advanced spanish. All materials will be provided. For…",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
+  },
+  {
+   "title": "Adult Board Game Day",
+   "link": "https://bccls.libcal.com/event/17195919",
+   "date": "2026-12-19T00:00:00+00:00",
+   "summary": "Date: Saturday, December 19, 2026 Time: 1:30pm - 4:30pm Location: Fair Lawn - Level B Room Join us for an afternoon of board games and card games at the library! This program is for adults and older teens. We will have plenty of games here to play, but feel free to bring one of…",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
+  },
+  {
+   "title": "Spanish Beginner/Low Intermediate",
+   "link": "https://bccls.libcal.com/event/17607514",
+   "date": "2026-12-19T00:00:00+00:00",
+   "summary": "Date: Saturday, December 19, 2026 Time: 2:00pm - 3:30pm Presenter: Socrates Location: Fair Lawn - Reference Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Join Socrates and learn to read, write, and speak beginner/ low intermediate spanish. All materials will be…",
+   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
+   "category": "Clubs"
+  },
   {
    "title": "Baby Time (Under 2 w/adult)",
    "link": "https://bccls.libcal.com/event/17619523",
@@ -122,38 +154,6 @@
    "category": "Clubs"
   },
   {
-   "title": "Spanish Advanced",
-   "link": "https://bccls.libcal.com/event/17607491",
-   "date": "2026-12-12T00:00:00+00:00",
-   "summary": "Date: Saturday, December 12, 2026 Time: 12:00pm - 1:30pm Presenter: Socrates Location: Fair Lawn - Level B Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Join Socrates and learn to read, write, and speak Advanced spanish. All materials will be provided. For students…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
-   "title": "Spanish Beginner/Low Intermediate",
-   "link": "https://bccls.libcal.com/event/17607513",
-   "date": "2026-12-12T00:00:00+00:00",
-   "summary": "Date: Saturday, December 12, 2026 Time: 2:00pm - 3:30pm Presenter: Socrates Location: Fair Lawn - Level B Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Join Socrates and learn to read, write, and speak beginner/ low intermediate spanish. All materials will be…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
-   "title": "Winter Storycraft (Ages 2-5 w/adult)",
-   "link": "https://bccls.libcal.com/event/17932115",
-   "date": "2026-12-12T00:00:00+00:00",
-   "summary": "Date: Saturday, December 12, 2026 Time: 3:00pm - 3:30pm Location: Fair Lawn - Meeting Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Winter Storycraft Saturday, December 12 from 3:00-3:30pm Ages 2-5 w/Adult Fair Lawn Residents Only. Registration Required. Come in…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
-   "title": "Board Game Club (Gr 2-6)",
-   "link": "https://bccls.libcal.com/event/17927094",
-   "date": "2026-12-11T00:00:00+00:00",
-   "summary": "Date: Friday, December 11, 2026 Time: 3:30pm - 4:30pm Location: Fair Lawn - Meeting Room BCCLS Libraries: Fair Lawn's Maurice M. Pine Library Board Game Club Friday, December 18 from 3:30-4:30pm Grades 2-6 Registration Required. Fair Lawn Residents Only. Come play some low tech…",
-   "source": "Maurice M. Pine Library (Fair Lawn) events - RSS",
-   "category": "Clubs"
-  },
-  {
    "title": "Bergen250 Presents: Bergen County Revolutionary War Roundtable: Pillage, Plunder, and Arson in 1780 in Bergen County: Material Culture of the Inhabitants",
    "link": "https://bergencountynj.gov/events/bergen250-presents-bergen-county-revolutionary-war-roundtable-pillage-plunder-and-arson-in-1780-in-bergen-county-material-culture-of-the-inhabitants/",
    "date": "2026-12-09T19:00:00-05:00",
@@ -210,14 +210,6 @@
    "category": "Local news"
   },
   {
-   "title": "George Sarkis Arslanian Obituary (2026) - Fair Lawn, NJ - Hennessey Heights Funeral Home & Crem. Serv (a.k.a. Bergen Funeral Service) - Legacy | Obituary",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVJGVmdKYURDbFdhMUZReEt1MHh5V25ybjdaZ19YeGlES01ya051TEFfdHhsNnhVVDlGdzdIa2g3ZmlrTmdjYXJpaDFyX24taGxMazBnc0cwd1B6RUp2Y2FndmJIV3c5ZVNNZWkwaWl0VUZTUXZRdnhIc09iaFQ5RU9lMlVEZw?oc=5",
-   "date": "2026-11-17T18:54:14+00:00",
-   "summary": "George Sarkis Arslanian Obituary (2026) - Fair Lawn, NJ - Hennessey Heights Funeral Home & Crem. Serv (a.k.a. Bergen Funeral Service) Legacy | Obituary",
-   "source": "Google News: \"Fair Lawn\" NJ",
-   "category": "Local news"
-  },
-  {
    "title": "Laura Fishler Obituary (2026) - Fair Lawn, NJ - Louis Suburban Chapel - Fair Lawn - Legacy | Obituary",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3h0WDhEOU10enVLQU1XMW9nMjlkRUZ2NHdOV0prVkxRbEFKSlh2Rm5WSmNOX0VpRVJhTjFXdzlEc2YyZERGVXVkRW5rTkRBWG1GeU1YVUl2Q0JyNTYyaTZSX2h6QU5Ma0R0VUV6RzRqU1VCSUxhTHgtUllhcm84TzNB?oc=5",
    "date": "2026-11-17T18:54:14+00:00",
@@ -267,7 +259,7 @@
   },
   {
    "title": "Fair Lawn Police Holiday Toy Drive Returns: How To Donate - Patch",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRy1wT1BqTDlRVHY5WXVmNDhTa3haaEVjUnUyN0dLZlItNnZTNUhKTU5hVzZjTUVGdXJ4dmcwNTFHLTZaNXRzMHRFUm1wN01EMVdGWHY0d0hHQmRKUTdOeGhIV1hnLTRXV0VyRlRXcVBIX3J2Q0k3SlFtRHFxZ1FJM0I4Q3dna1F0c2hvaS1ybnFoLWxKTW1wZjhickVJZHdfVW5qOGFn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRy1wT1BqTDlRVHY5WXVmNDhTa3haaEVjUnUyN0dLZlItNnZTNUhKTU5hVzZjTUVGdXJ4dmcwNTFHLTZaNXRzMHRFUm1wN01EMVdGWHY0d0hHQmRKUTdOeGhIV1hnLTRXV0VyRlRXcVBIX3J2Q0k3SlFtRHFxZ1FJM0I4Q3dna1F0c2hvaS1ybnFoLWxKTW1wZjhickVJZHdfVW5qOGFn0gG7AUFVX3lxTE0zcmxweTVrYVI5amZXUW90TVRBVjQyNXhra2docDNxNS1KTmVDTTRyTG5hcWlSaUxvQWtqbXN5cGE3a2pNYzZjbEU1Z2h2ajU3RzhEZ0w2cnZpOVFFaDU4U0YxRFdfejFxZjlqYzNDcVE4Y0dvNU5MWnNDYTE5V0RuVlNvUTdmd1BfTHpIdnNjVm0xX0xvRVZwNlRHMktaN1dadHNNeDJrNWVjQk9iWmFQNlFYVU94a0NDTlU?oc=5",
    "date": "2026-11-16T16:17:40+00:00",
    "summary": "Fair Lawn Police Holiday Toy Drive Returns: How To Donate Patch",
    "source": "Google News: Fair Lawn past 7 days",
@@ -287,6 +279,14 @@
    "date": "2026-11-16T11:17:40-05:00",
    "summary": "Fair Lawn police and PBA Local 67 are collecting new toys, gift cards and monetary donations to help children in need.",
    "source": "Fair Lawn-Saddle Brook Patch",
+   "category": "Local news"
+  },
+  {
+   "title": "Potential lifesavers for opioid overdoses are coming to Fair Lawn - Bergen Record",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY0lWOVhtenBvcjFEUXpwNDdiaWFmRzg4bTdvUDJwUnRia3ZmSzJrcHJaVW5qWUx6WkdKWTg0a1NaM1d5UFcxR3BDVEdFM3dJVExYMjZMR3FqMWVfb1A1dDlTbEZRbGVlMHBKRk1YaGZ2OW5Xd3hvZzJmV1VRbkYzUkhNamVJZ0tjT3lzYTYzX1BQa1ZzZXhHTnJRY1dnQllhMWo3ak4tNWVIcUZEWnE3NVRUYWIxN3NUUzNwNUxTbUJ0REpNdVlsQ29BbE1HNElxd3dMV2xQSW9jLUszbU1WV3JxUGZDZDRrUk5oYS02dlQ4aUpBY09rQXoxd1NxbDZad0pFeUdBOVE?oc=5",
+   "date": "2026-11-16T10:46:00+00:00",
+   "summary": "Potential lifesavers for opioid overdoses are coming to Fair Lawn Bergen Record",
+   "source": "Google News: NorthJersey.com / Bergen Record Fair Lawn (site filter)",
    "category": "Local news"
   },
   {
@@ -318,7 +318,7 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1EwZ0h0VWE3UmI5d3RUSkF5OXVsWEdJMDFmSWJwWlQ1WjNvc2ZWbjRtakZncjFLSjd6VU96NHY4Tk0yaFhHMXlpdWE3bmFIaG5BR1R0dVZjZU9Jd29XaW9zRGFfMGQ5MGRDWlY4N3I0bDBnQXNnVGhDdUJJUVBSeXRtTDBUV2RSalFjOW00Q2R1TW1RMHBpa0lBVXBCTnRhZnMyY3VwaFRTdjVvdU9N0gHCAUFVX3lxTE1MbWtsaWF1NGJqd1R3QjJqOVJaYlFDOUpPS29PbmNRYWtadWpnV2FRa2lDdkhjY1EtZGJHVzRDbUJPZ2stQmJLUncyd1FSdlpweHBLZ3QzRG5DMFZTdzQ4TUxXYnl0N0dta19BMWNtaDIxODc2WE11aU1MLTlLeFVYOUtJOWtLdGhzZWZ0SEdadksxb3huVG91VWExcnViNDhRVDRjckhISEdMeTNkN1BtZWRXalRwNkdURDVZeHpjRC1n?oc=5",
    "date": "2026-11-13T15:11:04+00:00",
    "summary": "Person Found Dead In Passaic River In Fair Lawn Is Identified Patch",
-   "source": "Google News: Fair Lawn past 7 days",
+   "source": "Google News: \"Fair Lawn\" NJ",
    "category": "Local news"
   },
   {
@@ -358,7 +358,7 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0RIT3k3cTFFa3Zncm1SUzZvemJmaUx5OEE0OE9kQWtIclY5VnVpVVZSczYxWXJjUndUZG1vT21pQk5YTGVtVmZObUwyVHJPbE5xclRqc1l4bW1HZm5RTFdoSGlIY2xMeFd0S1FrREZyVkdTWE83NG5ia1Jhb01ySU13?oc=5",
    "date": "2026-11-12T21:24:49+00:00",
    "summary": "Jeffrey Mark Stein Obituary (2026) - Bloomfield, NJ - Louis Suburban Chapel - Fair Lawn Legacy | Obituary",
-   "source": "Google News: \"Fair Lawn\" NJ",
+   "source": "Google News: Fair Lawn past 7 days",
    "category": "Local news"
   },
   {
@@ -394,14 +394,6 @@
    "category": "Local news"
   },
   {
-   "title": "Body Recovered From Passaic River Near Home Of Missing Man In Fair Lawn - DailyVoice.com",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckFhLWNOcmNlUHZSbTU2UkFDc3ZjNmF6aWw0aERWbm1XUUlqZEpqX2pBR2dtbHpIUTVtMUZmaFFDbFhnWUJKaGpfUU40QlpqeXVnMGdNX2hQdFB0T2htaUpsSUxuQ2paWkF2VzlndjVqMFo2cE9pclQwWW5ZRGxzQTlxOUI?oc=5",
-   "date": "2026-11-09T22:35:00+00:00",
-   "summary": "Body Recovered From Passaic River Near Home Of Missing Man In Fair Lawn DailyVoice.com",
-   "source": "Google News: \"Fair Lawn\" NJ",
-   "category": "Local news"
-  },
-  {
    "title": "Body Pulled From Passaic River, Fair Lawn Family Notified - TAPinto",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd0tTbUdILWQ0NHdzN0x5QnItYTY2RWZiTWJzMTAzZGhocG5YOW5zT004cFZhOGpwZjNQRDRKV0lLc3ZtUHkyMEhIQVpfd3NMVU5MbUxKSzlwOG9rMVB6cFNvWHJ4VGlPUTA4YXpES1JMcFYxeHlxZ3h3bnk4dTJSLXh4UWtnNzJzRlE1YmhzSmxhMldhYWFQeXVrZmVObmxRenU1Vk1NX0ttc2JFMFFsOVRYajl0M2hPVVR3b0l5N1l2anJfRktMVE1NaTJ2NlhPX245czZtMzhZNkpDUzdKUQ?oc=5",
    "date": "2026-11-09T08:00:00+00:00",
@@ -410,11 +402,19 @@
    "category": "Local news"
   },
   {
-   "title": "Fair Lawn & Glen Rock, NJ, Government Section - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalBELV9iS2d0Wkw1QmQxRlZ3S1RSaUdmRlR2OXNzNEJ0Ry1vTm1lUy1laFA3X1hRQWJDZEhOd0EtYXI1M1U0VmFYVHA4cmg3LTd2akg2OUVldE12ZUNfekVCQ3JuVl9DbVphbGxZMUVXUlRHbUI2NXQ0ZGtqdnlmZVNleUVFRGdMS2c?oc=5",
-   "date": "2026-11-08T08:00:00+00:00",
-   "summary": "Fair Lawn & Glen Rock, NJ, Government Section TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "title": "Body recovered from Passaic River in Fair Lawn NJ, police say - Bergen Record",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjdkaGJCeGctb0c4WVhFVVA2Nm9zbWxpQzNBaVRPTENEQXFvcWZ2MXZzdThkMTVSSnB5aW9hS2tBT1EzckpkV3d3LWpReUs2ajM0cEU2QXN6S3pnUmtIVDhNOVlWWW1fX2xlZURhOV9XZ2xPT2kyaHRPNlZoeFVFTFVtbXNnNVJSbC1nOUM2cENSTkJPekVaa1RiTDZWM2tWX1NrUTdFblhtLTRSaTRGYzdybjQ4N04xeS1NX2czVFdyVVdyZnZZ?oc=5",
+   "date": "2026-11-09T08:00:00+00:00",
+   "summary": "Body recovered from Passaic River in Fair Lawn NJ, police say Bergen Record",
+   "source": "Google News: NorthJersey.com / Bergen Record Fair Lawn (site filter)",
+   "category": "Local news"
+  },
+  {
+   "title": "Body Recovered From Passaic River Near Home Of Missing Man In Fair Lawn - DailyVoice.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckFhLWNOcmNlUHZSbTU2UkFDc3ZjNmF6aWw0aERWbm1XUUlqZEpqX2pBR2dtbHpIUTVtMUZmaFFDbFhnWUJKaGpfUU40QlpqeXVnMGdNX2hQdFB0T2htaUpsSUxuQ2paWkF2VzlndjVqMFo2cE9pclQwWW5ZRGxzQTlxOUI?oc=5",
+   "date": "2026-11-09T08:00:00+00:00",
+   "summary": "Body Recovered From Passaic River Near Home Of Missing Man In Fair Lawn DailyVoice.com",
+   "source": "Google News: Daily Voice Fair Lawn (site filter)",
    "category": "Local news"
   },
   {
@@ -482,6 +482,14 @@
    "category": "Alerts"
   },
   {
+   "title": "*Updated Election Results: Fair Lawn Board of Education Unofficial Vote Tallies - TAPinto",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcnVLd19jNjdEMVlHRWtkdF9ncDl6YXg4NGtJTXFlTnI4ZjhKLUV4NFdwWGRvc3FCTGh2OG5MTlJHdTlzLU9HVWtfQTlGZzc0MEdUNzF5Q0dHX0Zia1ZtRm8xRmtFTzRFZWF0dHRNbm1qVzRwZFU1VUFOY29aSEt3Slg0T0JGQ2dxNWo2dmkwR3V0bGZrcUVrN05BZDV0c2JrY2t4MUlyS0ExUERKVEV3d2poRUxlbnJCcVlFTHNBdGN5aTBoTDZJcmdUR29HNm5zdFlLdUx1Zk01YVM2VE9MZHJ6OGh1bFhIZzFfRFVqQkk?oc=5",
+   "date": "2026-11-03T08:00:00+00:00",
+   "summary": "*Updated Election Results: Fair Lawn Board of Education Unofficial Vote Tallies TAPinto",
+   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
+   "category": "Local news"
+  },
+  {
    "title": "Woman seriously injured after being struck on Route 4 in Fair Lawn - Bergen Record",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObjZCZVlDcTdOTk1uWFlPRE1zeU1US2ZwZC1jajFURG1vbTBLVlZJdXRvYkNPMWxsbTFLanpuMUFzNy1ZN0xGTVFuLUxzaVAtZGdSajdydDRkTE4wSURlcDRsM3F4UC1WNUQ3YVJucnBCRk5SRXloVENoOXVqVk5jOGVYVVl4YTRlTXFGTUpKNWp3bmxGR2JUanpxMGhEcG9UMXVLajFRZU4xYzNQR283bnBMbkNwMThjMC1iWmJoenlqel9HNzlZcFFqSk9PaXN3TEJ2R0VhbTBTN0xaUmxQU0hDeHQ1ZnV3enJOcw?oc=5",
    "date": "2026-11-03T05:19:00+00:00",
@@ -527,14 +535,6 @@
    "date": "2026-10-29T07:00:00+00:00",
    "summary": "Search continues for Fair Lawn man missing since September Bergen Record",
    "source": "Google News: \"Fair Lawn\" NJ",
-   "category": "Local news"
-  },
-  {
-   "title": "Netflix Production Wraps Filming in Fair Lawn, Highlighting Town’s Growing Film Industry - TAPinto",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZ0kyTU1zMDhOU1ZScGVjZUdYeFVVcVZHT0VZTWx2dnpLeUFRZF8xM1ljdW9OMlRlX04wY0RVVFNXRTZ0X2lEeGJsUm9ocDV6ZkpmYktIMFdGekxmQWZMbFJ3UzhEeGUwR1JSdGF4VzNmUF94cm1DbVhpMFRtOExBQzRWYzdNYUItaVRKZVJLdXM4VTBoV0t3TnMzeU10R1dJTlFDbFRYNGJYNkRYTmlBRE5hTnhTZjRnZVBHNWlFWjBHMndBY3pQdEhIYmF6Z3QxX2gxeF9scW93MlVnU25qaDVYR2h1N1ZveDdjYmNuWUQ5WndUMWNMak5vazY5TUxZWmlTVXVnUENjdmdJZFdv?oc=5",
-   "date": "2026-10-29T07:00:00+00:00",
-   "summary": "Netflix Production Wraps Filming in Fair Lawn, Highlighting Town’s Growing Film Industry TAPinto",
-   "source": "Google News: TAPinto Fair Lawn/Glen Rock (site filter)",
    "category": "Local news"
   },
   {
@@ -664,6 +664,14 @@
    "summary": "Business grants, storefront improvements, film outreach, community partnerships, and district planning from Fair Lawn Main Street’s 2026 activities, with a look back at late-2025 milestones.",
    "source": "Fair Lawn Main Street news",
    "category": "Clubs"
+  },
+  {
+   "title": "Fair Lawn Theater Presents ‘The Hello Girls’ Musical: How To Get Tickets - Patch",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2FaYVRwblI4TkNKbkQ0T1VuWlJpUEdhLWpzcGJ5dF9ZNmpyVERseUxtbk9zb2FLNkU2OU5nN1EycURxdHYyVmpFRDJxaHNRZm9PcnpXZnBiaVU5b1l2QXRibHhiREJpZ19NU3Z5Z0VfbExkX0dqem81N3N6eGJSeTdrM0hPUGlodEJWOFBjVl9QYVN1OFMwbnVQNzRCUFVZSks2TUVuWFFuUTNPLWY1eDRB?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "summary": "Fair Lawn Theater Presents ‘The Hello Girls’ Musical: How To Get Tickets Patch",
+   "source": "Google News: Fair Lawn events & community",
+   "category": "Community"
   },
   {
    "title": "Former Fair Lawn Shoprite Site Approved For Hindu Temple - News12 | New Jersey",
